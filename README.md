@@ -1,69 +1,79 @@
 # Tesla Research Library
 
-A public, searchable archive of the Tesla material collected on this machine.
-The repository keeps readable text exports, source metadata, evidence tiers,
-rights notes, and a small local reading-room app in one place.
+A public, GitHub-native text archive of the Tesla material collected on this
+machine. The repository keeps readable text exports, page markers, source
+metadata, evidence tiers, rights notes, checksums, and lightweight maintenance
+scripts—without a website framework or dependency stack.
 
-## What is included
+Start with the [`library` guide](library/README.md) and the complete
+machine-readable [`source catalog`](library/catalog.json).
+
+> **Rights and accuracy notice:** `research-only`, `research-leads`, and
+> `personal-notes` contain material that has not been cleared for unrestricted
+> redistribution. Inclusion is not a public-domain or factual-accuracy
+> determination. Tier-D leads cannot support claims without stronger evidence.
+
+## Contents
 
 - 71 source records and 70 non-empty text exports;
 - 2 public-domain works;
 - 12 research-only books, papers, patent compilations, and web printouts;
-- 52 low-confidence research leads from locally saved YouTube transcripts and
-  archived web pages;
-- 5 personal-note files, including one empty placeholder preserved in the catalog;
-- page markers, checksums, and original filenames without machine-local paths;
-- one retained copy from each exact-duplicate group;
-- a searchable browser that builds its index from the tracked text archive.
+- 52 low-confidence research leads from locally saved transcripts and archived pages;
+- 5 personal-note files, including one intentionally preserved empty placeholder;
+- page markers, checksums, rights labels, and original filenames without machine paths;
+- one retained copy from each exact SHA-256 duplicate group;
+- extraction and integrity-check scripts requiring no npm packages.
 
-Start with [`library/README.md`](library/README.md) for the archive layout and
-[`library/catalog.json`](library/catalog.json) for the complete machine-readable
-inventory.
-
-> **Rights notice:** the `research-only`, `research-leads`, and `personal-notes`
-> directories include material that has not been cleared for unrestricted
-> redistribution. Inclusion in this public research archive is not a
-> public-domain or factual-accuracy determination.
-
-## Library layout
+## Layout
 
 ```text
 library/
   catalog.json        source, rights, extraction, and checksum metadata
   public-domain/      rights-cleared historical texts
   research-only/      study copies whose rights require review
-  research-leads/     transcripts and archived pages that merely point to claims
+  research-leads/     transcripts and archived pages that point to claims
   personal-notes/     locally collected notes and research leads
 research/
   catalog/            curated source map and evidence policy
-  derived/            ignored local ingest output with private paths
+  derived/            ignored local extraction output with private paths
 scripts/
-  ingest-source.mjs   extract a local PDF, EPUB, Markdown, or text file
+  ingest-source.mjs   extract and hash a PDF, EPUB, HTML, Markdown, or text file
   ingest-tesla-leads.mjs
-                      find Tesla references in a local transcript/web archive
+                      discover Tesla references in a local transcript archive
   export-github-library.mjs
-                      create path-safe text exports for the repository
-  build-research-index.mjs
-                      build the browser's local full-text index
+                      create the path-safe tracked text archive
+tests/
+  library.test.mjs    corpus and privacy integrity checks
 ```
 
-## Run the reading room
+## Read and search
 
-Node.js 22.13 or newer is required.
+GitHub renders and searches the tracked text directly. After cloning, use
+[`ripgrep`](https://github.com/BurntSushi/ripgrep) for fast local search:
 
 ```bash
-npm ci
-npm run dev
+rg -n -i 'magnifying transmitter' library/
+rg -l -i 'rotating magnetic field' library/
 ```
 
-The development and production builds regenerate `public/data/research-index.json`
-from `library/`. That generated index is ignored by Git because it duplicates
-the tracked text archive.
+Results retain markers such as `===== PAGE 0042 =====`, referring to the source
+PDF page sequence.
+
+## Validate the archive
+
+The tests use only Node.js built-ins:
+
+```bash
+node --test tests/library.test.mjs
+```
 
 ## Add another source
 
+PDF extraction requires `pdftotext` from Poppler; EPUB and HTML extraction uses
+Pandoc.
+
 ```bash
-npm run research:ingest -- \
+node scripts/ingest-source.mjs \
   --file "/path/to/source.pdf" \
   --id stable-kebab-case-id \
   --title "Source title" \
@@ -72,10 +82,9 @@ npm run research:ingest -- \
   --rights research-only \
   --visibility private
 
-npm run research:export
-npm run research:index
+node scripts/export-github-library.mjs
+node --test tests/library.test.mjs
 ```
 
-Review the generated catalog entry and rights label before committing. PDF
-scans without usable embedded text are marked `needs-ocr` rather than treated
-as complete.
+Review the rights label before publishing. Scans without usable embedded text
+are marked `needs-ocr` rather than treated as complete transcriptions.

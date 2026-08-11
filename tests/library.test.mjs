@@ -26,7 +26,7 @@ test("catalogs every collected source without machine-local paths", async () => 
   assert.doesNotMatch(catalogText, /\/Users\/|[A-Z]:\\Users\\/);
 });
 
-test("keeps one page-preserving text export for every catalog entry", async () => {
+test("keeps one page-preserving text record for every catalog entry", async () => {
   const catalog = await readJson("library/catalog.json");
 
   for (const source of catalog.sources) {
@@ -36,34 +36,25 @@ test("keeps one page-preserving text export for every catalog entry", async () =
     const pageMarkers = text.match(/^===== PAGE \d{4} =====$/gm) ?? [];
 
     assert.equal(pageMarkers.length, source.pages, source.source_id);
-    assert.equal(source.original.sha256.length, 64, source.source_id);
+    assert.match(source.original.sha256, /^[a-f0-9]{64}$/, source.source_id);
   }
 });
 
-test("builds a complete searchable index from the tracked archive", async () => {
-  const index = await readJson("public/data/research-index.json");
-  const indexedChunks = index.sources.reduce((sum, source) => sum + source.chunks, 0);
+test("preserves category and evidence separation", async () => {
+  const catalog = await readJson("library/catalog.json");
+  const publicDomain = catalog.sources.filter((source) => source.category === "public-domain");
+  const leads = catalog.sources.filter((source) => source.category === "research-leads");
 
-  assert.equal(index.sources.length, 71);
-  assert.equal(index.chunks.length, 3076);
-  assert.equal(indexedChunks, index.chunks.length);
-  assert.ok(index.chunks.some((chunk) => /magnifying transmitter/i.test(chunk.text)));
+  assert.equal(publicDomain.length, 2);
+  assert.ok(publicDomain.every((source) => source.evidence_tier === "A"));
+  assert.equal(leads.length, 52);
+  assert.ok(leads.every((source) => source.evidence_tier === "D"));
 });
 
-test("server-renders the Tesla reading room", async () => {
-  const workerUrl = new URL("../dist/server/index.js", import.meta.url);
-  workerUrl.searchParams.set("test", `${process.pid}-${Date.now()}`);
-  const { default: worker } = await import(workerUrl.href);
+test("retains directly searchable Tesla corpus text", async () => {
+  const inventions = await readFile(new URL("public-domain/tesla-my-inventions-1919.txt", libraryRoot), "utf8");
+  const martin = await readFile(new URL("public-domain/martin-inventions-researches-1894.txt", libraryRoot), "utf8");
 
-  const response = await worker.fetch(
-    new Request("http://localhost/", { headers: { accept: "text/html" } }),
-    { ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) } },
-    { waitUntil() {}, passThroughOnException() {} },
-  );
-  const html = await response.text();
-
-  assert.equal(response.status, 200);
-  assert.match(html, /Tesla Study — Personal Knowledge Base/);
-  assert.match(html, /Understand the work/);
-  assert.match(html, /Search your library/);
+  assert.match(inventions, /magnifying transmitter/i);
+  assert.match(martin, /rotating magnetic field/i);
 });
