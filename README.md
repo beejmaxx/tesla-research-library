@@ -1,6 +1,6 @@
 # Tesla Research Library
 
-A private, searchable archive of the Tesla material collected on this machine.
+A public, searchable archive of the Tesla material collected on this machine.
 The repository keeps readable text exports, source metadata, evidence tiers,
 rights notes, and a small local reading-room app in one place.
 
@@ -20,9 +20,10 @@ Start with [`library/README.md`](library/README.md) for the archive layout and
 [`library/catalog.json`](library/catalog.json) for the complete machine-readable
 inventory.
 
-> **Keep this repository private.** The `research-only` directory contains
-> extracted text from works that have not been cleared for public
-> redistribution. A private research copy is not a public-domain determination.
+> **Rights notice:** the `research-only`, `research-leads`, and `personal-notes`
+> directories include material that has not been cleared for unrestricted
+> redistribution. Inclusion in this public research archive is not a
+> public-domain or factual-accuracy determination.
 
 ## Library layout
 
@@ -30,7 +31,7 @@ inventory.
 library/
   catalog.json        source, rights, extraction, and checksum metadata
   public-domain/      rights-cleared historical texts
-  research-only/      private study copies; do not publish without review
+  research-only/      study copies whose rights require review
   research-leads/     transcripts and archived pages that merely point to claims
   personal-notes/     locally collected notes and research leads
 research/
@@ -41,7 +42,7 @@ scripts/
   ingest-tesla-leads.mjs
                       find Tesla references in a local transcript/web archive
   export-github-library.mjs
-                      create path-safe text exports for the private repository
+                      create path-safe text exports for the repository
   build-research-index.mjs
                       build the browser's local full-text index
 ```

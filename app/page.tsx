@@ -76,8 +76,8 @@ export default function Home() {
     <main className="study-shell">
       <header className="topbar">
         <a href="#top" className="brand"><span className="brand-dot" /> Tesla Study</a>
-        <div className="corpus-count">{data ? `${data.sources.length} sources · ${data.chunks.length.toLocaleString()} passages` : "Loading private library…"}</div>
-        <div className="local-badge"><span /> Local & private</div>
+        <div className="corpus-count">{data ? `${data.sources.length} sources · ${data.chunks.length.toLocaleString()} passages` : "Loading library…"}</div>
+        <div className="local-badge"><span /> Open archive</div>
       </header>
 
       <div className="workspace" id="top">

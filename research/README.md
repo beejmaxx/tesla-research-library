@@ -1,6 +1,6 @@
 # Tesla research corpus
 
-This directory is the private knowledge layer for the site. The browser should
+This directory is the knowledge layer for the site. The browser should
 make the material easier to comprehend: search across books, follow concepts,
 compare explanations, and return to the original passage when needed.
 

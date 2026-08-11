@@ -8,7 +8,7 @@ const mono = IBM_Plex_Mono({ variable: "--font-mono", subsets: ["latin"], weight
 
 export const metadata: Metadata = {
   title: "Tesla Study — Personal Knowledge Base",
-  description: "A private reading and comprehension workspace for the work of Nikola Tesla.",
+  description: "An open reading and comprehension workspace for the work of Nikola Tesla.",
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
 };
 

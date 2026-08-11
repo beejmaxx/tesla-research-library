@@ -115,7 +115,7 @@ const counts = Object.fromEntries(
 const catalog = {
   schema_version: 1,
   updated: seedCatalog.updated ?? new Date().toISOString().slice(0, 10),
-  repository_visibility: "private",
+  repository_visibility: "public",
   summary: {
     sources: sources.length,
     non_empty_texts: sources.filter((source) => source.extraction_status !== "empty").length,

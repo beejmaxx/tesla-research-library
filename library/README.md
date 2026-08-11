@@ -10,9 +10,9 @@ filename, size, and SHA-256 checksum, but never the original local path.
 | Directory | Contents | Publishing rule |
 |---|---|---|
 | `public-domain/` | Historical works marked public domain | May be suitable for a public edition after checking jurisdiction and source terms |
-| `research-only/` | Copyrighted, uncertain, or unverified material | Keep private unless permission or a rights review allows publication |
+| `research-only/` | Copyrighted, uncertain, or unverified material | Rights are not cleared; review before reuse or redistribution |
 | `research-leads/` | Saved YouTube transcripts and archived web pages that mention Tesla | Use only to find claims worth checking; do not treat as evidence |
-| `personal-notes/` | Personal notes and saved research leads | Keep private until quotations and third-party excerpts are reviewed |
+| `personal-notes/` | Personal notes and saved research leads | Public here, but quotations and third-party excerpts still require review |
 
 ## Evidence tiers
 

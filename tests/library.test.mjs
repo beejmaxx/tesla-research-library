@@ -13,7 +13,7 @@ test("catalogs every collected source without machine-local paths", async () => 
   const catalogText = await readFile(new URL("catalog.json", libraryRoot), "utf8");
   const catalog = JSON.parse(catalogText);
 
-  assert.equal(catalog.repository_visibility, "private");
+  assert.equal(catalog.repository_visibility, "public");
   assert.equal(catalog.summary.sources, 71);
   assert.equal(catalog.summary.non_empty_texts, 70);
   assert.equal(catalog.summary.needs_ocr, 2);
