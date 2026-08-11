@@ -1,5 +1,7 @@
 # Tesla Research Library
 
+[View the project showcase](https://beejmaxx.github.io/tesla-research-library/)
+
 ## Interactive model
 
 Open `index.html` in a browser to explore the first teaching model: Tesla's AC

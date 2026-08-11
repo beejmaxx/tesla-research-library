@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Tesla Research Library: a searchable, evidence-tiered text archive with interactive teaching models of Nikola Tesla's work.">
+  <meta name="theme-color" content="#10221f">
+  <title>Tesla Research Library</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <a class="identity" href="#top" aria-label="Tesla Research Library home">
+      <span class="monogram" aria-hidden="true">T</span>
+      <span><strong>Tesla Research Library</strong><small>Sources, evidence, working models</small></span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="#library">Library</a>
+      <a href="#motor">AC motor</a>
+      <a href="#method">Method</a>
+      <a href="#run">Run it</a>
+    </nav>
+    <a class="github-link" href="https://github.com/beejmaxx/tesla-research-library">View source ↗</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="kicker">A GITHUB-NATIVE RESEARCH PROJECT</p>
+        <h1>Study the sources.<br><em>See the ideas move.</em></h1>
+        <p class="intro">A searchable text archive of Nikola Tesla material, organized by evidence quality and rights status—paired with interactive models that make the underlying engineering easier to understand.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#motor">Explore the AC motor</a>
+          <a class="button secondary" href="https://github.com/beejmaxx/tesla-research-library/tree/main/library">Browse the library ↗</a>
+        </div>
+      </div>
+      <div class="field-mark" aria-label="Abstract representation of a rotating magnetic field">
+        <div class="field-ring ring-one"></div>
+        <div class="field-ring ring-two"></div>
+        <div class="field-core"><span></span></div>
+        <i class="field-dot dot-a"></i><i class="field-dot dot-b"></i><i class="field-dot dot-c"></i><i class="field-dot dot-d"></i>
+        <small>ROTATING FIELD / MODEL 01</small>
+      </div>
+    </section>
+
+    <section class="problem" id="library">
+      <div class="section-label">THE PROBLEM</div>
+      <div class="problem-copy">
+        <h2>Tesla research is easy to collect.<br>It is harder to trust.</h2>
+        <p>Primary documents, biographies, archived pages, transcripts, and personal notes are often mixed together. This project keeps them searchable while preserving the distinctions that matter: provenance, evidence tier, extraction quality, and publishing rights.</p>
+      </div>
+      <div class="archive-stats" aria-label="Current archive statistics">
+        <div><strong>71</strong><span>source records</span></div>
+        <div><strong>70</strong><span>non-empty text exports</span></div>
+        <div><strong>4</strong><span>evidence tiers</span></div>
+      </div>
+    </section>
+
+    <section class="features">
+      <article>
+        <span class="feature-number">01</span>
+        <h3>Search the text directly</h3>
+        <p>Readable UTF-8 exports retain page markers, making the collection easy to search with GitHub or <code>rg</code> without a database or proprietary reader.</p>
+      </article>
+      <article>
+        <span class="feature-number">02</span>
+        <h3>Know what supports a claim</h3>
+        <p>Sources are separated into primary evidence, strong scholarly context, secondary interpretation, and unverified research leads.</p>
+      </article>
+      <article>
+        <span class="feature-number">03</span>
+        <h3>Preserve rights boundaries</h3>
+        <p>Public-domain works stay distinct from research-only material, leads, and personal notes. Inclusion is never treated as publishing clearance.</p>
+      </article>
+      <article>
+        <span class="feature-number">04</span>
+        <h3>Turn sources into models</h3>
+        <p>The first browser-based model visualizes Tesla’s rotating magnetic field and the relationships among frequency, pole count, load, and slip.</p>
+      </article>
+    </section>
+
+    <section class="motor" id="motor">
+      <div class="motor-heading">
+        <div><p class="kicker">INTERACTIVE MODEL 01</p><h2>The AC induction motor</h2></div>
+        <p>Two alternating currents, offset in time and space, combine into a magnetic field that turns. A conducting rotor follows without an electrical connection to the supply.</p>
+      </div>
+      <div class="motor-lab">
+        <div class="motor-controls">
+          <div class="panel-title"><span>INPUTS</span><button id="reset" type="button">Reset</button></div>
+          <label>
+            <span><b>Supply frequency</b><output id="frequencyValue">50 Hz</output></span>
+            <input id="frequency" type="range" min="10" max="100" value="50">
+          </label>
+          <label>
+            <span><b>Pole pairs</b><output id="polesValue">1 pair</output></span>
+            <input id="poles" type="range" min="1" max="4" value="1">
+          </label>
+          <label>
+            <span><b>Mechanical load</b><output id="loadValue">35%</output></span>
+            <input id="load" type="range" min="0" max="100" value="35">
+          </label>
+          <button class="reverse" id="reverse" type="button" aria-pressed="false">↻ Reverse phases</button>
+          <div class="legend"><span><i class="orange"></i>Phase A</span><span><i class="blue"></i>Phase B</span><span><i class="yellow"></i>Resulting field</span></div>
+        </div>
+        <div class="motor-visual">
+          <div class="visual-top"><span>SIMPLIFIED TWO-PHASE VIEW</span><span id="phaseValue">phase = 0°</span></div>
+          <canvas id="motorCanvas" role="img" aria-label="Animated top view of an induction motor showing stator coils, rotor, and rotating magnetic field"></canvas>
+        </div>
+        <div class="motor-readout">
+          <span class="panel-title">WHAT THE ROTOR FEELS</span>
+          <div class="metric"><small>Field speed</small><strong id="fieldSpeed">3,000</strong><span>RPM</span></div>
+          <div class="metric"><small>Rotor speed</small><strong id="rotorSpeed">2,894</strong><span>RPM</span></div>
+          <div class="metric slip"><small>Slip</small><strong id="slip">3.5</strong><span>%</span></div>
+          <p id="motorNote">The field moves slightly faster than the rotor. That difference induces rotor current and creates torque.</p>
+          <div class="equation"><span>field speed</span><b>60 × frequency<br>────────────<br>pole pairs</b></div>
+        </div>
+      </div>
+      <p class="model-caveat"><strong>Teaching model:</strong> the core speed and slip relationships are preserved. Winding distribution, resistance, reactance, saturation, and mechanical losses are omitted.</p>
+    </section>
+
+    <section class="method" id="method">
+      <div class="section-label">HOW IT WORKS</div>
+      <div class="method-grid">
+        <div class="method-intro"><h2>From collected file<br>to citable research.</h2><p>The repository uses small Node.js scripts and plain files, keeping the archive inspectable and portable.</p></div>
+        <ol>
+          <li><span>01</span><div><h3>Ingest</h3><p>Extract text from PDF, EPUB, HTML, Markdown, or text sources and record a checksum.</p></div></li>
+          <li><span>02</span><div><h3>Classify</h3><p>Assign evidence tier, rights state, visibility, extraction status, and stable identifiers.</p></div></li>
+          <li><span>03</span><div><h3>Export</h3><p>Write path-safe text files and catalog metadata without leaking machine-local paths.</p></div></li>
+          <li><span>04</span><div><h3>Validate</h3><p>Run integrity tests for catalog coverage, category separation, searchable content, and privacy.</p></div></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="run" id="run">
+      <div class="run-copy">
+        <p class="kicker">RUN IT LOCALLY</p>
+        <h2>No framework.<br>No database.<br>No build step.</h2>
+        <p>Clone the repository, open the showcase or model in a browser, and use standard text tools to explore the archive. Node.js is required only for maintenance scripts and tests.</p>
+        <div class="run-links">
+          <a href="https://github.com/beejmaxx/tesla-research-library#read-and-search">Read the documentation ↗</a>
+          <a href="https://github.com/beejmaxx/tesla-research-library/blob/main/library/catalog.json">Open the source catalog ↗</a>
+        </div>
+      </div>
+      <div class="terminal" aria-label="Commands to clone, search, and test the repository">
+        <div class="terminal-bar"><i></i><i></i><i></i><span>terminal</span></div>
+        <pre><code><span>$</span> git clone git@github.com:beejmaxx/tesla-research-library.git
+<span>$</span> cd tesla-research-library
+
+<span># Search all tracked source text</span>
+<span>$</span> rg -n -i 'rotating magnetic field' library/
+
+<span># Validate the archive</span>
+<span>$</span> node --test tests/library.test.mjs
+
+<span># Preview this showcase</span>
+<span>$</span> python3 -m http.server 4173 -d site</code></pre>
+      </div>
+    </section>
+
+    <section class="status">
+      <div><p class="kicker">CURRENT STATUS</p><h2>Useful now,<br>honest about its gaps.</h2></div>
+      <div class="status-list">
+        <article><span class="status-mark current"></span><div><h3>Working archive</h3><p>Catalog, exports, ingestion scripts, integrity checks, and the first interactive teaching model are present.</p></div></article>
+        <article><span class="status-mark caution"></span><div><h3>Rights review still matters</h3><p>Research-only sources and third-party excerpts are not cleared for unrestricted redistribution.</p></div></article>
+        <article><span class="status-mark caution"></span><div><h3>Some extraction is incomplete</h3><p>Two patent/interview scans have little embedded text or require OCR; Tier-D leads cannot support claims on their own.</p></div></article>
+        <article><span class="status-mark future"></span><div><h3>Model series is beginning</h3><p>The AC motor is Model 01. Other areas of Tesla’s work do not yet have interactive representations.</p></div></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="identity"><span class="monogram" aria-hidden="true">T</span><span><strong>Tesla Research Library</strong><small>Evidence before mythology.</small></span></div>
+    <div><a href="https://github.com/beejmaxx/tesla-research-library">Repository ↗</a><a href="https://github.com/beejmaxx/tesla-research-library/blob/main/README.md">README ↗</a><a href="#top">Back to top ↑</a></div>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
