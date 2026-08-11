@@ -1,0 +1,15 @@
+===== PAGE 0001 =====
+
+The one in the photo is just a Tesla coil. These can be cones, or pipe-shaped, barrel-shaped, or flat pancakes. Today, the small musical tesla coils for $50 have a flat spiral coil, made from etched circuit-board.
+
+TESLA'S SECRET: cylindrical coils give 200,000 cycles per second, which is way too high. If you want to get below 30,000Hz, only a flat spiral will do it (since the wide copper strips act like fairly large capacitors.)
+
+Tesla drove his coils with an AC sine-wave generator, but it could only get up to about 60KHz at max. For all his other coils, he had to use spark-gaps and not sine-waves. So, Tesla used the high-frequency generator to drive these large "pancake coils," since all other coil-shapes had too-high resonance. (And, one of Tesla's central secrets involves coils that run at around 20KHz, nothing over 30KHz. Today, NOBODY builds 20KHz coils for CW sine-wave operation, no big ones like the one in that photo above. Jeff Behary came close, with small single-wire coils embedded in wax. I don't think those get down to 20KHz though. Need copper strips, not wire. Or in other words, we must duplicate Tesla's instructions exactly. As soon as we try to "improve" things, they stop behaving as Tesla described.
+
+- [permalink](https://www.reddit.com/r/NikolaTesla/comments/1bxiht2/nikola_tesla_wheel/kyg7bcz/)
+-
+- save
+-
+- [context](https://www.reddit.com/r/NikolaTesla/comments/1bxiht2/nikola_tesla_wheel/kyg7bcz/?context=3)
+- [full comments (13)](https://www.reddit.com/r/NikolaTesla/comments/1bxiht2/nikola_tesla_wheel/)
+- report

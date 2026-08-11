@@ -1,0 +1,1011 @@
+===== PAGE 0001 =====
+
+===== PAGE 0002 =====
+
+Adapted from the 5 th International Tesla Conference: "Tesla. III Millennium", October 15-19,1996, Belgrade, Yugoslavia.
+
+
+                                         NIKOLA TESLA
+
+
+                                                             AND
+
+
+    THE PLANETARY RADIO SIGNALS
+
+                                                                   By
+
+
+                                    Kenneth L. Corum* and James F. Corum, Ph.D.
+
+
+                                                  © 2003 by K.L. Corum and J.F. Corum
+
+
+"My ear barely caught signals coming in regular succession which could not have been produced on earth . . ."
+                                                                                                           Nikola Tesla, 1919
+
+
+    *
+         This brief paper is condensed from the 1996 technical report Nikola Tesla And The Electrical Signals Of Planetary Origin, by K.L.
+         Corum and J.F. Corum (81 pages). That document is available through PV Scientific, (http://www.arcsandsparks.com)
+
+===== PAGE 0003 =====
+
+TESLA SPEAKS . . .
+
+
+"We are getting messages from the clouds one hundred miles away, possibly many times that distance. Do not leak it
+to the reporters." 1                                                                            Nikola Tesla, 1899
+
+"My measurements and calculations have shown that it is perfectly practicable to produce on our globe, by the use of
+these principles, an electrical movement of such magnitude that, without the slightest doubt, its effect will be
+perceptible on some of our nearer planets, as Venus and Mars. Thus, from mere possibility, interplanetary
+communication has entered the stage of probability." 2                                             Nikola Tesla, 1900
+
+"Movements on instrument repeated many times. Concludes it to be a message from another planet." 3
+                                                                                      Newspaper Interview, 1901
+
+"I did not state that I had obtained a message from Mars, I only expressed my conviction that the disturbances that I
+obtained were of planetary origin." 4                                                              Nikola Tesla, 1901
+
+"The feeling is constantly growing on me that I had been the first to hear the greetings of one planet to another."5
+                                                                                                       Nikola Tesla, 1901
+
+"I refer to the strange electrical disturbances, the discovery which I announced six years ago. At that time I was only
+certain that they were of planetary origin. Now, after mature thought and study, I have come to the positive
+conclusion that they must emanate from Mars."6                                                        Nikola Tesla, 1907
+
+"To be sure, we have no absolute proof that Mars is inhabited. . . Personally, I base my faith on the feeble planetary
+electrical disturbances which I discovered in the summer of 1899, and which, according to my investigations, could not
+have originated from the sun, the moon, or Venus. Further study since has satisfied me they must have emanated from
+Mars."7                                                                                              Nikola Tesla, 1909
+
+"During my experiments there [Colorado Springs, 1899], Mars was at a relatively small distance from us and, in that
+dry and rarefied air, Venus appeared so large and bright that it might have been mistaken for one of those military
+signaling lights. . . I came to the conclusion that [Mars] was sufficient to exert a noticeable influence on a delicate
+receiver of the kind I was perfecting. . . my ear barely caught signals coming in regular succession which could not have
+been produced on earth, caused by any solar or lunar action or by the influence of Venus, and the possibility that
+they might have come from Mars flashed upon my mind."8                                                 Nikola Tesla, 1919
+
+"The arrangement of my receiving apparatus and the characterof the disturbances recorded precluded the possibility of
+their being of terrestrial origin, and I also eliminated the influence of the sun, moon and Venus. As I announced, the
+signals consisted in a regular repetition of numbers, and subsequent study convinced me that they must have emanated
+from Mars, this planet having been just then close to the earth."9                                   Nikola Tesla, 1921
+
+"Twenty-two years ago, while experimenting in Colorado with a wireless power plant, I obtained extraordinary
+experimental evidence of the existence of life on Mars. I had perfected a wireless receiver of extraordinary sensitiveness,
+far beyond anything known, and I caught signals which I interpreted as meaning 1 -- 2 -- 3 -- 4. I believe the Martians
+used numbers for communication because numbers are universal."10                                         Nikola Tesla, 1922
+
+"In 1899, while experimenting with a wireless receiver of extraordinary sensitivity, I detected faint signals from Mars,
+our brother planet. I could not interpret the signals, but they seemed to suggest a numerical code, one - two - three -
+four."11                                                                                                Nikola Tesla, 1935
+
+[Fig. 1. Mars]
+
+===== PAGE 0004 =====
+
+===== PAGE 0005 =====
+
+To the
+
+                                             American Red Cross
+
+                                                                                                      New York City.
+
+
+           The retrospect is glorious, the prospect inspiring: Much might be said of both. But
+
+           one idea dominates my mind. This - my best, my dearest - is for your noble cause.
+
+                      I have observed electrical actions, which have appeared inexplicable. Faint
+
+           and uncertain though they were, they have given me a deep conviction and
+
+           foreknowledge that ere long all human beings on this globe, as one, will turn their
+
+           eyes to the firmament above, with feelings of love and reverence, thrilled by the glad
+
+           news: "Brethren! We have a message from another world, unknown and remote. It
+
+           reads: one ... two ... three ..."
+
+
+           Christmas 1900*
+
+                                                                                                      Nikola Tesla
+
+
+     *
+       The date would appear to be Orthodox Christmas, January 7, 1900. Tesla died on this very night, exactly 43 years later. This is also the
+date of the last entry made in the Colorado Springs notes.
+
+===== PAGE 0006 =====
+
+1
+
+Prefatory Statement by the Authors:
+The puzzling disclosures made by Nikola Tesla concerning the reception of extraterrestrial signals in 1899 have been a vexing dilemma and source of embarrassment
+to even the most ardent of Tesla's supporters in the scientific community. It is with some degree of trepidation that we even approach this subject. Initially, we were
+almost embarrassed to address such a controversial topic for fear of being misunderstood by our professional colleagues, or perhaps even causing damage to Tesla's
+reputation. However, we believe that the investigation reported on below will resolve specific technical objections to Tesla's assertions, and will lend strong support
+to the scientific credibility of Tesla's profound contributions to science and engineering. This paper is a brief summary of an 81 page engineering report from 1996
+documenting the detailed analysis. As we approach the next Martian encounter (Mars will be only 34.6 million miles away on August 27, 2003 - the closest since 1719)
+our thoughts again turn to the faint radio emissions detected by Tesla in 1899.
+
+
+  NIKOLA TESLA AND THE PLANETARY RADIO SIGNALS
+                                                        by K.L. Corum and J.F. Corum, Ph.D.
+                       "Even these star-gazers stonisht are... and curse their lying bookes." Edmund Spenser, Faerie Queene, Bk. 7, Canto7
+
+                        § 1.0 Introduction.                                             suggestion of number and order that they were not traceable to
+     Surrounded by a cloud of sensationalism, the controversial                         any cause then known to me. I was familiar, of course, with such
+question of cosmic radio signals has probably spawned the                               electrical disturbances as are produced by the sun,* Aurora
+greatest test of Tesla's credibility among professional scientists.                     Borealis and earth currents,17 and I was sure as I could be of any
+                                                                                        fact that these variations were due to none of these causes ... It
+In spite of the fact that Lord Kelvin, himself, stood with his old                      was sometime afterward when the thought flashed upon my mind
+friend and proclaimed that he was in complete agreement with                            that the disturbances I had observed might be due to an
+Tesla on this matter,12,13 the issue of "the Martian signals" is still                  intelligent control. Although I could not decipher their meaning,
+exploited by misguided cynics to ridicule Nikola Tesla today.                           it was impossible for me to think of them as having been entirely
+Tragically, many of Tesla's severest critics are woefully unaware                       accidental. The feeling is constantly growing on me that I had
+of his professional credentials, activities, and stature in the                         been the first to hear the greeting of one planet to another. A
+scientific and industrial communities of his day.14                                     purpose was behind these electrical signals; and it was with this
+     We believe that there is a sound explanation for the incident.                     conviction that I announced to the Red Cross Society [see
+Conducting both an experimental and a theoretical analysis, we                          above], when it asked me to identify one of the great possible
+                                                                                        achievements of the next hundred years, that it would probably
+discussed Tesla's 1899 receivers in considerable detail in a                            be the confirmation and interpretation of this planetary challenge
+paper presented at the 1994 Colorado Springs Symposium,15 and                           to us. Since my return to New York more urgent work has
+we believe that both the operation and limitations of his                               consumed all my attention; but I never cease to think of those
+Colorado Springs receivers are now well understood. Unlike his                          experiences and of the observations made in Colorado. I am
+Extra Coil resonator (which operated with an output of 12-18                            constantly endeavoring to improve and perfect my apparatus, and
+MV in the region of 88 kHz to 100 kHz [Fig.2]), the RF                                  just as soon as practicable I shall again take up my investigations
+detectors functioned primarily in the 8 kHz to 22 kHz range.                            at the point where I have been forced to lay it down for a time ...
+Initially, one might suppose that no extraterrestrial signals could                     Absolute certitude as to the receipt and interchange of messages
+                                                                                        would be reached as soon as we could respond with the number
+ever be detected in this spectral regime because the ionosphere
+                                                                                        'four,' say, in reply to the signal 'one, two, three.'"
+is opaque at these frequencies. Analytically and experimentally,
+this is demonstrably not the case. Under the appropriate                             To the informed mind of the early 20th century, however, the
+conditions there does indeed exist an ionospheric window in the                      existence of a Kennelly-Heaviside layer precluded the
+lower VLF regime, and surprising results have been obtained                          possibility of radio astronomy and extraterrestrial radio
+with receivers reconstructed as described by Tesla in 1899.                          communication. In his classic 1919 paper, G.N. Watson
+                                                                                     observed,18
+                     § 2. Some History.                                                 "A consequence of [the existence of an ionospheric shell
+    Before we launch into a technical discussion of the "Martian                        surrounding the Earth] places grave obstacles in the way of
+signals", we would first like to recall Tesla's actual published                        communications with Mars or Venus, if the desirability of
+reports of the summer night that he made the initial observations                       communications with those planets should ever arise."
+of what may be asserted as the original pioneering achievement
+in radio astronomy. He described the discovery as follows:16                         While it is understood that certain high frequency propagation
+    ". . . Even now, at times, I can vividly recall the incident, and                windows exist through the ionospheric envelop, it is still
+    see my apparatus as though it were actually before me. My                        commonly thought, even today, that the transparency of the
+    first observations positively terrified me, as there was present
+    in them something mysterious, not to say supernatural, and I
+    was alone in my laboratory at night ... [Fig. 3] The changes                       *
+                                                                                         The sunspot cycle was a minimum in 1901, and the Zurich sunspot
+    I noted were taking place periodically, and with such a clear                    number was 10, or less, from 1898 to 1902. [ See Fig. 4.2.]
+
+===== PAGE 0007 =====
+
+===== PAGE 0008 =====
+
+Fig. 3 Alone in my laboratory at night...
+
+===== PAGE 0009 =====
+
+2
+
+ionosphere is negligible at Tesla's frequencies of observation.
+[See Fig. 4.1] This misconception is not unequivocally correct.                                                                     (2)
+While it is possible that what Tesla heard was attributable to
+natural VLF phenomena, in this paper we will explore the                Further, one defines the normalized transverse and longitudinal
+possibility that the signals were extraterrestrial. In particular, we   gyrofrequencies
+will explore the possibility that the radio signals heard by Tesla
+were actually of planetary origin.
+
+       § 3. Transparency and Ionospheric Windows.                                                                                     (3)
+    The radio exploration of the universe has been conducted
+primarily at frequencies from 6 MHz to 30 GHz. At lower
+frequencies, the ionosphere becomes dramatically opaque. At             where > is the angle between the direction of the wave
+shorter wavelengths, the atmosphere selectively absorbs                 propagation and the magnetic field. Consequently BL is the
+radiation in the millimeter, infrared and ultraviolet regions but       component of B along the direction of wave propagation, and
+possesses a remarkable window in the optical region that                BT is the component of B transverse to the direction of the wave.
+permits us to visibly look out into space and behold, as Milton         The complex index of refraction for a magnetically biased
+has so eloquently expressed, "this fair moon and these the gems         plasma is easily expressed as
+of Heaven, her starry train".*
+    A variety of techniques have been examined in an effort to
+combat the problems of radio transmission through plasmas                                                                             (4)
+below the plasma frequency. One of the most interesting
+methods is to employ a small static magnetic field to open a            This is the famous Appleton-Hartree equation for a magnetically
+'spectral window' to permit wave propagation. Hodara has                biased magneto-ionic medium.20,21 When the wave propagates
+noted that,19                                                           parallel to the magnetic field the index of refraction will be real,
+    "The results are not new, as they stem from the classical
+    Appleton-Hartree formula . . . [There exists] a window below
+                                                                        and therefore wave propagation will be possible for
+    the gyro frequency when a right-handed (RH) circularly              frequencies below the plasma frequency for the right-handed
+    polarized wave propagates in the direction of Bo (longitudinal      polarized wave (which corresponds to the - sign) in the
+    field). This mode of propagation is of interest since the           longitudinal case. The Appleton-Hartree equation for the index
+    location of the window is not dependent on the plasma               of refraction permits the calculation of ionospheric transparency
+    resonant frequency. The window's location is determined             in the magnetically biased case. The complex propagation
+    solely by the strength of the static magnetic field independent     factor is related to the complex index of refraction as
+    of the electron density . . ."
+                                                                                                                                      (5)
+These results led us to ponder the possibility that the Earth's
+magnetic field might open a radio astronomy window well                 and the propagation attenuation varies as e-"R . Since " varies
+below the ionospheric plasma frequency (fp - 3 Mhz).                    with the electron density profile, the total absorption along a
+                                                                        propagation path may be expressed in dB as
+    § 4. The Influence of a Superposed Magnetic Field.
+    Because of the presence of the Earth's magnetic field, the
+                                                                                                                                      (6)
+velocity of charged particles will not be parallel to the electric
+field vector of the incident wave, but will exhibit cyclotron
+oscillations about the B vector at a "gyrofrequency" given by           This permits one to calculate and plot the ionospheric
+                                                                        transparency. [See Fig. 5.4] The result specifically exhibits an
+                                                                 (1)    Extraordinary wave VLF window for the kilometric
+                                                                        wavelengths at which NASA now asserts that Jupiter and
+                                                                        Saturn radiate sporadic signals toward the Earth. These are also
+The peak value of the Earth's magnetic induction is about
+                                                                        the very frequencies to which Nikola Tesla's Colorado Springs
+0.5×10-4 Tesla so, typically, the Earth's gyrofrequency is taken
+                                                                        receivers were tuned.
+to be on the order of f g = 1.4 MHz, which is somewhat below
+the 3 MHz plasma frequency of the ionosphere. It is common
+                                                                                            § 5. Project LOFTI.
+practice to define the following parameters relating to plasma
+                                                                           The presence of a magnetic field, such as that of the Earth's,
+frequency, gyrofrequency, and collision frequency:
+                                                                        will create a "window" for some band of frequencies below the
+                                                                        plasma frequency. Fillipowsky and Muehldorf have noted that
+                                                                        the idea of a terrestrial magnetically biased VLF window
+    *
+        Milton, "Paradise Lost," Book IV, line 648.                     occurred to Navy scientists at NRL (the US Naval Research
+
+===== PAGE 0010 =====
+
+Fig. 4
+
+===== PAGE 0011 =====
+
+Fig. 5.4
+
+===== PAGE 0012 =====
+
+3
+
+Laboratory), and experimental measurements were actually               indicates that 50% of the time the magnetic field intensity of the
+conducted at a frequency of 18 kHz, where VLF transmitting             VLF wave is reduced less than 13 dB at night and less than 38
+station NBA in the Panama Canal Zone served as a convenient            dB by day because of passage through the ionosphere. The
+RF source. A receiver and translator were mounted on a low             corresponding figures for 10% and 90% of the time are 4 dB and
+                                                                       29 dB at night, and 33 dB and 45 dB by day. . . Satellite
+orbiting satellite, which orbited just above the ionosphere, and
+                                                                       communication using VLF radio waves is feasible and affords
+the transparency of the ionosphere was measured during the             some interesting possibilities for future applications."
+time of a solar sunspot minimum. The experiment has been
+described as follows:22                                                                     § 6. Tesla's Receivers.
+   "Earth's magnetic field and collisions make it possible to use
+                                                                        No progress is to be made in resolving the "Martian"
+   VLF for satellite communications. An experiment conducted
+   to test the feasibility of this concept showed good penetration
+                                                                     controversy without first possessing an understanding of the
+   of the ionosphere at 18 kHz.                                      mode of operation of Tesla's receivers. Space does not permit
+       In order to evaluate the attenuation, the Appleton-Hartree    an adequate discussion of Tesla's receiver architecture in this
+   formula must be evaluated for longitudinal propagation.           brief review. As part of a 1990's study of Tesla's 1899 lightning
+   Under condition that N > 109 electrons/m3, <c < 106 collisions    observations,25 we performed a fairly extensive investigation of
+   per second, and fp = 1 MHz, the attenuation for 18 kHz may be     Tesla's Colorado Springs receivers,26 and the reader is invited to
+   [calculated]. For the experiment an exact evaluation of the       turn to the latter for complete details. Tesla's receiver employed
+   Appleton-Hartree equation was used. From this, the least          a coherer stressed to breakdown (avalanche), not by DC but
+   possible cumulative attenuation for the ionosphere at 18 kHz
+                                                                     rather by locally generated RF injected into the detector stage,
+   was computed. The cumulative attenuation is a function of
+   altitude. For 18 kHz the least cumulative attenuation at night    for greater sensitivity. In the correspondence following
+   is constant above 200 km and totals about 2 dB; during the        Armstrong's 1917 regeneration paper, Carl Ort27 provided
+   daytime it is 28 dB above 200 km.                                 further insight, pointing out that he and his colleagues found that
+      The experiment was implemented by launching the LOFTI -        coherers could be made "very sensitive" by local oscillator RF
+   I satellite. The launch took place at Cape Canaveral on           injection.28,29 (This is not the superheterodyne principle.30)
+   February 21, 1961. . . An 18 kHz signal was transmitted to the    However, according to Ort's remarks the reason for the great
+   LOFTI satellite and the satellite receiver output was             gain was never understood until Armstrong's landmark
+   telemetered on a 136 MHz carrier back to Earth-based stations.    regeneration investigation.31
+        The results of this experiment reveal that a considerable      "Mr. Armstrong's experiments have shed new light on these
+   portion of the VLF energy penetrates into the ionosphere.           phenomena and have indicated that the amplification obtained
+   Most of the loss occurs at low altitudes (below 100 km). . .        with a rectifying detector depends on the energy of the local
+   Evaluation of the measurements showed that, for the magnetic        oscillations which are applied to the detector, and that while the
+   field component, the night-attenuation [at 18 kHz] is less than     energy received is not magnified at all, the sensitiveness of the
+   13 dB and the day-attenuation is less than 38 dB, 50% of the        detector is increased. This increase is independent of the
+   time."                                                              frequency of oscillation of the local source."
+
+In spite of the fact that the details of the LOFTI (LOw              Ort continued his comments with a personal experience, that
+Frequency Trans-Ionospheric) experiments are well                    occurred in Austria in December of 1912, in which a remarkable
+documented, this information about the VLF ionospheric               gain was obtained from a simple detector.
+window is not common knowledge among radio astronomers,                "I investigated the phenomenon, applying sustained oscillations
+even today. Using conventional models for the concentration of         directly to the detector and found that the amplification was due
+electrons in the night and day ionosphere, from 50 km out to           to the increase of sensitiveness of the detector. Every...
+1000 km, and for the electron collision frequency profile, the         rectifying detector showed this characteristic. I found that the
+cumulative attenuation was calculated at 18 kHz and plotted by         amplification could be obtained with any frequency not audible
+NRL and is reproduced here as Figure 6.3.23                            to the human ear. The limit of amplification was determined by
+   "[This figure] shows the cumulative least possible attenuation      the maximum impressed voltage of sustained RF at which the
+   of an 18 kHz signal traversing the ionosphere radially outward      detector burned out. I was able to obtain amplifications of about
+   from the Earth. . . It appears that most of the absorption loss     2000." [66 dB]
+   attributable to the ionosphere is accumulated in passing
+   through the D region between 60 and 130 km altitude and that      Again, we recognize Tesla's pioneering research and priority in
+   there is little further attenuation with further increase in      this remarkable development of sensitive RF detection. Tesla
+   altitude. The calculated total attenuation caused by              took Branley's existing high impedance coherer element (with
+   absorption in the model ionosphere in its mid-day state is less   sensitivities on the order of 10 volts) and placed them at the high
+   than 30 dB (about 27 dB). . . The corresponding least             impedance end (the top) of his tuned resonators, which had
+   possible loss in passing through the model night ionosphere
+                                                                     voltage magnifications proportional to Q, and in so doing he
+   is about 2 dB."
+                                                                     increased the voltage sensitivity of the detector by a factor on
+This is a rather astonishing result. The experimentally measured
+                                                                     the order of 100 (i.e., 40 dB). (It also gave the detector
+values by the Navy were as follows: 24
+   "The signal intensity data so far reduced to statistical form     selectivity, which was something new.) He then injected a local
+
+===== PAGE 0013 =====
+
+Figure 6.
+
+===== PAGE 0014 =====
+
+4
+
+oscillator RF voltage across the coherer (by tightly link coupling      Recall that in his 1610 book, Message from the Stars
+the local oscillator to the resonator) for the purpose of bringing   (Sidereus Nuncius), Galileo (1564-1642) reported his discovery
+the coherer's operating point near avalanche, to further increase    that Jupiter has 4 moons revolving about it, which he named Io,
+the sensitivity another 66 dB. Tesla discovered a technique by       Europa, Gannymede, and Callisto. (No more Jovian moons
+which the nonlinear resistance of a coherer (as a function of        were discovered for another 282 years!) John Milton (1608-
+injected locally generated RF) could be triggered and exploited      1674) met Galileo in Florence in 1637 and refers to the Tuscan
+by an exterior pulse signal. The receiver is not an envelope         astronomer and his "optic tube" at least three times in Paradise
+detector!! Having a weak signal initiate the process and using       Lost. There is a striking 1711 painting by the artist Donato
+the resulting (voltage controlled) resistance decrease to            Creti (1671-1749), which integrates a lavish pastoral landscape
+regeneratively "ratchet up" the Local Oscillator RF, which           with the excitement of the new astronomy. It shows
+further decreased the coherer resistance (repeating over and         astronomers observing Jupiter in the evening sky, but Jupiter
+over) so that ultimately the relay would be triggered, gave Tesla    and its four moons are portrayed (magnified and inverted) as
+an overall improvement of 106 dB in sensitivity over                 they would be seen through a Galilean telescope!33 [Fig. 9]
+contemporary (1899) receiver technology - and an audio                   § 7.1 Early Observations of Jupiter's HF Radiation.
+"Beep" each time the receiver is pulsed by an RF transient              The radiation, which originally was thought to come from
+signal in the passband of its grounded helical resonator stage:      localized regions on Jupiter and now seems to be associated
+the earphone response is a triggered tone at the coupled             with the planet's magnetic field configuration and the angular
+oscillator beat frequency. This response is not heard with a         position of its satellite Io [Fig. 10], almost always has a duration
+conventional receiver because envelope and synchronous               of 2 hours or less and a period of variable activity that may last
+demodulators do not give a triggered tone. They replicate the        for several days. Describing the early reception of the
+envelope of the RF pulses. Where Tesla's receivers give              decametric Jupiter signals at 27 MHz in the landmark special
+"Beeps", modern communications receiver respond with clicks          issue of the Proceedings of the IRE devoted to radio astronomy,
+and static.                                                          Dr. Kraus of the Ohio State Radio Observatory has written,34
+    Why have Tesla's receivers not enjoyed popularity in the           "The Jupiter signals are characterized by their impulsive or
+engineering community? Why didn't Tesla continue his receiver          pulse-like nature, in many respects appearing similar to static
+research? Although extremely sensitive as RF indicators,               from a terrestrial thunderstorm. . . The clicks may be of only a
+Tesla's regenerative coherer detectors were not appropriate for        few milliseconds duration and may be single or multiple. The
+                                                                       multiple clicks are usually double with an occasional triplet.
+envelope detection such as was required by the subsequent
+                                                                       The spacing between these multiple clicks is of the order of one-
+evolution of AM broadcasting and wireless communications.              fourth second or less."
+For this reason, the development of his receiver technology did
+not progress much beyond his early patents. Again, even by           Professor Kraus' initial 1956 observations were actually
+today's commercial standards, Tesla's receivers were more than       performed at wavelengths of 10 to 15 meters using relatively
+adequate to detect the presence of RF signals in the 30 - 300 µV     modest conventional wire antennas, and his receiver consisted
+range. (Nothing this sensitive appeared until the advent of          of an RF preamp ahead of a standard communications receiver.
+Armstrong's superregenerative detectors, which work right down       The existence of these doublet and triplet events puzzled Kraus,
+to the thermal noise floor.) What set Tesla's limit is the           and he even went so far as to hypothesize that,35
+terrestrial atmospheric noise field, not receiver sensitivity.         " . . . the second and third pulses are echoes of the first. The
+    While it is true that lightning and atmospherics peak in this      triple pulse with approximately 0.3 second spacing is particularly
+region, and Tesla certainly tracked electrical storms with his         significant in this connection since each succeeding pulse not
+receivers (and, therefore, knew the distinction between                only becomes smaller in amplitude, but more spread out in time."
+atmospherics and the signals in question), one asks, "What
+might have been the physical origin of the sequential signals that   We mention these multiple-impulse events because they are the
+gave the appearance of conveying intelligence at these               very kind of signals which would initiate a 400 Hz "Beep-Beep-
+kilometric wavelengths?"                                             Beep" tone sequence in the earphones of Tesla's triggered
+                                                                     receivers. The Reader may turn to the Appendix, which gives
+ § 7. Decametric and Kilometric Radiation from Jupiter.              an overview of the Jupiter-Io system and how Jovian storm
+     Today it is known that both Saturn [Fig. 7] and Jupiter         forecasts are presently performed.
+[Fig. 8] behave as powerful electromagnetic sources,                             § 7.2. Cosmic Kilometric Radiation.
+transmitting average powers of 1 GW and 10 GW, respectively.            The Jovian kilometric flux density reaching the Earth has
+The discovery of decametric radiation from Jupiter was first         been estimated to be on the order of 107 Jy, i.e. 10-19
+announced in 1955 by Burke and Franklin32 at 22 MHz where            watts/m2/Hz.36 The VLF radiation was observed by Voyager 1
+the ionosphere is readily transparent at night and for a             to be narrowband, physically centered near 200E CML III, and
+substantial portion of the day. Actually, most shortwave             often came in individual bursts of less than 6 seconds duration
+listeners and amateur radio operators have heard the Jovian          (which was the shortest duration that the VLF receivers on
+signals without grasping what they are hearing.                      Voyager 1 could measure). These would certainly be
+
+===== PAGE 0015 =====
+
+===== PAGE 0016 =====
+
+Fig. 8 Jupiter, son of Saturn, vanquisher of the Titans, father of gods and men, whose weapon
+was thunder. [Jupiter, Io, Europa (right), and Callisto (lower middle).]
+
+===== PAGE 0017 =====
+
+===== PAGE 0018 =====
+
+===== PAGE 0019 =====
+
+5
+
+consistent with Tesla's observations. It has been suggested that      elevation of 10,245 feet at a distance of 6.67 miles from the
+the Jovian kilometric radio source is probably a localized region     laboratory. This would give Tesla's laboratory site a western
+of the high density plasma torus encircling Jupiter near the orbit    visual horizon at an elevation angle of 6.78 E. [See Fig. 11(15).]
+of Io.37                                                              Noting this visual western horizon, Mars drops below the
+     While others have suggested that Tesla's observations might      western mountains at 9:05 PM local standard time. [See
+somehow be linked to Jovian radiation, it has always been a           Figure 12(16).] Is there any correlation of Mars' set time with
+mystery to us how such fields generated at 22 MHz (and                the cessation of radio signals from Jupiter? [See Fig. 13(17).]
+detected in 1955 with modern communication receivers) could               There is a dramatic double-event correlation on this night.
+ever be related to fields at the frequencies that Tesla used (5 to    An Io-A event is predicted to occur between 02:56 - 03:55
+20 kHz), or how these VLF fields could ever have penetrated           GMT July 22, 1899 (7:56 to 8:55 PM July 21, 1899 local
+the ionosphere. However, it is now known that Jupiter and             standard time). That is, the Jovian Io-A signals are predicted to
+Saturn radiate RCP waves in the kilometric range, as well as in       cease about 10 minutes prior to Mars' disappearance below the
+the decametric range discovered in the 1950's. That is, these         visual horizon in the western sky. Furthermore, there is a Non-
+planets appear to be sources of kilometric radiation at the very      Io event predicted to occur between 02:47 - 0:4:12 GMT (7:47
+frequencies where Tesla's receivers were the most sensitive,          to 9:12 PM July 21, 1899 local standard time). This Jovian
+and where a VLF ionospheric radio astronomy window                    event is predicted to cease 7 minutes after Mars sets.
+exists during a solar minimum.                                        (Interestingly, the criteria employed in "Radio Jupiter 2.0"
+           § 8. Astronomical Predictions for 1899.                    software package predicts that both the Io-A and the non-Io-A
+     Software predictions don't have to be run forward in time        events cease at exactly 9:00 PM local standard time, i.e. 5
+only. They can be used to predict the past. Using The                 minutes prior to the disappearance of Mars below the western
+American Ephemeris and Nautical Almanac38 for 1899, several           horizon.) Again, to an alert observer, it would not appear
+software packages for predicting Jovian radio storms, and             unreasonable to associate the radio signals with the planet Mars,
+conventional desktop planetarium software, we have examined           which was just disappearing below the western visual horizon at
+the correlation of Jovian emissions and the night-time skies as       the very time that the radio signals ceased. This event would
+observed from Colorado Springs during the summer of 1899.             seem to strongly correlate with Tesla's description of his
+     1899-1901 was a time of solar minimum and not only was           discovery of cosmic radio waves. Two days later, Tesla's diary
+the MUF considerably reduced, but the ionospheric                     gives a fairly thorough documentation of the construction and
+transparency for RCP kilometric waves was about as good as it         performance of his coherers.
+gets. Tesla reported that he started his atmospheric storm                We believe that there is a remarkable correlation of Martian
+electrical observations in mid-June of 1899 (when both Mars           set times with the predicted cessation of radio signals from
+and Jupiter set late at night), so our search for correlated Jovian   Jupiter. (With some imagination, it might even have been
+storms begins in mid-June. By December of 1899, both Jupiter          construed that Mars was broadcasting to cities on the longitude
+and Mars set late in the afternoon. We have selected five             of Colorado Springs, where Tesla's transmitting station was
+possible events occurring over the summer of 1899 that might          located!) To an alert observer, it would not have appeared
+lead an observer to conclude that Mars was intermittently             unreasonable to associate the radio signals with the planet Mars.
+transmitting signals to the Earth and, because we are constrained          § 8.2. Jovian Radiation Events Predicted for 1899.
+by publication room, we will comment on only one evening in               From our analyses, we conclude that there were at least five
+July. What we looked for was an answer to the question, "Is           occasions that could possibly fit Tesla's description of his
+there any correlation of the cessation of the Jovian signals with     detection of extraterrestrial radiation. (These are summarized
+the disappearance of Mars below the horizon?" (This would             in Table I below.) And, all of these would clearly point to the
+give the appearance of radio signals from Mars.)                      planet Mars as a probable source. What we infer is the apparent
+             § 8.1. The Io Events of July 22, 1899.                   concurrence and cessation of Jovian radiation pulses with the
+     There is an interesting coincidence between the termination      position of Mars as it set on the horizon. At the time of the first
+of several predicted Jovian events and the disappearance of           five examples Mercury, Venus and the Sun were below the
+Mars on the western horizon on the night of July 21, 1899. The        horizon, so they could readily be eliminated as the source of the
+ephemeris gives the Martian set time as 05:45 GMT July 22,            sequential pulses (as Tesla noted). This would leave Mars,
+1899 (9:44 PM on July 21, 1899 local standard time) at an             Jupiter and Saturn as possible sources. The cessation of
+azimuth of almost 270E exactly. Such a time would appear to           reception as Mars passed below the horizon, with Jupiter and
+meet Tesla's remark that he heard the signals when "alone in my       Saturn still in the sky, would appear to eliminate those major
+laboratory at night" and "in the summer of 1899". The Martian         planets, again suggesting that Mars was the probable source.
+set time is given for an unobstructed sky. Mars would actually        Since the signals were not correlated with the weather, which
+disappear earlier than 9:44 PM because of the high mountains          produced an entirely different type of signal in Tesla's receivers
+to the west of Colorado Springs. Tesla's laboratory (at the           (see our discussion of Tesla's weather-related observations39),
+intersection of Kiowa and Foote Streets) was at an elevation of       and since the research was performed during a solar minimum,
+6060 feet. At an azimuth of 270E the mountains rise to an             it would seem admissible to eliminate the aurora as the source
+
+===== PAGE 0020 =====
+
+===== PAGE 0021 =====
+
+Fig. 12
+
+===== PAGE 0022 =====
+
+Fig. 13
+
+===== PAGE 0023 =====
+
+6
+
+                           TABLE I. SUMMARY OF SELECTED JOVIAN STORM PREDICTIONS
+
+
+  DATE (Local)                 Storm Type                    Predicted Cease                Predicted Cease              Mars Sets
+                                                             (Rad-Jup 1.0)*                 (Rad-Jup 2.0)**              (Local Time)
+
+  June 22, 1899                Non-Io-A                      10:22 PM          T            10:20 PM          T          10:22 PM
+
+  July 1, 1899                 Io-D                          10:31 PM                       10:00 PM          T          10:00 PM
+                               Io-B                           9:34 PM                        9:40 PM                     10:00 PM
+
+  July 7, 1899                 Io-C                            9:45 PM         T             9:40 PM          T           9:43 PM
+
+  July 17, 1899                Io-D                          10:10 PM                        9:00 PM                      9:18 PM
+
+  July 21, 1899                Io-A                            8:55 PM         T             9:00 PM          T           9:05 PM
+                               Non-Io-A                        9:12 PM         T             9:00 PM          T           9:05 PM
+
+   * Rad-Jup 1.0 = Radio-Jupiter for Windows, Version 1.0, (February, 1996), Radio-Sky Publishing.
+   **Rad-Jup 2.0 = Radio-Jupiter 2.0, (1994), Radio-Sky Publishing.
+   The T mark indicates a strong correlation between the cessation of a predicted storm and the setting of Mars.
+
+
+of these signals that conveyed the notion of intelligent                         receivers were tuned). His receivers were detecting code-like
+communication. Return to 1899 and ask yourself, "What is                         bursts which appeared only at certain times that were
+left?" (At VLF, certainly not Marconi in the English Channel!)                   uncorrelated with diurnal variations, and they occurred only
+    Finally, we call attention to the fact that although these                   while Mars (and Jupiter and Saturn) appeared in the visible sky.
+astronomical predictions provide support for Tesla's assertions,                 We think that we've documented that the kilometric signals from
+we think that the strongest argument in his favor is that there is               Jupiter could have terminated when Mars was just passing
+a demonstrable ionospheric window at the very frequencies                        below the curtain of mountains viewed on the western horizon
+where his receivers functioned and kilometric radiation is now                   from Tesla's laboratory.
+known to be emitted sporadically by Jupiter and Saturn.                             In 1902, Lord Kelvin (1824-1907), himself a believer in the
+                                                                                 Martian signals, proclaimed that he was in complete agreement
+              § 9. What Would You Have Done?                                     with Tesla on this issue.40,41 Oliver Lodge (1851-1940) was then
+    Before you answer that question, consider the time frame in                  attempting to detect RF solar emissions but he was listening at
+which Nikola Tesla (1856-1943) labored. He arrived at                            the wrong frequencies and with detectors far too insensitive.42
+Colorado Springs in May of 1899. (He had been there                              Twenty years later, Guglielmo Marconi (1874-1937) claimed
+previously, conducting experiments on Pike's Peak in 1896.)                      that he, too, had heard the signals from Mars.43 [Marconi and
+During June and July the western panorama visible in the late                    Kelvin never drew the ridicule and resentment for their remarks
+evening hours from the laboratory's double doors was presided                    that Tesla received.] Tesla's assessment was that Marconi had
+over in the southwest by Mars, Arcturus and blue-white Spica,                    heard RFI: Marconi's receiver was merely responding to
+while Jupiter and red giant Antares were almost directly on the                  transmitter "undertones".44*
+meridian, and the bright first magnitude stars Deneb, Altair and                    Ever a focal point of mystery and speculation, even Jonathan
+Vega were raining their own celestial fire as they, and the Milky                Swift's fictional masterpiece puzzles us. In 1726 he not only
+Way, rose in the East. In the warm evening air, clearly, the                     tells us that Mars has two satellites, but also that their periods
+spectacular brilliant rusty hue of Mars would not only dominate                  are 10 hours and 21.5 hours.45 Remarkably, Mars' two moons,
+the western skies, but also the thoughts and speculations of even                Phobos ("fear") and Deimos ("panic"), were not discovered until
+the most casual observer. Any alert scientist watching the                       1877, and with periods determined as 7.65 hours and 30.28
+evening skies from Tesla's laboratory at Colorado Springs and                    hours, respectively. It was also in 1877 that Schiaparelli first
+hearing such astonishing signals on his apparatus, with no
+identifiable terrestrial source, would surely have been taken by
+the enchanting spell of the brilliant starry sky.                                *Unlike Marconi, whose 1919 receivers performed in the LF/MF region,
+    Tesla reports that he started receiving atmospheric static in                undertone reception would not have been the case for Tesla's Colorado Springs
+mid-June with his receivers. (From his notes it is evident that                  10 kHz observations: undertones (subharmonic beats) require the presence of
+his sensitive regenerative receiver designs continued to evolve                  strong local transmitter signals (which Tesla did not have to contend with in
+                                                                                 1899) and nonlinear mixing. Furthermore, VLF undertones are not radiated
+from mid-June to late September.) Put yourself in Tesla's place.
+                                                                                 by antennas whose lengths are short relative to the wavelength, so there would
+There were no wireless stations on our planet other than his own                 have been no 1899 VLF signals emanating from the English Channel capable
+(certainly none operating in the 10 kHz range where his                          of being received in Colorado Springs, as some have mistakenly asserted.
+
+===== PAGE 0024 =====
+
+7
+
+observed the controversial "canali".                                     beacon signal? How could it be possible to understand the
+   In 1883, Simon Newcomb (1835-1909), then director of the              other-men about whom we know absolutely nothing? Is there
+American Nautical Almanac, wrote the following:46                        anything that we and the dwellers on another planet even have in
+   "The early telescopic observers noticed that the disk of Mars         common? Is there any common semantic frame of reference? ...
+   did not appear uniform in color and brightness, but had a             The idea of numbers or counting would be common. We might
+   variegated aspect. . . The most interesting result of these           suppose that the other-men could initiate their beacon
+   markings on Mars is the probability that its surface is               transmission with a series of dots:
+   diversified by land and water, covered by an atmosphere, and                    !     !!       !!!          !!!!           etc.
+   altogether very similar to the surface of the earth. Some             The very narrow-band beacon signal would have alerted us to
+   portions of the surface are of a decided red color, and thus give     their presence and their slow dots and dashes taught us a
+   rise to the well-known fiery aspect of the planet. Other parts        language with which to understand them."
+   are of a greenish hue, and are therefore supposed to be seas.
+   The most striking features are two brilliant white regions, one     So, after a century of scientific progress, Tesla's speculations
+   lying around each pole of the planet. It has been supposed that     concerning a "Lingua Cosmica" have come to possess some
+   this appearance is due to immense masses of snow and ice            degree of formal credibility in academic circles.
+   surrounding the poles. If this were so, it would indicate that
+   the processes of evaporation, cloud formation, and                                   § 10. What Really Happened?
+   condensation of vapor into rain and snow go on at the surface           It is now clear that Tesla's receivers can easily be stimulated
+   of Mars as at the surface of the earth."
+                                                                       by kilometric singlet, doublet, and triplet events (which occur
+                                                                       quite frequently). Because of the 400 Hz beat frequency
+    It was Harvard Observatory's William Pickering who first
+                                                                       inherent in this receiver's coupled oscillation transformer, the
+reported seeing dark spots where the Martian "canals"
+                                                                       400 Hz audio response at the earphones (which re-initiates every
+intersected. Astronomer Percival Lowell (1855-1914), on
+                                                                       time the receiver is stimulated) sounds like "Beep-Beep-Beep".
+whose 1905 calculations Pluto was discovered by Clyde
+                                                                       For those of us that have heard the phenomenon, it is perfectly
+Tombaugh in 1930, described his contemporaneous optical
+                                                                       logical to describe the sound exactly as Tesla did on Orthodox
+observations of Mars in the most vivid of terms in his 1895
+                                                                       Christmas of 1900 (January 7, 1900): "one ... two ... three
+book, Mars. Through the 18" and 24" refracting telescopes at
+                                                                       ...". [Would you like to hear a recorded response of a Tesla
+Lowell Observatory in Flagstaff, Arizona [Fig. 14], Mars
+                                                                       VLF receiver? Audio recordings were made at the Tesla
+appeared to Lowell as "a shimmering orange ball" with white
+                                                                       receiver earphone during Jovian storms in the late Spring of
+polar caps and a system of dark green lines configured "like a
+                                                                       1996 (a solar minimum), and played at the 1996 ITS
+spider's web" across the planet [Fig 15]. Three years later,
+                                                                       Symposium. A short audio clip, recorded from a Tesla
+fantasy writer, H.G. Wells was inspired to pen the Martian
+                                                                       receiver, has been inserted, here. Listen closely. A faint
+invasion story, "War of the Worlds" (1898), and later, "Star
+                                                                       sequence of code-like pulses can be heard through the static. ("I
+Begotten".
+                                                                       could not interpret the signals, but they seemed to suggest a
+    Tesla, in his 1907 article for Harvard Illustrated Magazine,
+                                                                       numerical code..." Tesla, 1935) You must agree that, whatever
+acknowledged the strong predilection toward Mars that Lowell's
+                                                                       the mechanism, a numerical sequence clearly suggests itself to
+work had contributed to his own conclusions:47
+                                                                       the listener. These are not inherent in the receiver, nor are they
+   "Chief among the stimulating influences was the revelatory
+   work of Percival Lowell, described in a volume with which the       present at all times. (Incidentally, the Tesla receiver response
+   observatory bearing his name has honored me."                       during an electrical storm can be heard by clicking here.)]
+                                                                           We conclude that the observations of Percival Lowell and his
+    Is it unreasonable to assume, as Tesla did, that the reception     assertions concerning the possibility of life on Mars, the
+of "one - two - three" from an apparently identifiable                 nearness of the red planet (Mars was in opposition on Jan. 20,
+extraterrestrial radio source could originate from some center of      1899), the night-time signals when Venus and the sun were
+intelligence? Tesla interpreted the systematic sequence of             below the horizon, the coincidence of the cessation of the radio
+pulses as an attempt to communicate intelligence through the           signals as Mars disappeared b elow the observational horizon at
+universal concept of numbers.             Interestingly, modern        Tesla' laboratory, the apparent implication of intelligence in the
+professional astronomers involved with the SETI (Search for            signals, etc., all provided supporting evidence for Tesla to
+Extra-Terrestrial Intelligence) program have embraced the              subsequently mistakenly ascribe the signals to the red planet
+identical concept. Concerning the search for extra-terrestrial         rather than some other cosmic source. Dr. Kraus and the Ohio
+intelligence funded at the Ohio State Radio Observatory,               State Radio Observatory, in a remarkably similar example of
+Professor Kraus writes,48                                              mistaken identity, reported receiving distinct separated pulses
+   "Our Big Ear was now listening for other-men on other planets       from Venus in 1956:49
+   circling other stars who might have built beacon stations to          "While monitoring for radiation from Venus, I also heard
+   announce their presence... We are searching for some kind of          signals that came in distinct separated pulses. They seemed to
+   narrow-band signal that would appear ... If, in addition, it          be strongest when Venus was in the beam and seemed to follow
+   turned off and on in some systematic way this would be                Venus across the sky. I wrote a brief note about them published
+   suggestive of an intelligent origin ... Suppose we do detect a        in Nature and suggested that they might come from Venus. It
+
+===== PAGE 0025 =====
+
+===== PAGE 0026 =====
+
+Fig. 15 "like a spider's web..."
+
+===== PAGE 0027 =====
+
+8
+
+   was a blunder, which taught me a lesson... It was something        [The discoveries were the rotating magnetic field and coupled
+   that has happened to other astronomers, physicists and             tuned RF systems. The inventions for which he holds legal
+   chemists, including Nobel laureates, and continues to happen       priority include the AC motor and generator, the AC polyphase
+   . . . When you dare to publish a new scientific observation or
+                                                                      power distribution system, and radio communications. Consider
+   calculation ... you don't want to be found in error but you can
+   be so cautious that you never publish."
+                                                                      NASA's awesome 2002 photograph54, "Earth at Night".
+                                                                      [Fig.18] (What a breath-taking tribute to the genius and
+Enchanting Urania, inspirational Muse and nymph-goddess of            achievements of Nikola Tesla!) Can the reader identify even
+Astronomy, seems to playfully practice innocent deception on          one pinpoint of light, anywhere in the photo, not operated
+her most impassioned suitors: sic itur ad astra. ("Such is the        through the electrical system given birth by Tesla? (And, the
+way to the stars.")                                                   photograph only shows the optical spectrum - it reveals neither
+                                                                      electromechanical applications nor radiowave communications.)
+              § 11. Summary and Final Remarks.                        Is there even one Noble Laureate since then that can be named
+     Certainly, not everyone will agree with us. There may be         who has contributed so much to relieve toil, dispel gloom and
+other acceptable explanations. But, it is our opinion that it is      darkness, and harness the forces of nature for the benefit of
+entirely within reason to identify Tesla's signals as the detection   humanity?] Tesla continues,
+                                                                        "... but my chief recreation was to study the universe, and the
+of intense kilometric (VLF) emissions originating from Jupiter.
+                                                                        place of the earth in the starry system... [a method of
+Considerable work still needs to be done to convince the                communicating with other planets] ... I would willingly sacrifice
+skeptical. However, the bottom line is that when you listen to          all my other achievements to realize this dream."
+the kilometric signals from Jupiter with one of Tesla's Colorado
+Springs receivers you occasionally hear "Beep... Beep-Beep...         This is the tragic story of a scientist that had to formulate
+Beep-Beep-Beep"! Furthermore, extraterrestrial right circularly       theories and then devise his own hand-made sensitive
+polarized kilometric signals penetrate the Earth's ionosphere         instruments to delicately explore the enchanting wonders of the
+during the time of sunspot minima. Tesla was at the right place,      physical universe [Fig. 19], - authentic wonders that previously
+at the right time, doing the right thing, with the right equipment    went undetected and existed only within the visions and dreams
+to be able to detect these unusual electrical signals of planetary    of his own creative mind, - electrical wonders and visions that
+origin. It was the scientific community that was unprepared.          few scientists would be able to perceive or comprehend until
+     In the early 1930s Karl G. Jansky (1905-1950) [Fig. 16],         generations after their discovery was declared before a
+like Nikola Tesla before him, had been monitoring electrical          community of visionless skeptics. Not since the time of
+disturbances due to thunderstorms. Using a vertically polarized       Leonardo da Vinci (1452-1519) has the world witnessed the
+rotatable modified Bruce array, he noted three distinct types of      energy, insight and achievements of such a gifted thinker and
+static at 20 MHz: that from local thunderstorms, that from            versatile genius. In an eloquent moment of reflection, Neils
+distant thunderstorms, and "a steady hiss static, the origin of       Bohr once said, "With deepest admiration, we think of how
+which is not known." Jansky was able to identify the latter as        Tesla could accomplish such great achievements ..."55
+coming from the Milky Way50 [Fig. 17] and for this he has been           We hope that this little study will raise legitimate interest and
+popularly recognized as the "father of radio astronomy".              elevate the controversy surrounding Tesla's "Martian signals"
+Concerning cosmic radio signals, Tesla wrote in 1921,51               to quantifiable terms. Certainly, he was the first to detect,
+   "Others may scoff at this suggestion or treat it as a practical
+                                                                      observe and study natural VLF radio waves from atmospheric
+   joke, but I have been in deep earnest about it ever since I made
+   the first observations at my wireless plant in Colorado from       storms. It is our conclusion that, under extremely favorable (but
+   1899 to 1900. . . . At the time I carried on those                 entirely feasible) circumstances, Tesla could have also heard the
+   investigations there existed no other wireless plant on the        audio reaction of his regenerative detectors responding to the
+   globe other than mine, at least none that could produce a          impulsive kilometric noise emanating from the planet Jupiter.
+   disturbance perceptible in a radius more than a few miles."        _________________________________________________
+
+Tesla's pre-1900 radio astronomical observations haunted him           APPENDIX I. Radio Signals of Planetary Origin.
+the rest of his life, and he expressed a great desire to follow up       In this brief Appendix, we want to provide a concise
+on his remarkable discovery. In 1919 (fourteen years before           introduction to the issues and concepts employed in the
+Jansky's landmark paper), Tesla said,52                               prediction of the non-thermal Jovian signals for 1899.
+   "In later years, I have bitterly regretted that I yielded to the               1. A Description of the Jovian System.
+   excitement of ideas and pressure of business instead of               Jupiter is encircled by a system of light and dark bands of
+   concentrating all my energies on that investigation."
+                                                                      clouds parallel to its equator, which rotate differentially. Since
+                                                                      no physical surface features can be used for reference purposes
+In an unpublished 1935 interview, at age 79, Tesla said,53
+   "Some of my discoveries and inventions have made electric          two coordinate standards have been adopted for Jupiter: System
+   history. They were practical devices, susceptible of               I has the rotational period of 09h 50m 30s corresponding to the
+   commercial exploitation."                                          Equatorial band of clouds, and System II moves a little slower
+
+===== PAGE 0028 =====
+
+Fig. 16   Karl G. Jansky (early 1930's)
+
+===== PAGE 0029 =====
+
+Fig. 17. Jansky identified the static as coming from the Milky Way.
+
+===== PAGE 0030 =====
+
+===== PAGE 0031 =====
+
+===== PAGE 0032 =====
+
+9
+
+with the rotational period of 09h 55m 40.6s corresponding to the        Bigg plotted the intensity of the radiation on a graph with the
+rotational period of the mid-latitude (temperate zone) clouds.          SGC angle as ordinate and the CML III as abscissa.
+
+                           (a) CML III.                                 [See Figure 20-I.2. This is a sketch of radio signal strength on a
+     Jupiter's magnetic poles are tilted about 10E relative to its      plot of the Io phase (Io's angular position with respect to the SGC)
+axis of rotation and, with the advent of radio observations, it was     versus the rotational orientation of Jupiter (the angle between
+                                                                        Jupiter's CML III and an Earth-Jupiter reference line).]
+found that the planet's magnetic field, which appears to have a
+rotational period of 09h 55m 29.710s, could provide a
+                                                                        A procedure for the prediction of decametric radiation from
+coordinate reference system attached to the planet's surface.56
+                                                                        Jupiter was then readily deduced. The Figure clearly reveals
+The corresponding angular speed of a longitudinal line attached
+                                                                        patterns where a high probability of signal reception exists.
+to the planet is 99.249 sec/deg. The International Astronomical
+                                                                        These configurations of activity may be summarized as shown
+Union subsequently designated this reference frame as System
+                                                                        in Table II:
+III. The Sub-Earth longitude or Central Meridian Longitude
+(denoted as CML III) of the system rotating with the above
+                                                                                                     TABLE II.
+period coincides with the System II longitude facing the Earth
+at 0h Universal Time on January 1, 1965. Such a system of                 STORM          CML III        SGC           CHARACTER
+coordinates permits the specification of various features in
+Jupiter's magnetic field as they rotate with the planet. James              Io-A         200E-270E     205E-260E      RH polarized
+Sky has noted that,57                                                                                                 L Bursts
+
+                                                                            Io-B         105E-185E     80E-110E       RH polarized
+    "It became apparent when plotting radio emission occurrences                                                      S Bursts
+    vs. CML III that the probability of detecting a radio event is
+    greatly enhanced when any of three particular longitudes turns          Io-C         285E-370E     225E-260E      LH polarized
+    to face the Earth. These areas of enhanced probability have                                                       L & S Bursts
+    been named regions A, B, and C. . . region A, which peaks
+    around 260E CML III, is the region of highest correlation.              Io-D         100E-200E     95E-130E
+    Regions B and C, at about 170E and 320E respectively, are
+    somewhat less reliable, but certainly distinct and important          Non-Io-A       200E-280E     0E-360E
+    predictors."
+                                                                        The CML III regions on the plot can be defined as shown in
+In addition to the Central Meridian Longitude of the planet, a          Table III.
+correlation was also found with the angular position of one of
+Jupiter's moons.                                                                       TABLE III.
+
+                    (b) SGC: The Io Phase.                                  REGION              CML III
+   From a catalogue of Jovian radio observations made
+                                                                                   A            200E - 290E
+between 1961 and 1963, E.K. Bigg deduced in 1964 that
+Jupiter's inner satellite, Io, appears to control the decametric                   B            100E - 200E
+emissions, which reach the Earth, to a remarkable degree.58
+                                                                                   C            290E - 320E
+[See Figure 20-I.1. The dependence of Jupiter's decametric radio
+signal strength on the angular position of the satellite Io.]                      D             20E - 100E
+
+This figure, taken from Bigg, shows that there is a great
+                                                                           Figures I.1 and I.2 reveal that two phenomena are actually
+probability of Jovian radiation whenever Io approaches two
+                                                                        occurring. Clearly, the radio signal strength depends upon the
+angular positions: 93E and 246E after Io's Superior Geocentric
+                                                                        departure of Io from the superior geocentric conjunction: Io
+Conjunction (SGC). [The Superior Geocentric Conjunction
+                                                                        strongly influences the emission of radio signals from Jupiter.
+is that position of Io when it is directly on the far side of Jupiter
+                                                                        But it is also apparent that the angular orientation of Jupiter's
+when Jupiter and Io lie in a straight line to the Earth. The Io
+                                                                        magnetic poles relative to the Earth also govern the radiation we
+phase, or SGC angle, is measured from that reference
+                                                                        receive. Jupiter's magnetic poles are tilted slightly with respect
+orientation as Io revolves around Jupiter. (See Figure 21-I.3.)]        to its axis of rotation and so, as Jupiter's Central Meridian
+Io has a mean period of 2,548.5 minutes and moves angularly at          Longitude rotates, the changing aspect of Jupiter's magnetic
+424.75 sec/deg.                                                         equator as viewed from the Earth causes variations in the
+    2. Prediction of Decametric Radiation from Jupiter.                 observed field strength and polarization. Moore observes th at,59
+     Realizing that both the CML III and Io's angular position             "The total intensity goes through two maxima and two minima
+relative to the SGC correlate with radio emissions from Jupiter,           per revolution, the maxima occurring when the magnetic equator
+
+===== PAGE 0033 =====
+
+Fig. 20-I.1
+
+
+Fig. 20-I.2
+
+===== PAGE 0034 =====
+
+Fig. 21 I.3
+
+
+Fig. 21 I.4
+
+===== PAGE 0035 =====
+
+10
+
+   is viewed edge on, and the minima when the equatorial plane        satellite.
+   is viewed from extreme positive and negative latitudes."              Apparently, due to the sputtering action of material ejected
+                                                                      from Io and high energy particles bombarding this moon, a
+[There is another phenomenon which comes into play for                toroidal ring of charged plasma particles has been created
+determining the variation of the Jupiter signals on Earth. The        around Jupiter at the radius of Io's orbit. The "plasma torus" is
+observed width of the Jovian radiation pattern is fairly narrow       slightly inclined to the orbit of Io due to the presence of Jupiter's
+(on the order of 6E). Furthermore, Jupiter's orbit is slightly        strong magnetic field. (See Figure 21-I.4.) The kilometric
+tilted with respect to the ecliptic plane (the plane of the Earth's   radiation detected by Voyager 1 appeared to have been
+orbit around the sun). To view it another way, from Jupiter's         generated by plasma oscillations in the Io plasma torus.60
+position, the plane of the Earth's orbit tilts slightly above and        It has been hypothesized that the Io-Jupiter system forms an
+below Jupiter's orbital plane as the Earth revolves about the sun.    enormous electrical generator.61 The Jovian magnetic field at Io
+The inclination is about 3.3E and this "Jovicentric Declination       is about 1900 nT and the motion of Io through Jupiter's
+of the Earth" ( De ) moves the Earth into and slightly back out of    magnetic field induces a v×B voltage across Io of about 400
+the beam of radiation emanating from Jupiter. As a result, the        kV.62 As a result, plasma electrons are driven along Jovian
+probability of radio reception varies with De .]                      magnetic field lines forming a "flux tube" that connects Io and
+     While the above observations imply a procedure for               Jupiter's conducting ionosphere. The current flowing between
+predicting when the Earth receives radio signals from Jupiter,        Jupiter and Io along this flux tube is in excess of 5 million
+they do not yet explain the physics of why the Jovian system          amperes, and this gravitationally driven natural electrical
+should radiate at all. We will turn to that topic next.               generator (which would excite the enthusiasm of any electrical
+                                                                      engineer) has been estimated to operate at a power level in
+3. Radiation Mechanisms: Plasma Torus &Io's Flux Tube.                excess of 1012 watts. There are many other issues associated
+    It is now known that both Jupiter and Saturn possess              with radio emissions from Jupiter and Saturn, and the reader is
+substantial magnetic fields: B - 10×10-4 Teslas (tipped about         invited to turn to the literature of radio astronomy.
+10E with respect to the axis of rotation) for Jupiter and B -            Technical issues related to the construction of Tesla's
+2.5×10-5 Teslas (tipped less than 1E with respect to the axis of      receivers, the parameters associated with the operation of his
+rotation) for Saturn. (By way of comparison, the Earth's              facility as a VLF radio telescope, atmospheric noise fields, and
+magnetic field is on the order of 5×10-5 Teslas.) It is also known    further detectable radio emission events are treated in greater
+that these planets radiate nonthermal emissions at various            detail in the engineering report mentioned at the beginning of
+wavelengths corresponding to frequencies extending from 3             this paper. Karl Jansky probably detected decametric radiation
+kHz up to about 30 MHz.                                               from Jupiter, although that can't be documented. Again, it is our
+    While there exist a vast collection of hypotheses for the         conclusion that, under extremely favorable (but entirely
+radiation from Jupiter and Saturn, it appears that the radio          feasible) circumstances, Tesla could have readily heard the
+emissions are linked to electrical charges accelerated through        audio reaction of his regenerative peak detectors responding to
+the planets' magnetic field structure. Gyro radiation is produced     the impulsive kilometric noise emanating from the planet
+when electrons spiral about magnetic fields under the influence       Jupiter [Fig. 22].
+of the Lorentz force at relatively low velocities. The frequency      _________________________________________________
+of the gyro radiation is given by
+
+                                                             I.1
+                                                                                              REFERENCES
+Radiation from Jupiter at 22 MHz by this mechanism would
+seem to imply emission from a magnetospheric region where B           1.        Letter to George Scherff, dated July 4, 1899.
+- 7.86 gauss (1 Tesla = 1 Weber/m2 = 104 Gauss), while
+radiation at 10 kHz would seem to imply emission from a               2.        Nikola Tesla, "The Problem of Increasing Human Energy,"
+magnetospheric region where B - 3.57 milligauss. However, a                     The Century Illustrated Magazine, June, 1900, pp. 175-
+                                                                                211. (See p. 209.)
+simple application of conventional gyro radiation theory does
+not seem to explain the Jovian radiation spectrum. As pointed         3.        Nikola Tesla, "Some Planet Affected His Machine," NY
+out above, it has long been recognized that the position of Io                  Sun, January 3, 1901.
+and its orbit plays some role in explaining Jovian radiation.
+    Io has a diameter of 3640 km and orbits Jupiter at a distance     4.        Nikola Tesla, letter to the Editor of the NY Sun, dated
+of 5.9 RJ (421.6 Mm; the equatorial radius of Jupiter is RJ =                   January 9, 1901. (Tesla Museum, Beograd, Yugoslavia,
+71,398 km, and Jupiter's mass is MJ = 1.901× 1027 kg.), well                    3/4 #627.)
+within Jupiter's magnetosphere, with a period of 1.769 days. It       5.        Nikola Tesla, "Talking with Planets," Collier's Weekly,
+has an atmosphere and at least seven active volcanoes, with                     February 9, 1901, pp. 4-5. [Reprinted as Chapter XVI -
+plumes extending up to 250 km above the surface of the Jovian                   Electrical Communication With The Planets - in the book
+
+===== PAGE 0036 =====
+
+===== PAGE 0037 =====
+
+11
+
+      Polyphase Electric Currents and Alternate-Current Motors,    18.   Watson, G.N., "The Transmission of Electric Waves round
+      by Silvanus P. Thompson, Volume 4 of The Library of                the Earth," Proceedings of the Royal Society, Vol. 95,
+      Electrical Science, Collier and Son, New York, 1902, pp.           1919, pp. 546-563.
+      225-235.]
+                                                                   19.   Hodara, H., "The Use of Magnetic Fields in the
+6.    Nikola Tesla, "Signalling to Mars - A Problem in                   Elimination of the Re-Entry Radio Blackout," Proceedings
+      Electrical Engineering," Harvard Illustrated, March, 1907,         of the IRE, Vol. 49, 1961, pp. 1825-1830. (See p. 1826.)
+      pp. 119-121.
+                                                                   20.   Appleton, E.V., "Wireless Studies of the Ionosphere,"
+7.    Nikola Tesla, "How to Signal to Mars," New York Times,             Journal of the IEE (London), Vol. 71, 1932, pp. 642-650.
+      May 23, 1909, p. 10, col. 6, 7.
+                                                                   21.   Hartree, D.R., "The Propagation of Electromagnetic
+8.    Nikola Tesla, "Signals to Mars based on Hope of Life on            Waves in a Refracting Medium in a Magnetic Field,"
+      Planet," New York Herald, Sunday, October 12, 1919,                Proceedings of the Cambridge Philosophical Society, Vol.
+      Magazine Section.                                                  27, 1931, pp. 143-162.
+
+9.    Nikola Tesla, "Interplanetary Communication," Electrical     22.   Fillipowsky, R.F. and E.I. Muehldorf, Space
+      World, September 24, 1921, p. 620.                                 Communications Systems, Prentice-Hall, 1965, pp. 168-
+                                                                         169.
+10.   Nikola Tesla, "A Giant Eye to See Round the World,"
+      Albany Telegram, February 25, 1923.                          22.   Leiphart, J.P., R.W. Zeek, L.S. Bearce, and E. Toth,
+                                                                         "Penetration of the Ionosphere by Very-Low-Frequency
+11.   Nikola Tesla, "I Expect to Talk to Mars," an interview             Radio Signals: Interim Results of the LOFTI I
+      with George Sylvester Viereck, September 11, 1935.                 Experiment," Proceedings of the IRE, Vol. 50, 1962, pp.
+      (Courtesy of Leland I. Anderson)                                   6-17. (See Figure 4, p. 8.)
+
+12.   "Lord Kelvin Believes Mars Now Signaling America,"           24.   Ibid.
+      Philadelphia North American, May 18, 1902, Mag. Sect.
+      V.                                                           25.   Corum, K.L. and J.F. Corum, "Nikola Tesla, Lightning
+                                                                         Observations and Stationary Waves," Proceedings of the
+13.   Cheney, M, Tesla: Man Out of Time, Prentice-Hall,                  1994 International Tesla Symposium, International Tesla
+      1981, pg. 162.                                                     Society, Colorado Springs, Colorado, 1994.
+
+14.   Wysock, W., J. Hardesty, K.L. Corum, and J.F. Corum,         26.   Corum, K.L., J.F. Corum, and A.H. Aidinejad,
+      "Who was the Real Dr. Nikola Tesla?," AMTA (Antenna                "Atmospheric Fields, Tesla's Receivers and Regenerative
+      Measurement Techniques Association) Conference, Oct.               Detectors," Proceedings of the 1994 International Tesla
+      22-25, 2001, Denver, CO. The paper is available at                 Symposium, International Tesla Society, Colorado
+      http://www.ttr.com/what's_new.htm (Click on "Who was               Springs, CO, 1994.
+      the Real Dr. Nikola Tesla?" to download the 137 kb file).
+                                                                   27.   Ort, C., "Discussion," Proceedings of the IRE, Vol. 5,
+15.   Corum, K.L., J.F. Corum, and A.H. Aidinejad,                       1917, pp. 163-166.
+      "Atmospheric Fields, Tesla's Receivers and Regenerative
+      Detectors," Proceedings of the 1994 International Tesla      28.   Ort, C., Elektrotechnische Zeitschrift, 1909, pg. 655.
+      Symposium, International Tesla Society, Colorado
+      Springs, CO, 1994.                                           29.   Ort, C., Archive fur Elektrotechnik, Vol. 1,1912, pg. 192.
+
+16.   Nikola Tesla, "Talking with Planets," Collier's Weekly,      30.   Armstrong, E.H., (Superheterodyne Receiver), US Patent
+      February 9, 1901, pp. 4-5; reprinted in Polyphase Electric         #1,342,885, June 8, 1920.
+      Currents, Chapter XIV of Volume 4 of The Library of
+      Electrical Science, S.P. Thompson, Editor, Collier & Son,    31.   Ort, C., "Discussion," Proceedings of the IRE, Vol. 5,
+      NY, 1902, pp. 225-235.                                             1917, pp. 163-166.
+
+17.   Nikola Tesla, “Experiments with Alternate Currents of        32.   Burke, B.F. and K.L. Franklin, "Observations of a
+      High Potential and High Frequency,” a lecture delivered            Variable Radio Source Associated with the Planet
+      before the Institution of Electrical Engineers in London,          Jupiter," Journal of Geophysical Research, Vol. 60, 1955,
+      and then before the Royal Institution on Thursday,                 pp. 213-217.
+      February 4, 1892. Published as Chapter XXVII in
+      Inventions, Researches and Writings of Nikola Tesla, by      33.   Donato Creti, 1711, Musei e Gallerie Pontificie,
+      T.C. Martin, 1894, reprinted by Barnes and Noble Books,            Photographic Archives of the Vatican Museums and
+      1992, pp. 198-293.                                                 Galleries.
+
+                                                                   34.   Kraus, J.D., "Planetary and Solar Radio Emission at 11
+                                                                         Meters Wavelength," Proceedings of the IRE, Vol. 46,
+                                                                         January, 1958, pp. 266-274.
+
+===== PAGE 0038 =====
+
+12
+
+35.   Ibid.                                                         53.   Ref. 10, loc cit.
+
+36.   Warwick, J.W., J.B. Pearce, A.C. Riddle, J.K. Alexander,      54.   For a larger version, go to the following web site:
+      M.D. Desch, M.L. Kaiser, J.R. Thieman, T.D, Carr, S.                http://antwrp.gsfc.nasa.gov/apod/image/0208/earthlights
+      Gulkis, A. Boischot, C.C. Harvey, and B.M. Pederson,                02_dmsp_big.jpg
+      "Voyager 1 Planetary Radio Astronomy Observations
+      Near Jupiter," Science, Vol. 204, June 1, 1979, pp. 995-      55.   Bohr, N., Remarks presented at the Beograd Centenary
+      998.                                                                Symposium of the Birth of Nikola Tesla, July 10, 1956,
+                                                                          published in Tribute to Nikola Tesla, Nikola Tesla
+37.   Ibid.                                                               Museum, Beograd, Yugoslavia, 1961, p. LS-83.
+
+38.   The American Ephemeris and Nautical Almanac,                  56.   Gulkis, S. and T.D. Carr, "Radio Rotation Period of
+      Washington Bureau of Equipment (now the US                          Jupiter," Science, Vol. 154, October 14, 1966, pp. 257-
+      Government Printing Office). The 1899 volume was                    259.
+      published in 1898, and 1900 was published in 1899.
+                                                                    57.   Sky, J., "Radio-Jupiter 2.0 Observer's Guide," Radio-Sky
+39.   Corum, K.L. and J.F. Corum, "Nikola Tesla, Lightning                Publishing (P.O. Box 3552, Louisville, KY, 40201-3552),
+      Observations and Stationary Waves," Proceedings of the              1994, pp. 3-4.
+      1994 International Tesla Symposium, International Tesla
+      Society, Colorado Springs, Colorado, 1994.                    58.   Bigg, E.K., "Influence of the Satellite Io on Jupiter's
+                                                                          Decametric Emission," Nature, Vol. 203, September 5,
+40.   "Lord Kelvin Believes Mars Now Signaling America,"                  1964, pp. 1008-1010.
+      Philadelphia North American, May 18, 1902, Mag.
+      Section V.                                                    59.   Moore, P. and G. Hunt, Atlas of the Solar System, Rand
+                                                                          McNally, 1983, p. 259.
+41.   Cheney, M., Tesla: Man Out of Time, Prentice-Hall, 1981,
+      pg. 162.                                                      60.   Stone, E.C. and A.L. Lane, "Voyager 1 Encounter with the
+                                                                          Jovian System," Science, Vol. 204, June 1, 1979, pp. 945-
+42.   Lodge, Oliver, Signalling Across Space Without Wires,               948.
+      The Electrician Printing and Publishing Co., London,
+      1900.                                                         61.   Goldreich, P. and D. Lyndon-Bell, "Io - a Jovian Unipolar
+                                                                          Inductor," Astrophysical Journal, Vol. 156, 1969, p. 59 .
+43.   "Messages from Mars Scouted by Experts," New York
+      Times, September 3, 1921, p. 4, Col. 4.                       62.   Smoluchowski, R., "Jupiter 1975," American Scientist,
+                                                                          Vol. 63, 1975, pp. 638-648.
+44.   Nikola Tesla, "Interplanetary Communication," Electrical
+      World, September 24, 1921, p. 620.
+
+45.   Swift, Jonathan, Gulliver's Travels, 1726, Part III, Chapt.
+      3.
+
+46.   Newcomb, S. and E.S. Holden, Astronomy, Holt and Co.,
+      1883, pp. 234-235.
+
+47.   Nikola Tesla, "Signalling to Mars - A Problem in
+      Electrical Engineering," Harvard Illustrated, March, 1907,
+      pp. 119-121.
+
+48.   Kraus, J.D., Big Ear, Cygnus-Quasar Books, Powell, Ohio,
+      1976, pp. 204-205.
+
+49.   Ibid, pp. 116-120.
+
+50.   Jansky, K.G., "Electrical Disturbances Apparently of
+      Extraterrestrial Origin," Proc. IRE, Vol. 21, 1933, pp.
+      1387-1398.
+
+51.   Nikola Tesla, "Interplanetary Communication," Electrical
+      World, September 24, 1921, pg. 620.
+
+52.   Nikola Tesla, "Signals to Mars based on Hope of Life on
+      Planet," New York Herald, Sunday, October 12, 1919,
+      Magazine Section.

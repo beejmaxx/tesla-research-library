@@ -1,0 +1,148 @@
+===== PAGE 0001 =====
+
+World Patent Information 32 (2010) 147–149
+
+
+                                                             Contents lists available at ScienceDirect
+
+
+                                                         World Patent Information
+                                            journal homepage: www.elsevier.com/locate/worpatin
+
+
+Towards a deﬁnitive catalogue of the patents of Nikola Tesla
+Vladimir Jelenković
+Nikola Tesla Museum, Krunska 51, Belgrade, Serbia
+
+
+    In contrast to the renowned Serbian scientists and Nikola Te-                    the Museum yielded an extremely large volume of material, which
+sla’s contemporaries Milutin Milanković [1] and Mihajlo Pupin                       was never systematized or published. Still, it was a foundation for
+[2], who had typical scientiﬁc careers, and whose innovative con-                    the report that this group submitted to the Director of the ‘‘Federal
+tributions were contained in their research papers and mono-                         Patent Ofﬁce”. This report was the ﬁrst document to point out the
+graphs, Tesla’s most important achievements were his                                 fact that Tesla sought patent protection for some of his inventions
+inventions, and their speciﬁcations and drawings were presented                      in countries outside the US without obtaining the corresponding
+in his patents. However, to date, there is still no deﬁnitive list of                US patents. This report also served as a foundation for the selection
+all of his patents. A photograph of Tesla is provided in Fig. 1.                     of Tesla’s patents published in the Selected Works of Nikola Tesla, re-
+    Although Tesla’s life (1856–1943) and work was the subject of                    leased on the occasion of the 140th anniversary of Tesla’s birth in
+many comprehensive researches, only a small number of them                           1996 [7]. This edition, published in both Serbian and English, con-
+covered his patents [3]. Several books on the subject published                      tains 112 of Tesla’s US patents, but also the six recently discovered
+abroad have covered primarily Tesla’s patents in the US, and some                    British patents. This was a signiﬁcant step forward compared to
+of them published the complete patent documentation for all of                       previous publications dedicated to Nikola Tesla’s patents.
+Tesla’s 112 US patents [4]. However, they contain practically no                         After the celebration of this anniversary in 1996, all institu-
+information about Tesla’s patents in other countries, outside the                    tional activities concerning the research of Tesla’s patents ceased.
+US.                                                                                  The working material from the Nikola Tesla Museum remained at
+    Published at the end of the 1980s, The Catalogue of Tesla’s Pat-                 the ‘‘Federal Patent Ofﬁce”, but was not studied any further – until
+ents [5], in addition to the list of Tesla’s 112 US patents, which                   1999, when Snežana Šarboh, M.Sc., continued the research on her
+somewhat differs from the ones published abroad, also contains                       own accord. Snežana was aware of the importance of the research,
+a list of 109 patents he obtained in countries other than the US.                    since it was the ﬁrst time that Nikola Tesla’s legacy had been ana-
+However, already at the time of its publication, there were some                     lysed by intellectual property experts, but there was still the need
+indications that this number is not deﬁnite. For that reason, at                     to establish a complete and accurate list of the patents of Nikola
+the beginning of the 1990s, the Nikola Tesla Museum entered into                     Tesla. Also, being one of the direct participants in the research at
+cooperation with the ‘‘Federal Patent Ofﬁce” of the Socialist Federal                the Nikola Tesla Museum, she took upon herself the task to process
+Republic of Yugoslavia (today the ‘‘Intellectual Property Ofﬁce of                   the collected material and make the results available to experts as
+the Republic of Serbia”) [6], in order to obtain copies of all patent                well as the general public.
+documentation at the disposal of the ‘‘European Patent Ofﬁce”.                           Based on the analysis and processing of the obtained material,
+However, the processing of this material largely required the par-                   Snežana Šarboh wrote several papers covering the patents of Nik-
+ticipation of patent engineers, which the Museum did not have                        ola Tesla, which were published successively from 1999 in the
+at its disposal. Therefore, the cooperation of the Museum and the                    Intellectual Property Gazette [8] of the Intellectual Property Ofﬁce,
+‘‘Federal Patent Ofﬁce” continued, with the goal of establishing                     Belgrade. In the article ‘‘Nikola Tesla’s patents registered in other
+the exact number of Tesla’s registered patents, both in the US                       countries than the United States” [8], published in August 2003,
+and in other countries.                                                              she presented a list of Nikola Tesla’s patents containing 141 pat-
+    During 1992 and 1993, a group of patent engineers from the                       ents from 26 different countries. This list, in comparison to others
+‘‘Federal Patent Ofﬁce” visited the Nikola Tesla Museum (see Figs.                   mentioned, presented the information about 32 additional, previ-
+2 and 3) to study and analyse the archive materials kept at the Mu-                  ously unknown Tesla’s patents. However, even at the time of its
+seum in the effort to complete a list of all of Tesla’s patents, to                  publication there were indications that this list was not ﬁnal. Fur-
+establish whether there were any submitted patent applications                       ther work on the list resulted in complete bibliographic informa-
+for which patents were not granted, and ﬁnally to determine                          tion on patent documentation for an additional 25 Tesla’s
+whether there were any prepared patent applications that were                        patents, with the exception of Tesla’s German patents (DE 47012
+never submitted by Tesla. This comparative analysis of patent doc-                   and DE 47885). These latter two patents were described in the
+umentation from the ‘‘European Patent Ofﬁce” and the archives of                     book ‘‘The Works of Nikola Tesla”, by Slavko Bokšan [9].
+                                                                                         Snežana Šarboh’s prolonged research contributed to the
+                                                                                     endeavour towards a deﬁnitive catalogue a list of 116 main pat-
+   E-mail address: info@tesla-museum.org
+
+0172-2190/$ - see front matter Ó 2009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.wpi.2009.07.005
+
+===== PAGE 0002 =====
+
+148                                           V. Jelenković / World Patent Information 32 (2010) 147–149
+
+
+                                                                              ents, out of which 109 are from the US and seven are British, and
+                                                                              which Tesla used to protect 125 of his inventions. In addition, it
+                                                                              established that Tesla had 164 patent family analogues of these
+                                                                              patents, which means that he received a total of 280 patents in
+                                                                              26 countries around the world.
+                                                                                  Perhaps the results of this research will be a disappointment for
+                                                                              some who believed the long-standing claims about the existence of
+                                                                              between 700 and 800 of Tesla’s patents. Regardless of the exact
+                                                                              number, the essence of Tesla’s discoveries, inventions, and patents
+                                                                              has never been their quantity, but his ingenious solutions, their
+                                                                              universal application, and the numerous scientiﬁc and technologi-
+                                                                              cal breakthroughs they have set in motion throughout the world.
+                                                                              An example is shown in Fig. 4.
+                                                                                  The possibility of discovering some currently unknown patents
+                                                                              of Nikola Tesla in countries outside the US certainly still exists.
+                                                                              However, their number is in all likelihood proportionally small,
+                                                                              and it can be assumed with great certainty that these patents cover
+                                                                              only the already known inventions of Nikola Tesla. However, it is
+      Fig. 1. Nikola Tesla. Source: Nikola Tesla Museum.                      still worth the effort to ﬁnd these patents and include them with
+
+
+                                       Fig. 2. View of the Nikola Tesla Museum. Source: Nikola Tesla Museum.
+
+
+                                     Fig. 3. Exhibits in the Nikola Tesla Museum. Source: Nikola Tesla Museum.
+
+===== PAGE 0003 =====
+
+V. Jelenković / World Patent Information 32 (2010) 147–149                                                           149
+
+
+                                                                                               numerous patents, including a means of greatly extending the range of long-
+                                                                                               distance telephone communication by placing loading coils at predetermined
+                                                                                               intervals along the transmitting wire (known as ‘‘pupinization”).
+                                                                                           [3] Nikola Tesla. ‘‘Lectures, patents, articles”, Nikola Tesla Museum, Belgrade;
+                                                                                               1956.
+                                                                                           [4] Jim Glenn. The complete patents of Nikola Tesla, Barnes and Noble books, New
+                                                                                               York, USA; 1994.
+                                                                                           [5] Katalog Teslinih patenata, Muzej Nikole Tesle, Beograd; Savezni zavod za
+                                                                                               patente, Beograd; Pronalazaštvo, Beograd; Centar za radničko stvaralaštvo,
+                                                                                               Rijeka; 1987.
+                                                                                           [6] The Website of the Intellectual Property Ofﬁce of the Republic of Serbia in
+                                                                                               Belgrade. <http://www.zis.gov.rs>.
+                                                                                           [7] Nikola Tesla: Selected works, vols. 4–7; Patents I, Patents II, Patents III and
+                                                                                               Patents IV, Institute for Textbooks and Teaching Aids, Belgrade; 1996/Izabrana
+                                                                                               dela Nikole Tesle, Tom 4–7; Patenti I, Patenti II, Patenti III, i Patenti IV, Zavod za
+                                                                                               udžbenike i nastavna sredstva, Beograd; 1996.
+                                                                                           [8] Snežana Šarboh, Patenti Nikole Tesle registrovani u drugim zemljama osim
+                                                                                               SAD, Glasnik intelektualne svojine Zavoda za intelektualnu svojinu, Beograd;
+                                                                                               2003.
+                                                                                           [9] Slavko Bokšan, Delo Nikole Tesle, SAN, Beograd; 1950.
+                                                                                          [10] Snežana Šarboh, M.Sc., The patents of Nikola Tesla – towards the deﬁnite
+                                                                                               catalog, Nikola Tesla Museum, Belgrade; 2006.
+
+Fig. 4. One of the original induction motors demonstrated by Tesla in his historic
+lecture before the AIEE at Colombia University on 16 May 1888. Source: Nikola Tesla
+Museum.                                                                                                               Vladimir Jelenkovic is the present director of the Nik-
+                                                                                                                      ola Tesla Museum was appointed to this position at the
+                                                                                                                      end of 2005. In 1981 he went to work for National TV –
+                                                                                                                      Television Belgrade, where from 1983 to 1997 he held
+those that are known, in order to obtain a deﬁnitive catalogue of all
+                                                                                                                      the post of Editor in Chief of the Scientiﬁc Program
+of Tesla’s patents. An important research paper, published for the                                                    Department. He created a modern comprehensive con-
+ﬁrst time by the Nikola Tesla Museum in 2006, in the year of the                                                      cept for the Scientiﬁc Program successfully shaping its
+150th anniversary of Tesla’s birth, was deﬁnitely an excellent foun-                                                  proﬁle in the 1980s and 1990s. He was the author and
+                                                                                                                      producer of more then 500 programs including inter-
+dation for the ongoing research [10].
+                                                                                                                      views, contact programs, scientiﬁc, documentary, and
+                                                                                                                      popular science program series. From 1997 he was
+References                                                                                                            public relations director at the Representative Ofﬁce of
+                                                                                          the Oracle Corporation, American Software Company. In 2001 and 2002 he was
+ [1] Milutin Milanković (1879–1958), a Serbian civil engineer, mathematician,            Managing Director of the Nigerian Branch Ofﬁce of the American Software Company
+     climatologist, astronomer, and geophysicist, best known for his theory of ice        TCT, leading the project of global computerization of all segments of the govern-
+     ages, relating variations of the Earth’s orbit and long-term climate change, now     ment of the Lagos State. In 2004 and 2005 he was founder and Editor in Chief of
+     known as ‘‘Milankovitch cycles”.                                                     ‘‘SciTech”, a popular science magazine.
+ [2] Mihajlo Idvorski Pupin (1858–1935), an American physicist and physical
+     chemist, scientist and inventor of Serbian origin. Pupin is best known for his

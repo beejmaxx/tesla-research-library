@@ -1,0 +1,1886 @@
+{
+  "schema_version": 1,
+  "updated": "2026-08-11",
+  "repository_visibility": "private",
+  "summary": {
+    "sources": 71,
+    "non_empty_texts": 70,
+    "needs_ocr": 2,
+    "categories": {
+      "public-domain": 2,
+      "research-only": 12,
+      "research-leads": 52,
+      "personal-notes": 5
+    }
+  },
+  "sources": [
+    {
+      "source_id": "anderson-tesla-work-interview",
+      "title": "Nikola Tesla: On His Work with Alternating Currents",
+      "creator": "Leland I. Anderson, editor",
+      "date": "2002",
+      "kind": "edited-interview-transcript",
+      "url": null,
+      "evidence_tier": "B",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "needs-ocr",
+      "text_file": "research-only/anderson-tesla-work-interview.txt",
+      "pages": 254,
+      "chunks": 3,
+      "non_empty_characters": 483,
+      "original": {
+        "filename": "Leland I. Anderson - Nikola Tesla. On His Work .pdf",
+        "bytes": 41567710,
+        "sha256": "d06a589934bed632e1805e5d4c3838a95572726bad120ad7cbf3cea818eb5401"
+      },
+      "topics": [
+        "legal-testimony",
+        "alternating-current",
+        "radio",
+        "priority"
+      ],
+      "notes": "Edited transcript of Tesla's 1916 pre-hearing interview; verify quotations against transcript pages."
+    },
+    {
+      "source_id": "carlson-tesla-inventor-electrical-age",
+      "title": "Tesla: Inventor of the Electrical Age",
+      "creator": "W. Bernard Carlson",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "C",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/carlson-tesla-inventor-electrical-age.txt",
+      "pages": 1,
+      "chunks": 304,
+      "non_empty_characters": 957617,
+      "original": {
+        "filename": "tesla-inventor-of-the-electrical-age-w-bernard.epub",
+        "bytes": 11618879,
+        "sha256": "6da6924a889a091df120e016cfac4a5dce1f5a0c85640caad94eecc2680774e6"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "cheney-tesla-man-out-of-time",
+      "title": "Tesla: Man Out of Time",
+      "creator": "Margaret Cheney",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "C",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/cheney-tesla-man-out-of-time.txt",
+      "pages": 1,
+      "chunks": 218,
+      "non_empty_characters": 658646,
+      "original": {
+        "filename": "tesla-man-out-of-time-margaret-cheney-1-2001--.epub",
+        "bytes": 1369669,
+        "sha256": "5689493efbda0929f90db1534ee905d8b2758aacc8e5b5fb8f3c218de2917f7d"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "cooper-truth-about-tesla",
+      "title": "The Truth About Tesla",
+      "creator": "Christopher Cooper",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "C",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/cooper-truth-about-tesla.txt",
+      "pages": 202,
+      "chunks": 199,
+      "non_empty_characters": 411886,
+      "original": {
+        "filename": "Cooper - The Truth About Tesla.pdf",
+        "bytes": 37541746,
+        "sha256": "fb1d78efa66ffd21c71f7e5adce23c357e8e647b6e4a0f68d8691ae6103643c7"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "corum-planetary-radio-signals",
+      "title": "Nikola Tesla and the Planetary Radio Signals",
+      "creator": "Kenneth L. Corum and James F. Corum",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "C",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/corum-planetary-radio-signals.txt",
+      "pages": 38,
+      "chunks": 37,
+      "non_empty_characters": 59260,
+      "original": {
+        "filename": "Tesla.pdf",
+        "bytes": 2503518,
+        "sha256": "e63a74d1427a8fa4f88d5055e3964d20e15e2bc2027bd2a3397a753b7e634268"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "hidden-interview-web-printout",
+      "title": "The Nikola Tesla Interview That Was Hidden For 116 Years",
+      "creator": "Web printout; purported interview unverified",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/hidden-interview-web-printout.txt",
+      "pages": 22,
+      "chunks": 22,
+      "non_empty_characters": 29344,
+      "original": {
+        "filename": "The Nikola Tesla Interview That Was Hidden For .pdf",
+        "bytes": 917123,
+        "sha256": "b5cce958c334f1b76a84685b112fcf540b31e8cdf5fcfa1ebdcc9aae6fedfd88"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "jelenkovic-patent-catalog-2010",
+      "title": "Towards a Definitive Catalogue of the Patents of Nikola Tesla",
+      "creator": "Vladimir Jelenkovic",
+      "date": "2010",
+      "kind": "peer-reviewed-article",
+      "url": null,
+      "evidence_tier": "B",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/jelenkovic-patent-catalog-2010.txt",
+      "pages": 3,
+      "chunks": 4,
+      "non_empty_characters": 8972,
+      "original": {
+        "filename": "[World Patent Information 2010-jun vol. 32 iss..pdf",
+        "bytes": 327750,
+        "sha256": "c543a1e66b58e45d095e667c269a9aad7595a006af5d6fecb4f27e8b2fba682c"
+      },
+      "topics": [
+        "patent-catalog",
+        "nikola-tesla-museum"
+      ],
+      "notes": "World Patent Information 32 (2010), 147–149. Explains the catalog's research history and changing counts."
+    },
+    {
+      "source_id": "martin-inventions-researches-1894",
+      "title": "The Inventions, Researches and Writings of Nikola Tesla",
+      "creator": "Thomas Commerford Martin",
+      "date": "1894",
+      "kind": "book-and-primary-source-compilation",
+      "url": "https://www.gutenberg.org/ebooks/39272",
+      "evidence_tier": "A",
+      "rights": "public-domain",
+      "category": "public-domain",
+      "extraction_status": "extracted",
+      "text_file": "public-domain/martin-inventions-researches-1894.txt",
+      "pages": 1,
+      "chunks": 287,
+      "non_empty_characters": 834697,
+      "original": {
+        "filename": "martin-inventions-researches-1894.txt",
+        "bytes": 1029381,
+        "sha256": "e20e8174047d8bfa4a4d2f7bf2ef66f7f06c12a9f17b508b40fc8a5e8814a817"
+      },
+      "topics": [
+        "polyphase-power",
+        "motors",
+        "high-frequency",
+        "lighting",
+        "lectures"
+      ],
+      "notes": "Tesla-approved 1894 compilation; includes the 1891, 1892, and 1893 lectures and early patent explanations."
+    },
+    {
+      "source_id": "personal-notes-energy-definitions",
+      "title": "Personal Notes on Energy Definitions",
+      "creator": "Bijan",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "private",
+      "category": "personal-notes",
+      "extraction_status": "extracted",
+      "text_file": "personal-notes/personal-notes-energy-definitions.txt",
+      "pages": 1,
+      "chunks": 4,
+      "non_empty_characters": 11966,
+      "original": {
+        "filename": "energy_definitions.txt",
+        "bytes": 14415,
+        "sha256": "cb982efd2666bf2c563d3672c2aee86c33688b854840d8403baa745baaf021af"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "personal-notes-nikola-tesla",
+      "title": "Personal Nikola Tesla Notes",
+      "creator": "Bijan",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "private",
+      "category": "personal-notes",
+      "extraction_status": "empty",
+      "text_file": "personal-notes/personal-notes-nikola-tesla.txt",
+      "pages": 1,
+      "chunks": 0,
+      "non_empty_characters": 0,
+      "original": {
+        "filename": "nikola_tesla.txt",
+        "bytes": 1,
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "personal-notes-tesla-1",
+      "title": "Personal Tesla Notes 1",
+      "creator": "Bijan",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "private",
+      "category": "personal-notes",
+      "extraction_status": "extracted",
+      "text_file": "personal-notes/personal-notes-tesla-1.txt",
+      "pages": 1,
+      "chunks": 1,
+      "non_empty_characters": 1974,
+      "original": {
+        "filename": "tesla_1.txt",
+        "bytes": 2331,
+        "sha256": "ad9ab1cbe04f80c211d65e14e0d20494fce0b9cea4d4ffe501ee8a3e35e35e4d"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "personal-notes-tesla-2",
+      "title": "Personal Tesla Notes 2",
+      "creator": "Bijan",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "private",
+      "category": "personal-notes",
+      "extraction_status": "extracted",
+      "text_file": "personal-notes/personal-notes-tesla-2.txt",
+      "pages": 1,
+      "chunks": 1,
+      "non_empty_characters": 1330,
+      "original": {
+        "filename": "tesla_2.txt",
+        "bytes": 1559,
+        "sha256": "6e40d6b0e25424674ffd844a43b5937eee5d2cf5fb59af2e65363f3ac2536cd1"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "personal-thoughts-tesla",
+      "title": "Personal Thoughts on Tesla",
+      "creator": "Bijan",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "private",
+      "category": "personal-notes",
+      "extraction_status": "extracted",
+      "text_file": "personal-notes/personal-thoughts-tesla.txt",
+      "pages": 1,
+      "chunks": 1,
+      "non_empty_characters": 255,
+      "original": {
+        "filename": "tesla.txt",
+        "bytes": 321,
+        "sha256": "12d3fdb4ec5366f7add57c16627ae479f21825fdae2ee5fe54e5a6f374083ee5"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "plekhanov-tesla-tower-analysis",
+      "title": "Analysis of Tesla Patents and Diaries Concerning Tesla Tower",
+      "creator": "Leonid Plekhanov and Sergey Plekhanov",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/plekhanov-tesla-tower-analysis.txt",
+      "pages": 18,
+      "chunks": 20,
+      "non_empty_characters": 45279,
+      "original": {
+        "filename": "Analysis-of-Teslas-patents-and-diaries_en_v2.pdf",
+        "bytes": 1184900,
+        "sha256": "badd7324630136f304b4252d703970e6d85f48305b9caa073de6153a95ef5356"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "sarboh-patents-2010",
+      "title": "The Patents of Nikola Tesla",
+      "creator": "Snezana Sarboh",
+      "date": "2010",
+      "kind": "peer-reviewed-article",
+      "url": null,
+      "evidence_tier": "B",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/sarboh-patents-2010.txt",
+      "pages": 5,
+      "chunks": 9,
+      "non_empty_characters": 23654,
+      "original": {
+        "filename": "[World Patent Information 2010-dec vol. 32 iss..pdf",
+        "bytes": 703635,
+        "sha256": "8b66cdcc86d3eef603a2e837f2580bad883da4ef309584e25d4d46afe03fcb8d"
+      },
+      "topics": [
+        "patent-catalog",
+        "patent-families",
+        "international-patents"
+      ],
+      "notes": "World Patent Information 32 (2010), 335–339. Reports 112 U.S. patents and 284 patents across 27 countries; use its appendices to build the definitive patent table."
+    },
+    {
+      "source_id": "seifer-wizard",
+      "title": "Wizard: The Life and Times of Nikola Tesla",
+      "creator": "Marc J. Seifer",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "C",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/seifer-wizard.txt",
+      "pages": 1,
+      "chunks": 388,
+      "non_empty_characters": 1189790,
+      "original": {
+        "filename": "wizard-the-life-and-times-of-nikola-tesla-of-a.epub",
+        "bytes": 3844483,
+        "sha256": "4cb763f3fd58450e70ff386d61c54b5f227135706df3d0313a702b63e0a89531"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "tesla-complete-us-patents-local-429",
+      "title": "Tesla Complete U.S. Patents",
+      "creator": "Nikola Tesla",
+      "date": null,
+      "kind": null,
+      "url": null,
+      "evidence_tier": "A",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "extracted",
+      "text_file": "research-only/tesla-complete-us-patents-local-429.txt",
+      "pages": 429,
+      "chunks": 644,
+      "non_empty_characters": 1110369,
+      "original": {
+        "filename": "Tesla, Nikola - Tesla_s Complete U.S. Patents -.pdf",
+        "bytes": 38223719,
+        "sha256": "f6c8a550e76d242c6afc12b4035c15d64ea0873221b1414730b749d8dc875fdf"
+      },
+      "topics": [],
+      "notes": null
+    },
+    {
+      "source_id": "tesla-complete-us-patents-local-499",
+      "title": "Complete U.S. Patents of Nikola Tesla",
+      "creator": "Nikola Tesla",
+      "date": "1886-1928",
+      "kind": "patent-compilation",
+      "url": null,
+      "evidence_tier": "A",
+      "rights": "research-only",
+      "category": "research-only",
+      "extraction_status": "needs-ocr",
+      "text_file": "research-only/tesla-complete-us-patents-local-499.txt",
+      "pages": 499,
+      "chunks": 1,
+      "non_empty_characters": 121,
+      "original": {
+        "filename": "Complete Us Patents Of Nikola Tesla Free Energy.pdf",
+        "bytes": 42196483,
+        "sha256": "85e3601be6d282120814cc43a2a9617a070759027d7c55e387d82952478f7b3b"
+      },
+      "topics": [
+        "patents",
+        "electrical-engineering",
+        "mechanical-engineering"
+      ],
+      "notes": "Alternate 499-page local compilation retained separately from the 429-page edition; compare coverage before deduplicating."
+    },
+    {
+      "source_id": "tesla-my-inventions-1919",
+      "title": "My Inventions",
+      "creator": "Nikola Tesla",
+      "date": "1919",
+      "kind": "autobiographical-series",
+      "url": null,
+      "evidence_tier": "A",
+      "rights": "public-domain",
+      "category": "public-domain",
+      "extraction_status": "extracted",
+      "text_file": "public-domain/tesla-my-inventions-1919.txt",
+      "pages": 34,
+      "chunks": 59,
+      "non_empty_characters": 119451,
+      "original": {
+        "filename": "my_inventions.pdf",
+        "bytes": 123503,
+        "sha256": "01015077c356a9412ff3b923d38d22f4f05ffae18d54ffb282eed0befef65942"
+      },
+      "topics": [
+        "autobiography",
+        "tesla-coil",
+        "magnifying-transmitter",
+        "telautomatics"
+      ],
+      "notes": "Originally serialized in Electrical Experimenter. Treat autobiographical recollections as primary testimony, not independent verification."
+    },
+    {
+      "source_id": "web-reformation-britannia-stole-teslas-alternating-current",
+      "title": "BRITANNIA STOLE NIKOLA TESLA'S ALTERNATING CURRENT!!",
+      "creator": "Reformation.org web archive",
+      "date": null,
+      "kind": "archived-web-page",
+      "url": "https://www.reformation.org/britannia-stole-teslas-alternating-current.html",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/web-reformation-britannia-stole-teslas-alternating-current.txt",
+      "pages": 1,
+      "chunks": 5,
+      "non_empty_characters": 19380,
+      "original": {
+        "filename": "britannia-stole-teslas-alternating-current.html",
+        "bytes": 30164,
+        "sha256": "25ce0893b690512ca4d018151483a5ef28c2be8c960b7b9f24e283311915fa03"
+      },
+      "topics": [
+        "archived-web-page",
+        "tesla",
+        "research-lead"
+      ],
+      "notes": "Locally archived web page. Treat as an unverified lead and check its claims against primary sources."
+    },
+    {
+      "source_id": "web-reformation-nikola-tesla",
+      "title": "NIKOLA TESLA–THE MAN WHO ELECTRIFIED THE WORLD!!",
+      "creator": "Reformation.org web archive",
+      "date": null,
+      "kind": "archived-web-page",
+      "url": "https://www.reformation.org/nikola-tesla.html",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/web-reformation-nikola-tesla.txt",
+      "pages": 1,
+      "chunks": 7,
+      "non_empty_characters": 27502,
+      "original": {
+        "filename": "nikola-tesla.html",
+        "bytes": 51408,
+        "sha256": "8d9ef39fea900eca0545aec949c0c18a0b7eeec744ceedf7ec82da2d54d0b54e"
+      },
+      "topics": [
+        "archived-web-page",
+        "tesla",
+        "research-lead"
+      ],
+      "notes": "Locally archived web page. Treat as an unverified lead and check its claims against primary sources."
+    },
+    {
+      "source_id": "web-reformation-nikola-tesla-discovered-the-dome-in-1899",
+      "title": "NIKOLA TESLA DISCOVERED THE DOME IN 1899",
+      "creator": "Reformation.org web archive",
+      "date": null,
+      "kind": "archived-web-page",
+      "url": "https://www.reformation.org/nikola-tesla-discovered-the-dome-in-1899.html",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/web-reformation-nikola-tesla-discovered-the-dome-in-1899.txt",
+      "pages": 1,
+      "chunks": 5,
+      "non_empty_characters": 23939,
+      "original": {
+        "filename": "nikola-tesla-discovered-the-dome-in-1899.html",
+        "bytes": 36150,
+        "sha256": "9c81dd5166444cdcee4e45b752b95edd4f41e67dfa2ebc9a8f1346dc5db1b379"
+      },
+      "topics": [
+        "archived-web-page",
+        "tesla",
+        "research-lead"
+      ],
+      "notes": "Locally archived web page. Treat as an unverified lead and check its claims against primary sources."
+    },
+    {
+      "source_id": "web-reformation-tesla-and-tunguska",
+      "title": "Nikola Tesla and Tunguska",
+      "creator": "Reformation.org web archive",
+      "date": null,
+      "kind": "archived-web-page",
+      "url": "https://www.reformation.org/tesla-and-tunguska.html",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/web-reformation-tesla-and-tunguska.txt",
+      "pages": 1,
+      "chunks": 5,
+      "non_empty_characters": 20418,
+      "original": {
+        "filename": "tesla-and-tunguska.html",
+        "bytes": 34703,
+        "sha256": "9affcec2a8d6052943e6b56b46b6f4a2f2f4bdc28a5aaf44cd6453de0d73a42f"
+      },
+      "topics": [
+        "archived-web-page",
+        "tesla",
+        "research-lead"
+      ],
+      "notes": "Locally archived web page. Treat as an unverified lead and check its claims against primary sources."
+    },
+    {
+      "source_id": "youtube-0yz-lfj3foc",
+      "title": "AHA Halo scalar wave tech with Nick",
+      "creator": "MrAstrotheology",
+      "date": "2026-03-09",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=0yz-LFj3Foc",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-0yz-lfj3foc.txt",
+      "pages": 1,
+      "chunks": 11,
+      "non_empty_characters": 26671,
+      "original": {
+        "filename": "0yz-LFj3Foc.txt",
+        "bytes": 32807,
+        "sha256": "3d07964a0fed5e8e7bef0e15f3bd35cae73c09fd69e2a633bf31ae8c33a27efd"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-1-91-f9d9es",
+      "title": "Darsonval/ Tesla Tech Reverse Biological Engineering technology",
+      "creator": "MrAstrotheology",
+      "date": "2021-02-22",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=1-91-f9D9es",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-1-91-f9d9es.txt",
+      "pages": 1,
+      "chunks": 5,
+      "non_empty_characters": 12592,
+      "original": {
+        "filename": "1-91-f9D9es.txt",
+        "bytes": 15477,
+        "sha256": "4fbcb010309888fb8e4f73649c049b0ee97237df84fbb59d0de4dd73b18dfb1d"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-1k-trlkpnqu",
+      "title": "Stationary - Horizontal - Terrestrial - Plane - Earth truth on the TruthSeekah",
+      "creator": "MrAstrotheology",
+      "date": "2017-08-28",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=1k_TRLKPnQU",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-1k-trlkpnqu.txt",
+      "pages": 1,
+      "chunks": 26,
+      "non_empty_characters": 65339,
+      "original": {
+        "filename": "1k_TRLKPnQU.txt",
+        "bytes": 80971,
+        "sha256": "3b01fee4ce6f0b97e5ca742e77715fb70e22f20ce63e0b00b8d725e96a6a5722"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-1vb0xkzfhr8",
+      "title": "Magnetism on a Stationary Horizontal flat earth, Santos bonacci",
+      "creator": "MrAstrotheology",
+      "date": "2017-08-29",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=1vb0XkZFHr8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-1vb0xkzfhr8.txt",
+      "pages": 1,
+      "chunks": 23,
+      "non_empty_characters": 58002,
+      "original": {
+        "filename": "1vb0XkZFHr8.txt",
+        "bytes": 71841,
+        "sha256": "d2404885ee05396d790e5ae75a0884aec5f51cbdb72a06a1b9cddd11e22f500e"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-21lkuvnqarw",
+      "title": "'The missing link podcast' with Nick Schizzano and Crystal Cavalier",
+      "creator": "MrAstrotheology",
+      "date": "2023-03-31",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=21LKuVnqArw",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-21lkuvnqarw.txt",
+      "pages": 1,
+      "chunks": 32,
+      "non_empty_characters": 80803,
+      "original": {
+        "filename": "21LKuVnqArw.txt",
+        "bytes": 100013,
+        "sha256": "b404fd9784354a9d485dc055a135b519fe33e5ee2601d0f347ff253174f8153f"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-39n4rvqeebg",
+      "title": "Electro therapy from 1900’s with Artur Lanz: Part two",
+      "creator": "MrAstrotheology",
+      "date": "2022-08-11",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=39N4rVQEEBg",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-39n4rvqeebg.txt",
+      "pages": 1,
+      "chunks": 5,
+      "non_empty_characters": 11848,
+      "original": {
+        "filename": "39N4rVQEEBg.txt",
+        "bytes": 14624,
+        "sha256": "20533fa1b763dc27bd42b9f56764190b67a68706620a1185dd86c1f64f25b869"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-3jljqyknqwm",
+      "title": "Convocatoria a los mexicanos",
+      "creator": "MrAstrotheology",
+      "date": "2022-10-05",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=3jLjqyKnQwM",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-3jljqyknqwm.txt",
+      "pages": 1,
+      "chunks": 1,
+      "non_empty_characters": 2299,
+      "original": {
+        "filename": "3jLjqyKnQwM.txt",
+        "bytes": 2796,
+        "sha256": "c9dc640ea349f4cc201ce8735dc8e0d49a490ea950d145f6f4c0f4dab4c23749"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-3t0bzvmzhfi",
+      "title": "Leo Shares Warmth & Creativity Hearts Centre",
+      "creator": "MrAstrotheology",
+      "date": "2021-02-12",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=3T0BzvMZHfI",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-3t0bzvmzhfi.txt",
+      "pages": 1,
+      "chunks": 16,
+      "non_empty_characters": 39799,
+      "original": {
+        "filename": "3T0BzvMZHfI.txt",
+        "bytes": 49427,
+        "sha256": "f0c895bded131f761d0bab846765a9cdba3b38820f007733f15e51bda726f644"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-7-hymug4mps",
+      "title": "How to stay perfectly healthy made simple",
+      "creator": "MrAstrotheology",
+      "date": "2023-10-09",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=7-HyMUg4MPs",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-7-hymug4mps.txt",
+      "pages": 1,
+      "chunks": 31,
+      "non_empty_characters": 71430,
+      "original": {
+        "filename": "7-HyMUg4MPs.txt",
+        "bytes": 89689,
+        "sha256": "ba305a2eda8491946c003ba74a489657deca74d8b11f690e7aeb32b08e7d42d7"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-7f-3-zledly",
+      "title": "Radiant Technologies Quantum Wellness Centre workshop",
+      "creator": "MrAstrotheology",
+      "date": "2023-01-21",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=7F_3_ZLedLY",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-7f-3-zledly.txt",
+      "pages": 1,
+      "chunks": 8,
+      "non_empty_characters": 20052,
+      "original": {
+        "filename": "7F_3_ZLedLY.txt",
+        "bytes": 24529,
+        "sha256": "0ec9cbd34e25f75fbafc256c73ddcd3f35a35e81c78a597e03def9a474a7d5e3"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-9cjpuway-xi",
+      "title": "From source to syncretism: truth connections radio; 20/11 2012 santos bonacci",
+      "creator": "MrAstrotheology",
+      "date": "2018-03-13",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=9cJpUwAy-XI",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-9cjpuway-xi.txt",
+      "pages": 1,
+      "chunks": 16,
+      "non_empty_characters": 39753,
+      "original": {
+        "filename": "9cJpUwAy-XI.txt",
+        "bytes": 48861,
+        "sha256": "038a4652c919ff733dd03799c7bcebe936a98cdf9817a2586365079fe821b013"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-a0po5-icleu",
+      "title": "Meeting with Santos Bonacci on the topic of health and Lifewave",
+      "creator": "MrAstrotheology",
+      "date": "2023-12-01",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=A0PO5_iClEU",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-a0po5-icleu.txt",
+      "pages": 1,
+      "chunks": 10,
+      "non_empty_characters": 22994,
+      "original": {
+        "filename": "A0PO5_iClEU.txt",
+        "bytes": 28672,
+        "sha256": "2acecec37b9f0073f7fbca1eba6f388e3bdc6d724db206a31400f7e1ff8930c2"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-a8mcy0-xlwk",
+      "title": "More magnetic music..... sonoluminescence, GOD",
+      "creator": "MrAstrotheology",
+      "date": "2021-01-28",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=A8mCY0_XlWk",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-a8mcy0-xlwk.txt",
+      "pages": 1,
+      "chunks": 4,
+      "non_empty_characters": 10298,
+      "original": {
+        "filename": "A8mCY0_XlWk.txt",
+        "bytes": 12741,
+        "sha256": "148a382eda95a9d19f0a57d5211257e7dff2de809fccf7d7394872250cae695b"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-ba32h0zfpr0",
+      "title": "Darsonval/ Tesla Tech Magnetic music, sonoluminescence.... GOD",
+      "creator": "MrAstrotheology",
+      "date": "2021-01-28",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=bA32H0ZFPr0",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-ba32h0zfpr0.txt",
+      "pages": 1,
+      "chunks": 6,
+      "non_empty_characters": 14273,
+      "original": {
+        "filename": "bA32H0ZFPr0.txt",
+        "bytes": 17604,
+        "sha256": "a07d7844460b39163a7f3d7837cb4f89eb5ce06896533db6e1c49db1f52283e1"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-cbyoqs1zcqy",
+      "title": "The true Ptolemaic model of the universe (stationary plane-t) : FreaksenseTV",
+      "creator": "MrAstrotheology",
+      "date": "2019-12-15",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=CByoQs1ZCQY",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-cbyoqs1zcqy.txt",
+      "pages": 1,
+      "chunks": 28,
+      "non_empty_characters": 71848,
+      "original": {
+        "filename": "CByoQs1ZCQY.txt",
+        "bytes": 88601,
+        "sha256": "adccd96df922feb8842d697a9ce2a6af6eddeadddad15a3ebe5f866a021ab68f"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-ctihu-phhp0",
+      "title": "Gratitude for MrAstrotheology, thanks to YouTube  Part Two",
+      "creator": "MrAstrotheology",
+      "date": "2025-10-29",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=CTiHU-PhHp0",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-ctihu-phhp0.txt",
+      "pages": 1,
+      "chunks": 15,
+      "non_empty_characters": 35977,
+      "original": {
+        "filename": "CTiHU-PhHp0.txt",
+        "bytes": 44736,
+        "sha256": "e5d41c365002139529aa56267023399dd9b79f0c6cb254d5232a88e81ebfc2f8"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-euqtr76e26a",
+      "title": "Astrology talk, radio podcast santos bonacci August 1 2015",
+      "creator": "MrAstrotheology",
+      "date": "2017-09-11",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=EUQtR76E26A",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-euqtr76e26a.txt",
+      "pages": 1,
+      "chunks": 34,
+      "non_empty_characters": 84253,
+      "original": {
+        "filename": "EUQtR76E26A.txt",
+        "bytes": 104257,
+        "sha256": "4ede4c136627714a9c6d7b2fec9986577914fe127f62a1fac0b709d14c564dea"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-exkxfcbhrnm",
+      "title": "Introducing THE ABSOLUTE MOTION THEORY. Excerpt from \"Hearth Book 5\" by Julio Castro DBBD",
+      "creator": "MrAstrotheology",
+      "date": "2026-04-12",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=EXkxfcbHRnM",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-exkxfcbhrnm.txt",
+      "pages": 1,
+      "chunks": 2,
+      "non_empty_characters": 4750,
+      "original": {
+        "filename": "EXkxfcbHRnM.txt",
+        "bytes": 5689,
+        "sha256": "31f9adc441f103e8d70ff02de120799e082b35fa09872d863da2948220425b95"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-f-uzsl0m8ve",
+      "title": "The Whole Truth About What Food Is: Charlie, Colleen, Remembrancer, Justin, and Vegetable Police",
+      "creator": "MrAstrotheology",
+      "date": "2021-03-19",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=F_Uzsl0M8vE",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-f-uzsl0m8ve.txt",
+      "pages": 1,
+      "chunks": 57,
+      "non_empty_characters": 140562,
+      "original": {
+        "filename": "F_Uzsl0M8vE.txt",
+        "bytes": 174549,
+        "sha256": "902d3b4fd14424dc577fadab969ba957b8be94e1937a3a9a5bd3b4930ab4d3f5"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-fgqsxf-dkqe",
+      "title": "Important Syncretism and personal updates",
+      "creator": "MrAstrotheology",
+      "date": "2022-11-08",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=fGQsxf-dkQE",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-fgqsxf-dkqe.txt",
+      "pages": 1,
+      "chunks": 9,
+      "non_empty_characters": 21690,
+      "original": {
+        "filename": "fGQsxf-dkQE.txt",
+        "bytes": 26948,
+        "sha256": "d5b1d07d01cd58d11d70e7e1c7d1590177ff0efc6e02bc3853e8cf9ea42db46d"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-frrlae9nkku",
+      "title": "SEQUEL TO ET TRANSMISSION WITH SACHA STONE & SANTOS BONACCI (Oct 21st, 2021)",
+      "creator": "MrAstrotheology",
+      "date": "2026-05-02",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=fRRlae9nKkU",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-frrlae9nkku.txt",
+      "pages": 1,
+      "chunks": 19,
+      "non_empty_characters": 48033,
+      "original": {
+        "filename": "fRRlae9nKkU.txt",
+        "bytes": 59075,
+        "sha256": "621cfaedd1f76ac9cd319b07ce3ed148f117dcb8829f8dff969c9cc8b85a7226"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-huwqvzljwys",
+      "title": "Gratitude for MrAstrotheology, thanks to YouTube Part One",
+      "creator": "MrAstrotheology",
+      "date": "2025-10-29",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=HUWqVzLJWYs",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-huwqvzljwys.txt",
+      "pages": 1,
+      "chunks": 7,
+      "non_empty_characters": 16269,
+      "original": {
+        "filename": "HUWqVzLJWYs.txt",
+        "bytes": 20243,
+        "sha256": "a786aa78b77a0c85bfbeaa49bbdaf132f1c7938f33d97377bf69a05ad5215a96"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-i0l7zrxg1-s",
+      "title": "Important Syncretism and personal updates",
+      "creator": "MrAstrotheology",
+      "date": "2022-11-07",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=i0L7ZrXg1-s",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-i0l7zrxg1-s.txt",
+      "pages": 1,
+      "chunks": 9,
+      "non_empty_characters": 21733,
+      "original": {
+        "filename": "i0L7ZrXg1-s.txt",
+        "bytes": 27027,
+        "sha256": "7b99bdcc6dd039bda186b9dec4142c43c80723935395cb0b16329342cb1412c2"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-i7y3j4-soq4",
+      "title": "Gratitude for MrAstrotheology, thanks to YouTube  Part Two",
+      "creator": "MrAstrotheology",
+      "date": "2025-10-28",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=i7y3j4-sOq4",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-i7y3j4-soq4.txt",
+      "pages": 1,
+      "chunks": 15,
+      "non_empty_characters": 36718,
+      "original": {
+        "filename": "i7y3j4-sOq4.txt",
+        "bytes": 45672,
+        "sha256": "5e0869e625ded39b572a5145e35a1fb797fad1abb45e076663ffd395ffe33402"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-iucxugzogwa",
+      "title": "Syncretism and ascension: zen radio 3/ 5/ 16 guest santos bonacci",
+      "creator": "MrAstrotheology",
+      "date": "2017-09-24",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=IUCxuGZogWA",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-iucxugzogwa.txt",
+      "pages": 1,
+      "chunks": 27,
+      "non_empty_characters": 68172,
+      "original": {
+        "filename": "IUCxuGZogWA.txt",
+        "bytes": 84181,
+        "sha256": "eeab70d167d770ee078b40c3fe9e6c8d4b697b3c5c8f452018d736bfd88e22bd"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-ivjdp8e9c70",
+      "title": "Entrevista a Gregorio, ingeniero del lecho magnético Scalar 777 (Oct 24th, 2025)",
+      "creator": "MrAstrotheology",
+      "date": "2025-11-27",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=IVjDP8E9C70",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-ivjdp8e9c70.txt",
+      "pages": 1,
+      "chunks": 11,
+      "non_empty_characters": 31018,
+      "original": {
+        "filename": "IVjDP8E9C70.txt",
+        "bytes": 37720,
+        "sha256": "5997ca8c732d425781fa220df5facf3dccb3aaa0aafde06067902f75804235d2"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-jjesvkua1sy",
+      "title": "Julio Castro and Santos Bonacci talk Syncretism EP 2",
+      "creator": "MrAstrotheology",
+      "date": "2026-06-08",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=JjeSVKuA1SY",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-jjesvkua1sy.txt",
+      "pages": 1,
+      "chunks": 17,
+      "non_empty_characters": 42304,
+      "original": {
+        "filename": "JjeSVKuA1SY.txt",
+        "bytes": 52114,
+        "sha256": "35a01f02a3efa78a2d7fd0e6a04a8a148a6c4ac2dc646b42bac04cdee17a131c"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-juqe-zwooh8",
+      "title": "Magnetic healing.....",
+      "creator": "MrAstrotheology",
+      "date": "2020-12-30",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=juqe-ZwOoh8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-juqe-zwooh8.txt",
+      "pages": 1,
+      "chunks": 4,
+      "non_empty_characters": 8019,
+      "original": {
+        "filename": "juqe-ZwOoh8.txt",
+        "bytes": 9924,
+        "sha256": "5e6d8f363c38c7d4fe418f0640e97a000f950c6cd55e38952a7ab4daa8403ca9"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-jxq00uxxzi8",
+      "title": "Radiant Technologies Quantum Wellness Centre workshop intro",
+      "creator": "MrAstrotheology",
+      "date": "2023-01-21",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=jxQ00uxxZi8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-jxq00uxxzi8.txt",
+      "pages": 1,
+      "chunks": 3,
+      "non_empty_characters": 5917,
+      "original": {
+        "filename": "jxQ00uxxZi8.txt",
+        "bytes": 7342,
+        "sha256": "907f3b575923c23c6c0e5dc250c28191ee679cd6028b2ab99f1b9c027364ffa5"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-k119yp8nk1o",
+      "title": "The Great Tartarian Horde Empire, Flat Earth and Much More: TARTARIA. Jamie Lee & Santos Bonacci",
+      "creator": "MrAstrotheology",
+      "date": "2019-09-12",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=k119Yp8Nk1o",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-k119yp8nk1o.txt",
+      "pages": 1,
+      "chunks": 21,
+      "non_empty_characters": 54037,
+      "original": {
+        "filename": "k119Yp8Nk1o.txt",
+        "bytes": 66144,
+        "sha256": "23c44ade3deb03f6e3827a82ff78d6dfa5b3406e85a8e1a377d7a7d1d96e07ea"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-l93fm3vev2o",
+      "title": "San Cristóbal de las Casas, Ned Kelly, and the Republic of Greta",
+      "creator": "MrAstrotheology",
+      "date": "2025-11-28",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=L93Fm3Vev2o",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-l93fm3vev2o.txt",
+      "pages": 1,
+      "chunks": 5,
+      "non_empty_characters": 12316,
+      "original": {
+        "filename": "L93Fm3Vev2o.txt",
+        "bytes": 15342,
+        "sha256": "e34c7a7614ca7ca5e67de346236ee879ae06d297271f2d4916b56ccb9fb70b11"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-mogizxuvov8",
+      "title": "Talking Syncretism with Eddie Bravo on Tin Foil Hat podcast",
+      "creator": "MrAstrotheology",
+      "date": "2020-02-17",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=MogizXUvoV8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-mogizxuvov8.txt",
+      "pages": 1,
+      "chunks": 49,
+      "non_empty_characters": 121245,
+      "original": {
+        "filename": "MogizXUvoV8.txt",
+        "bytes": 150259,
+        "sha256": "08adf934d20c525fc94ea06ae3450c22fb3578d8d45f0479fc42d060e312d893"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-motlcnc5vwe",
+      "title": "Syncretism society gathering: Playa del Carmen",
+      "creator": "MrAstrotheology",
+      "date": "2021-04-03",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=mOTlCnc5vwE",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-motlcnc5vwe.txt",
+      "pages": 1,
+      "chunks": 4,
+      "non_empty_characters": 10892,
+      "original": {
+        "filename": "mOTlCnc5vwE.txt",
+        "bytes": 13208,
+        "sha256": "e4a983ffadfbb253e8ddff287d9ba7c4807d9d5c15a744f9a05fe9cc6aa6f8e5"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-nkmnjfa7njm",
+      "title": "Pyramids in my backyard Part 1",
+      "creator": "MrAstrotheology",
+      "date": "2025-11-14",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=nKmNjFA7nJM",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-nkmnjfa7njm.txt",
+      "pages": 1,
+      "chunks": 6,
+      "non_empty_characters": 12821,
+      "original": {
+        "filename": "nKmNjFA7nJM.txt",
+        "bytes": 15949,
+        "sha256": "0ba18ae3e1e5cf71b31458dabc05b333bd96188a9b0a19941aad7fecbf380851"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-odqks7zul-m",
+      "title": "Flat Earth vs Globe Earth with Cullen Smith: poor quality live version",
+      "creator": "MrAstrotheology",
+      "date": "2021-08-30",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=ODqkS7Zul-M",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-odqks7zul-m.txt",
+      "pages": 1,
+      "chunks": 39,
+      "non_empty_characters": 97750,
+      "original": {
+        "filename": "ODqkS7Zul-M.txt",
+        "bytes": 121151,
+        "sha256": "38e7213cba6d1ca7027cdcec83369fc3ee8611139371ff54e0420baa01c770bd"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-p9w0livbiru",
+      "title": "Eye focus introduction meeting",
+      "creator": "MrAstrotheology",
+      "date": "2021-02-17",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=p9w0LivBIRU",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-p9w0livbiru.txt",
+      "pages": 1,
+      "chunks": 26,
+      "non_empty_characters": 64107,
+      "original": {
+        "filename": "p9w0LivBIRU.txt",
+        "bytes": 79359,
+        "sha256": "e949d535639563529d520b006e69c2732e5d1644ac87b00942fb2f3ea8541aca"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-pirhgisa-ju",
+      "title": "Hydrogen Man and the Lourdes Hydrofix Premium Edition",
+      "creator": "MrAstrotheology",
+      "date": "2025-11-04",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=pirHGiSA-JU",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-pirhgisa-ju.txt",
+      "pages": 1,
+      "chunks": 38,
+      "non_empty_characters": 97167,
+      "original": {
+        "filename": "pirHGiSA-JU.txt",
+        "bytes": 119902,
+        "sha256": "911d8053780147197d9e2792846f84b49f68ab4d76b362a0c7955b29e4c3542b"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-qiu5li-dpjs",
+      "title": "How to teach Syncretism - S.A.A.M. B.E.S.T. Method - The English Alphabet - From Skool!",
+      "creator": "MrAstrotheology",
+      "date": "2026-06-12",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=Qiu5Li_dpjs",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-qiu5li-dpjs.txt",
+      "pages": 1,
+      "chunks": 16,
+      "non_empty_characters": 40003,
+      "original": {
+        "filename": "Qiu5Li_dpjs.txt",
+        "bytes": 49545,
+        "sha256": "513585bd091b5c0cf1ceed182c7e87b83e04a5f06585acf1b84e489a66336cc4"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-rpm5p4pdyx8",
+      "title": "Scalar 777 magnetic multi functional therapy bed",
+      "creator": "MrAstrotheology",
+      "date": "2026-04-11",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=rpm5p4pdYX8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-rpm5p4pdyx8.txt",
+      "pages": 1,
+      "chunks": 11,
+      "non_empty_characters": 29933,
+      "original": {
+        "filename": "rpm5p4pdYX8.txt",
+        "bytes": 36442,
+        "sha256": "5f99da2a3126222d4eca484fa424597734a2c8e3614b2fd8e107a93fdc134f2c"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-t1r1gju1fl8",
+      "title": "Gratitude for MrAstrotheology, thanks to YouTube Part One",
+      "creator": "MrAstrotheology",
+      "date": "2025-10-28",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=T1R1GjU1fL8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-t1r1gju1fl8.txt",
+      "pages": 1,
+      "chunks": 7,
+      "non_empty_characters": 16674,
+      "original": {
+        "filename": "T1R1GjU1fL8.txt",
+        "bytes": 20747,
+        "sha256": "ccb9c560ba44c2bc3ad35b1fa84e78809544d947c6b69c267339f0f4df6384af"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-ukbsxlldqvc",
+      "title": "Santos Bonacci Astrotheology, Syncretism, Flat Earth Interview on Zen Radio",
+      "creator": "MrAstrotheology",
+      "date": "2016-03-08",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=ukBsXllDqvc",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-ukbsxlldqvc.txt",
+      "pages": 1,
+      "chunks": 28,
+      "non_empty_characters": 71644,
+      "original": {
+        "filename": "ukBsXllDqvc.txt",
+        "bytes": 88131,
+        "sha256": "330bd17f1a153a0092c2c158e59093b1a95a0025346809876eb972e6b5d0d7c0"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-uyhbv3cxgzq",
+      "title": "The Simple & Elegant Design of God/ Nature: FreakSense TV & santos bonacci",
+      "creator": "MrAstrotheology",
+      "date": "2019-02-20",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=uYhbv3cxgzQ",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-uyhbv3cxgzq.txt",
+      "pages": 1,
+      "chunks": 32,
+      "non_empty_characters": 81174,
+      "original": {
+        "filename": "uYhbv3cxgzQ.txt",
+        "bytes": 99922,
+        "sha256": "fefae6f2375bd53681503eb297600f71d54fd76422288be596d7c05d55dcf5e0"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-vxfbjfakovs",
+      "title": "Hail Holy Horus Hourly Hero - Syncretism Society lecture series part 3 FINAL",
+      "creator": "MrAstrotheology",
+      "date": "2022-02-24",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=vXFBjFakovs",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-vxfbjfakovs.txt",
+      "pages": 1,
+      "chunks": 20,
+      "non_empty_characters": 48457,
+      "original": {
+        "filename": "vXFBjFakovs.txt",
+        "bytes": 60203,
+        "sha256": "5d2354ac70dcc02da70e63afac963a42f9904a962bd5cc75d2ce66e6fdfaf85e"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-w8tguw1qt2a",
+      "title": "Syncretism Society Live! Introduction to the Syncretism Academy",
+      "creator": "MrAstrotheology",
+      "date": "2021-05-27",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=w8TguW1qT2A",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-w8tguw1qt2a.txt",
+      "pages": 1,
+      "chunks": 27,
+      "non_empty_characters": 66970,
+      "original": {
+        "filename": "w8TguW1qT2A.txt",
+        "bytes": 82702,
+        "sha256": "a1ad0336d4205355dfbd3e239c0dbe998f0c823f9cd51e4dd7c04aa2e7519c2b"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-wovtytnj8h8",
+      "title": "SYNCRETISM SOCIETY EP 67 “ENERGETIC AND SCALAR THERAPY” LIVE & Taking Calls1",
+      "creator": "MrAstrotheology",
+      "date": "2022-11-08",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=WovTyTnJ8H8",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-wovtytnj8h8.txt",
+      "pages": 1,
+      "chunks": 26,
+      "non_empty_characters": 64677,
+      "original": {
+        "filename": "WovTyTnJ8H8.txt",
+        "bytes": 80229,
+        "sha256": "88e82a4d27b3fcdfd79eb4ee89712f040529b3b6963e02d0a78ad412cff195f0"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-xkud0vyb3bw",
+      "title": "Julio Castro and Santos Bonacci talk Syncretism",
+      "creator": "MrAstrotheology",
+      "date": "2026-04-30",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=XKUD0vYb3Bw",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-xkud0vyb3bw.txt",
+      "pages": 1,
+      "chunks": 21,
+      "non_empty_characters": 53058,
+      "original": {
+        "filename": "XKUD0vYb3Bw.txt",
+        "bytes": 65177,
+        "sha256": "92e0538c2ace691f90835650df613441a070b4b16c6cb031d108701f1a1689a6"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-ygjn60ymhgk",
+      "title": "NuCalm, hi tech non-invasive, neurobiofeedback, neuroacoustic technology presentation",
+      "creator": "MrAstrotheology",
+      "date": "2026-03-12",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=yGJn60YmhGk",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-ygjn60ymhgk.txt",
+      "pages": 1,
+      "chunks": 13,
+      "non_empty_characters": 32290,
+      "original": {
+        "filename": "yGJn60YmhGk.txt",
+        "bytes": 39730,
+        "sha256": "0dca2998525fe7941a78da8f3e8f48516fef5b6d40d01a1dfc8c913d8f0441c1"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    },
+    {
+      "source_id": "youtube-ztkceneimik",
+      "title": "Aha Halo: Scalar wave frequency technology for the 'healing of the nations'",
+      "creator": "MrAstrotheology",
+      "date": "2025-11-09",
+      "kind": "youtube-transcript",
+      "url": "https://www.youtube.com/watch?v=zTkceNeimik",
+      "evidence_tier": "D",
+      "rights": "research-only",
+      "category": "research-leads",
+      "extraction_status": "extracted",
+      "text_file": "research-leads/youtube-ztkceneimik.txt",
+      "pages": 1,
+      "chunks": 12,
+      "non_empty_characters": 28143,
+      "original": {
+        "filename": "zTkceNeimik.txt",
+        "bytes": 34984,
+        "sha256": "028661e801fc108d5c75f2f3676076435ed97aa7289cc70831c34a0430f84b3e"
+      },
+      "topics": [
+        "youtube-transcript",
+        "tesla-mention",
+        "research-lead"
+      ],
+      "notes": "Locally saved transcript containing Tesla-related terms. Treat as a research lead, not verified evidence."
+    }
+  ]
+}

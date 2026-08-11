@@ -1,0 +1,1006 @@
+===== PAGE 0001 =====
+
+GLOBAL ENERGY TRANSMISSION                                   globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                           getmission.ru
+
+
+        ANALYSIS OF TESLA'S PATENTS AND DIARIES
+        CONCERNING «TESLA TOWER» AND ENERGY
+                     TRANSMISSION
+
+Authors: Sergey Plekhanov, Leonid Plekhanov
+
+Tags: Wireless technologies, Energy and energy sources
+Last update: Dec 2013
+
+Global Energy Transmission project
+globalenergytransmission.com
+getmission.ru
+
+
+                                                         1
+
+===== PAGE 0002 =====
+
+GLOBAL ENERGY TRANSMISSION                                                                                                    globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                                                                            getmission.ru
+
+
+Table of contents
+
+Introduction........................................................................................................................................................ 3
+Our research objectives ...................................................................................................................................... 5
+Investigation of the Tesla tower's working mode by means of analyzing the patents ....................................... 7
+Currents in the Earth as an outcome of functioning process of the Tesla's tower ........................................... 13
+Computational simulation ................................................................................................................................ 15
+Globular lightning and Tesla tower................................................................................................................... 17
+
+
+                                                                               2
+
+===== PAGE 0003 =====
+
+GLOBAL ENERGY TRANSMISSION                                                   globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                           getmission.ru
+
+
+                                                     watching in eager expectation.
+Introduction                                         Surely enough, in a little while
+                                                     the indications again began,
+This study comprises the information which           grew stronger and stronger and,
+is intended for the use by the individuals           after passing thru a maximum,
+exhibiting interest in given topic. Therefore,       gradually decreased and ceased
+the language of this study was simplified to         once more. Many times, in
+a maximum extent so that it could be easily          regularly recurring intervals,
+understood by those that do not hold                 the same actions were repeated
+degree in related area, that is, in physics.         until the storm, which, as
+Nevertheless, corresponding links to                 evident from simple
+appropriate research works with similar              computations, was moving with
+focus were provided for the purpose of               nearly constant speed, had
+assisting the reader in gaining better               retreated to a distance of about
+                                                     three hundred kilometers. Not
+understanding of the aim of the present
+                                                     did these strange actions stop
+study as well as complementing this purely
+                                                     then, but continued to manifest
+quantitative description.                            themselves with undiminished
+                                                     force. Subsequently, similar
+As it is well known in related gatherings, Mr.       observations were also made by
+Tesla discovered evidence of existence of            my assistant, Mr. Fritz
+standing wave of current oscillations arising        Lowenstein, and shortly
+in response to the lighting strikes while            afterwards several admirable
+conducting the research in Colorado                  opportunities presented
+Springs. This phenomenon was very                    themselves which brought out
+thoroughly described in his diaries. Below           still more forcibly and
+                                                     unmistakably, the true nature of
+you can see extract from this diary:
+                                                     the wonderful phenomenon. No
+                                                     doubt whatever remained: I was
+The date I shall never forget -
+                                                     observing stationary waves
+when I obtained the first
+decisive experimental evidence
+of a truth of overwhelming
+importance for the advancement
+of humanity. A dense mass of
+strongly charged clouds gathered
+in the west and towards the
+evening a violent storm broke
+loose which, after spending its
+fury in the mountains, was
+driven away with great velocity
+over the plains. Heavy and long
+persisting arcs formed almost in
+regular time intervals. My
+observations were now greatly
+facilitated and rendered more
+accurate by the experiences
+already gained. I was able to
+handle my instruments quickly
+and I was prepared. The
+recording apparatus being
+properly adjusted, its
+indications became fainter and
+fainter with the increasing
+distance of the storm until they                     It is possible to find a great amount of
+ceased altogether. I was                             Tesla's statements from his diaries, lectures,
+                                                 3
+
+===== PAGE 0004 =====
+
+GLOBAL ENERGY TRANSMISSION                                                globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                        getmission.ru
+
+
+articles and patents that confirm the fact of       resistance, which has one of its
+standing waves as not being related anyhow          terminals in intimate direct or
+to conventional EM-waves. For instance,             inductive connection with the
+                                                    ground and the other with an
+The chief discovery which                           elevated conductor, and upon
+satisfied me thoroughly as to                       which the electrical
+the practicability of my plan                       oscillations of a primary or
+was made in 1899 in Colorado                        exciting circuit are impressed
+Springs, where I carried on                         under conditions of resonance.
+tests with a generator of 1500                      source: The Transmission of Electrical
+KW capacity and ascertained that                    Energy Without Wires as a Means for
+under certain conditions the                        Furthering Peace, Electrical World and
+current was capable of passing                      Engineer, January 7, 1905
+across the entire globe and
+returning from the antipodes to
+its origin undiminished in                          I finally vanquished all
+strength.                                           difficulties and succeeded in
+source: World System of Wireless                    producing a machine which, to
+Transmission of Energy, Telegraph and               explain its operation in plain
+Telegraph Age, October 16, 1927                     language, resembled a pump in
+                                                    its action, drawing electricity
+                                                    from the earth and driving it
+That electrical energy can be                       back into the same at an
+economically transmitted without                    enormous rate, thus creating
+wires to any terrestrial                            ripples or disturbances which,
+distance, I have unmistakably                       spreading through the earth as
+established in numerous                             through a wire, could be
+observations, experiments and                       detected at great distances by
+measurements, qualitative and                       carefully attuned receiving
+quantitative. These have                            circuits. In this manner I was
+demonstrated that is practicable                    able to transmit to a distance,
+to distribute power from a                          not only feeble effects for the
+central plant in unlimited                          purposes of signaling, but
+amounts, with a loss not                            considerable amounts of energy,
+exceeding a small fraction of                       and later discoveries I made
+one per cent, in the                                convinced me that I shall
+transmission, even to the                           ultimately succeed in conveying
+greatest distance, twelve                           power without wires, for
+thousand miles—to the opposite                      industrial purposes, with high
+end of the globe. This                              economy, and to any distance,
+seemingly impossible feat can                       however great.
+now be readily performed by any                     source: Talking   With   Planets, Collier's
+electrician familiar with the                       Weekly, February 9, 1901
+design and construction of my
+"high-potential magnifying
+transmitter," the most marvelous                    since the first attempts the
+electrical apparatus of which I                     wave lengths have been increased
+have knowledge, enabling the                        until those advocated by me
+production of effects of                            were adopted, in which this form
+unlimited intensities in the                        of radiation has been reduced to
+earth and its ambient                               one-billionth. When a circuit,
+atmosphere. It is, essentially,                     connected to ground and to an
+a freely vibrating secondary                        elevated capacity oscillates,
+circuit of definite length, very                    two effects separate and
+high self-induction and small                       distinct are produced;
+                                                4
+
+===== PAGE 0005 =====
+
+GLOBAL ENERGY TRANSMISSION                                                  globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                          getmission.ru
+
+
+Hertz waves are radiated in a                        easily understood because of the idea of
+direction at right angles to the                     Tesla regarding discovery of the Shuman's
+axis of symmetry of the                              resonance seems to be quite obvious
+conductor, and simultaneously a                      considering the fact that Tesla was working
+current is passed through the                        with big coils, that is, he was dealing with
+earth.
+                                                     the great inductivity values that were
+....
+                                                     implying ultra-low frequencies and existence
+There is a vast difference
+between these two forms of wave                      of Shuman's resonance. But it is just
+movement in their bearing on the                     seeming evidence like it will be shown
+transmission. The Hertz waves                        below.
+represent energy which is
+radiated and unrecoverable. The                      Therefore, the question arises which kind of
+current energy, on the other                         process the resonance or standing waves,
+hand, is preserved and can be                        which were discovered by Tesla during his
+recovered theoretically, at                          research work in Colorado Springs, were
+least, in its entirety.                              part of?
+source: The Effect of Statics on Wireless
+Transmission, January, 1919, pages 627 and
+658
+                                                     Our research objectives
+And so on…                                           The research objective was already
+                                                     predefined in one of the Tesla's patents
+it is very obvious for professional that such        under number US787412. In this patent,
+statements are not anyhow related to                 Tesla exclusively stated that the wave is
+conventional EMR. Moreover, Tesla                    capable of reaching the opposite end of the
+separately points out that such emission is          planet and getting back during definite
+formed during operating process of the               period of time of 0.08484s. At that, an
+system (Hertz waves were considered as               average wave propagation velocity should
+sort of conventional radio emission at that          comprise 471240km per second. Let us
+time). However, such radiation constitutes           assume that Tesla was referring to the wave
+only part of entire energy being exhibited           that is traveling through the Earth's center
+during this process. For instance, it is quite       with the velocity denoted as C (as
+obvious that one of the common opinions              exemplified by Tesla in his patent indicated
+about Tesla discovering Shuman's                     above).
+resonance is absolutely incorrect even
+despite the fact that it is stated so in             In this case, the values of the time frames
+Wikipedia and some other sources. It also            in terms of the forward and backward
+becomes quite evident from the descriptions          travels of such wave in question will be
+provided above that Tesla was performing             calculated according to the following
+all necessary operations employing the               equation:
+frequency with the values falling within the         t=4R/C=2*12735/300000=0.08490. As of
+range of 200 kHz (and the biggest part of            calculation of an average phase velocity
+waves related to Shuman's resonance is               value of the wave traveling along the
+concentrated within such frequency range).           Earth's surface, we employ the following
+In addition, Tesla was not interested in the         formula: V=PI*R/(2*R/C)=C*PI/2=471225.
+use of radio waves or so-called Hertz waves          As a result, we obtained the data which
+in that period of time. It is just very great        strictly corroborate with those provided in
+pity that such wrong opinion can be                  Tesla's patent. Thus, we can conclude that
+observed everywhere, and even in                     Tesla was referring to the waves which are
+Wikipedia. This is mainly because it is just         being distributed through the Earth's center
+making work of the scientists more difficult.        along a straight line. At least, Tesla was
+However, logically this mistake can be quite         obviously thinking of that phenomenon in
+                                                 5
+
+===== PAGE 0006 =====
+
+GLOBAL ENERGY TRANSMISSION                                                   globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                           getmission.ru
+
+
+such a way. Conventional EM-waves are not            Ohm's just due to the rather large area of a
+capable of exhibiting such a behavior. As of         section of such conductor.
+classical physics (that is within "Occam's           At that, current losses in terms of active
+razor"), there are no doubts that Tesla was          resistances are proportional to the square of
+referring to the current and voltage waves.          current (I^2*R), therefore current resistivity
+We assume that Tesla just aimed at                   value is very small (much less than 1A) and
+presenting the information in a most                 square from such value will be even smaller
+efficient and somewhat "mystic" way. That            in terms of its value. That is why in case of
+is why he provided such interesting values           ultra small currents distributed over large
+in terms of an average velocity of the               surfaces of the Earth, ohmic losses can be
+process.                                             of very insignificant value.
+
+Based on the information obtained from               Thus, even when conducting superficial
+Tesla's diaries and patents as well as being         qualitative analysis, we may come to
+bounded by the fundamentals of traditional           conclusion that current and voltage
+classic physics such as Maxwell's equations,         resonance in the body of planet is quite
+we came to the conclusion that the question          feasible phenomenon. Later we will move
+is concerned with the ripple effect of the           towards more precise modeling of such
+currents and voltages in the depth of our            process.
+planet. That is, Tesla literally meant the
+currents as such when he was talking of the          Based on our reasoning above, starting
+currents flowing through the body of the             point of our research is that Tesla was
+planet. At first, this kind of thought seems         literally referring to the CURRENTS when he
+to be crazy because it is well known that            was talking of them. The latter is quite
+the Earth has quite poor conductive                  accordant with qualitative results and his all
+properties. The average parameters of the            prior statements as well as with constructive
+ground conductivity vary within the range            execution of the prototypes executing
+from 10 up 1000 Ohm×m3. Earth surface                energy transmission described in the
+can be considered as a dielectric, not               patents of the scientist.
+conductor. However, it shouldn't be
+forgotten that dielectric and conductor are
+only some tentative concepts in terms of a
+division according to the type of prevailing
+process. Nevertheless, each dielectric
+exhibits the properties similar to those of
+conductor's although dielectric's conductivity
+can be considered as much more complex
+concept than that of the conductor's due to
+the fact that there are many principally
+different processes related to the charge
+transfer happening in dielectrics. The
+conductivity of the dielectrics is also
+topologically different in terms of volumetric
+and superficial constituents.
+Therefore, even at high electrical resistivity
+value of 100 Ohm×m3 and in a case when
+depth of a conductor wit such parameters
+comprises hundreds of kilometers, the total
+resistance value won't be big. Thus, total
+resistance value of entire Earth as a
+conductor can extend over hundredths of
+
+
+                                                 6
+
+===== PAGE 0007 =====
+
+GLOBAL ENERGY TRANSMISSION                                                    globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                            getmission.ru
+
+
+Investigation of the Tesla tower's                   with the values being of 200 kHz. Reasons
+                                                     of using such values will become obvious
+working mode by means of                             based on the explanations provided below.
+analyzing the patents                                Let us notice that vast majority of the
+                                                     enthusiasts performing scientific
+                                                     investigation of the working principle of the
+                                                     Tesla's tower do not take into consideration
+                                                     the fact that required working frequency of
+                                                     the circuit should have value below 20kHz
+                                                     according to Tesla, therefore they are not
+                                                     able to come to correct conclusions.
+                                                     3) pumping duration is such that light
+                                                     should manage to reach opposite end of the
+                                                     globe and get back during one series of
+                                                     generator's impulses.
+
+                                                     While thoroughly studying the patent
+                                                      US1119732 , we have also been able to
+                                                     observe series of some crucial technical
+                                                     moments resulting in increase of a stability
+                                                     of the prototype as well as its safety in use
+                                                     according to Tesla's statement:
+                                                     1) Wire of main coil should be wired on
+                                                     wire-by-wire basis;
+                                                     2) Semi-spherical "pimples" are required in
+                                                     the surface of upper toroid;
+                                                     3) Main coil should be connected to upper
+                                                     toroid via thick pipe. At that, a value of the
+                                                     pipe's diameter should be greater than that
+                                                     of a diameter of the "pimples";
+                                                     4) Coil should be connected with the pipe
+                                                     via special cap with wide mouthpiece and
+Let us to proceed with more detailed                 vertical gashes;
+analysis of the model features of this               5) There should be "safety-valves" installed
+process. Final version of the Tesla's patent         in the upper toroid for the purpose of
+concerning wireless transmission of                  achieving controlled charge (discarding of
+electrical energy over large distances is            excessive amount of energy of prototype's
+provided below.                                      framework) in a form of sharp pimples
+In patent US787412 precise parameters,               emerging in relation to common surface
+which are related to the processes exhibited         area.
+in the prototype, were provided. There are
+few such parameters:                                 Let us undertake an attempt to bring
+1) cable length calculated from grounding            together the technical parameters and
+point to the point of upper inductivity, which       constructive features of the prototype,
+is evenly divisible by one fourth of                 which were indicated in the Tesla's patents.
+wavelength of the reference generator
+2) pumping frequency of the circuit with the         As it is well known, granted that length of
+value being not more than 20 kHz, and                coil's winding is close on its value to one
+preferably less than that. This stands in            forth of a wavelength value of the reference
+contrast with the parameters obtained from           generator, processes in coil have undular
+the experiments conducted earlier. In such           nature. That is, the coil is not considered
+experiments, Tesla was using frequencies             anymore like classical inductivity but
+                                                 7
+
+===== PAGE 0008 =====
+
+GLOBAL ENERGY TRANSMISSION                                                    globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                            getmission.ru
+
+
+becomes a system with distributed                     conductor with zero charge density in the
+parameters such as capacity and inductivity,          grounding point and maximum density of a
+therefore it should have been described in            charge in the upper point of a coil.
+other way round.
+                                                      As of experimental setup conducted by
+                                                      Tesla, it becomes obvious that in a case of
+                                                      implementation of the quarter-wavelength
+                                                      resonance (see condition 1 above),
+                                                      behavioral pattern of the prototype in terms
+                                                      of the currents' and charge' distribution
+                                                      along conductor will completely coincide
+                                                      with that of the helical quarter-wavelength
+                                                      resonator described in the work indicated
+                                                      above.
+                                                      Namely, oscillatory amplitude of charge
+                                                      density will increase with the subsequent
+                                                      increase of a height and will reach
+                                                      maximum value in the upper toroid.
+
+                                                      Based on this fact as well as on that of air
+Current distribution in symmetrical oscillators       puncture, resistance value is relatively small
+of different length                                   (around 30 kV/cm), all constructive features
+                                                      of Tesla's prototype become obvious and
+                                                      clear to us, which is especially important for
+Rigorous analysis of behavioral pattern of            the purpose of gaining clear conscience and
+such system based on electrodynamics of               conformance of the fact that our analysis is
+Maxwell locates obvious evidence of such              conducted in correct manner.
+coil resonance acting in a similar manner to
+that taking a place in conventional LC-
+circuit. However, Q-factor of such resonance
+can reach very high values in comparison to
+that of conventional LC-circuit designed
+from concentrated elements. Such values
+can vary within a range of 1000-10000 and
+this fact can be proven experimentally. At
+that, grounding point can be described by
+maximum amplitude of the currents and
+constant zero voltage. In addition, upper
+point of coil is exemplified by zero current
+and maximum amplitude of voltage (i.e.,
+maximum charge density distributed
+unevenly along height of a coil). Herewith,
+an amplitude of alternate current is
+decreasing in a sinusoidal manner from
+grounding point up to the upper end of a
+coil and oscillatory amplitude value of a
+density of a charge distributed along coil
+conductor is increasing from zero in the
+grounding point up to the maximum value
+in the upper end of a coil. In other words, a
+charge pumped out the ground is being
+unevenly distributed along the coil's
+                                                  8
+
+===== PAGE 0009 =====
+
+GLOBAL ENERGY TRANSMISSION                                                  globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                          getmission.ru
+
+
+                                                     excited circuit, instead of
+                                                     requiring, as under normal
+                                                     working conditions, one quarter
+                                                     of the period or more for its
+                                                     transformation from static to
+                                                     kinetic form, may spend itself
+                                                     in an incomparably smaller
+                                                     internal of time, at a rate of
+                                                     many millions of horse power.
+                                                     We will discuss this issue in more details a
+                                                     bit later. Let us now to outline that
+                                                     according to Tesla's diaries written during
+                                                     conducting first experiments in Colorado
+                                                     Springs, the scientist was regularly
+                                                     observing GL phenomenon and later learned
+                                                     to initiate it in purpose. So, he was surely
+                                                     knowing everything about the phenomena,
+                                                     which were indicated in his patent. Our
+                                                     understanding of a nature of such GL being
+                                                     evoked during the course of Tesla's
+                                                     experiments is quite similar to the Tesla's
+                                                     way of thinking described in his diaries (of
+                                                     course, it doesn't imply that all such GLs
+                                                     have similar nature, however these meant
+                                                     by Tesla are really simple on its initial
+                                                     origin).
+                                                     Tesla particularly points out series of
+                                                     technical features, which may increase
+                                                     safety of a prototype, that is, to decrease
+In the patent US1119732, Tesla clearly and           probability of accident formation of spark
+concisely describes the danger occurring             originating from puncture. This implies that
+granted the fact of electrical puncture of the       actually sparks, which were initiated by
+prototype in a form of spark. Тесла knew             Tesla in the prior experiments, should be
+that there might arise a possibility of globe        completely eliminated during energy
+lightning (GL) in a case of such puncture. In        transmission process (of course, in case
+this case, all energy accumulated in the             when we wish to really perform such
+setup would shift into such lightning during         transmission and not just uselessly admire
+very short period of time, in a form of              these beautiful lightings like some
+reactive power. The latter might cause very          enthusiasts do).
+powerful explosion.
+                                                     Special reference is made to
+... if the point of maximum                          coil B and conductor B'.
+pressure (he means maximum                               The latter is in the form
+density of charge on the surface                          of cylinder with smooth or
+of the tower obviously) should                            polished surface of a
+be shifted below the terminal D,                          radius much larger that
+along coil B, a ball of                                   that of the half spherical
+fire might break out and destroy                          element PP, and wodens out
+the support For anything else in                          at the bottom into a hood
+that way.   ......    the                                 H, which should be slotted
+destructive action may take                               to avoid loss any eddy
+place with inconceivable                                  currents
+violence. .... the entire
+energy accumulated in the
+                                                 9
+
+===== PAGE 0010 =====
+
+GLOBAL ENERGY TRANSMISSION                                                     globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                             getmission.ru
+
+
+In case when we expect increase of density             rather in undesirable proximity from the coil
+of a charge in the Tower along with increase           B than in an area close to upper toroid. In
+of height (according to the working concept            addition, a necessity of elimination of the
+of helical resonator indicated above)                  losses for the Foucault currents is also
+obtained as a result of conducting precise             outlined in this patent. This should be done
+analysis of Maxwell's equations and well               by means of making vertical cuts in the cap
+corroborating with the experiments) then it            connecting coil B with pipe B'. The latter
+becomes obvious that two types of an                   fact is obvious in terms of referring to the
+energy will exist in such circuit during its           big current values in the system (that is
+oscillations. They will be the following:              great flow of a charge pumped out the
+energy of magnetic field of the coil B (in a           ground).
+case when the current in coil B has a
+maximum value and charge value will be                       The coil B is wound on a
+equal to zero in the upper inductivity) and                   frame or drum D of
+the energy accumulated in electrostatic field                 insulating material, with
+strength (when the current values in the coil                 its turns close together. I
+will be equal to zero and a charge pumped                     have discovered that when
+out of the ground and distributed along the                   so wound the effect of the
+coil will be of maximum value).                               small radius of curvature
+Correspondingly, energy gets accumulated                      of the wire itself is
+                                                              overcome and the coil
+mainly in an area of localization of the coil B
+                                                              behaves as a conductor of
+within "currents' phase". Based on
+                                                              large radius of curvature,
+consequences, which may arise due to                          corresponding to that of
+puncture of the setup, the necessity of                       the drum.
+elimination of such puncture in fields
+adjacent to the coil B is becoming obvious.            We have to take into consideration that
+That is, puncture should happen as far from            great charge, which is pumped out the
+the coil B as it is possible in case when              ground, is distributed along turns of a wire.
+unavoidable. Technical feature described               This sentence makes strong sense: at the
+above assists in fulfillment of such                   great step of coil winding (i.e. at the great
+objective. Field strength near surface is              distance between neighboring turns of the
+defined by the radius of its curvature                 coil as it was accomplished in earlier Tesla's
+granted that surface charge density has                experiments for the purpose of isolation of
+constant value. In case when surface of                such turns from each other, the air is used
+pipe B' is less abrupt than surface of semi-           as an isolating substance) electrostatic field
+spherical elements PP in upper toroid then a           strength produced from such charge in
+risk of puncture will be partially eliminated          proximity to wire itself depends only on
+due to its relocation to the area of pipe B'           thickness of a wire and has quite high
+and into localization area of PP (that is,             value. However, in case when turns are
+maximally removed from coil B). In his                 located close to each other, the behavioral
+patent, Tesla especially outlines that                 pattern of system resembles rather that of a
+presence of the semi-spherical surfaces PP             cylinder which is unevenly charged along its
+in upper toroid makes sense only in such               height. In this case, electrostatic field
+case when other parameters are adhered                 strength near conductor of winding acts like
+like, for instance, radius value of the pipe B'        it is created by means of charged cylinder
+is significantly greater than that of the              with the radius value being equal to that of
+radius of semi-spheres PP. This explains a             the radius of coil. And, that is what Tesla
+necessity of presence of such semi-spheres             was writing about (the coil behaves as a
+PP otherwise curvature of toroid surface will          conductor with a large radius of a curvature,
+appear to be smaller than that of a surface            corresponding to that of the drum). The
+of pipe B' so that there is a high risk                latter roughly decreases electrostatic field
+existing that the puncture will happen                 strength near coil and, therefore
+
+                                                  10
+
+===== PAGE 0011 =====
+
+GLOBAL ENERGY TRANSMISSION                                                    globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                            getmission.ru
+
+
+subsequently decreases the risk of puncture           high frequencies in terms of normal energy
+happening with the circuit.                           transmission as well as helical resonator
+    The lower end of the coil                        was not designed in the most optimal way.
+      B... should be somewhat                         The latter led to great sparkling, however it
+      below the uppermost turn of                     was not the goal of work itself as it is
+      coil A. This, I find,                           thought to be so now. Thus, obtaining the
+      lessens the tendency of the                     long sparks was the primary goal which was
+      charge to break out from                        transformed into investigations in a field of
+      the wire connecting both                        energy transmission along practical work of
+      (coils B and A obviously)                       Tesla. And in such case, these sparks were
+      and to pass along the
+                                                      serving as unfavorable effect from which it
+      support F'
+                                                      was necessary to get rid of by any available
+Similarly, in case when our only goal is to           means.
+perform large transfer of a charge from the
+ground, we have to take all possible
+measures in order to eliminate its reverse
+leakage to the ground. From this point of
+view, aforementioned Tesla's comment is
+quite obvious and does not require any
+additional explanations.
+
+Thus, we come to conclusion that based on
+strictly classical picture, the only one thing
+that is possible to achieve during
+functioning of such prototype is literal
+"dragging out" of the charge from the
+ground onto upper toroid as well as "getting
+back" such charge to the ground at the
+frequency of reference generator. This                In addition, we would like to clarify the
+process will be accompanied by                        following moment. For some reasons, the
+conventional EM-emission (from vertical               vast majority of the amateurs-enthusiasts
+current constituent in coil), however energy          takes into consideration not the information
+of such emission won't be by many times               provided in last Tesla's patens but rather
+greater than that of the energy being saved           refers to his earlier prototypes, which were
+in a form of reactive power (that is what             designed by Tesla in order to check out
+Tesla is talking about as it was indicated            such idea. Here, we refer to prototypes with
+earlier in the above). No any other effects           helical form of coil B as it is indicated in
+(except of uneven distribution of the                 such earlier patents as the one under
+currents and charges along conductive parts           number US787412.
+of the prototype) are going to take place
+during operating process of such system
+granted that we take only Maxwell's
+equations and nothing else into
+consideration etc. Such point of view
+completely complies with everything that
+Tesla was describing in his patents
+concerning his system including technical
+features depicted in the patent. Therefore,
+we will try to remain within boundaries
+defined by strict classical points of view. At
+that, let us note that prior Tesla's
+experiments were conducted at the very
+                                                 11
+
+===== PAGE 0012 =====
+
+GLOBAL ENERGY TRANSMISSION                                                    globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                            getmission.ru
+
+
+                                                      process of charge oscillations in the sphere
+                                                      Е. However, in order to make such system
+                                                      working, it is necessary to make circuit А -
+                                                      source of EMF to induce ED mainly in the
+                                                      external turns of such helical coil. The latter
+                                                      is outlined by Tesla in his notes and patents.
+                                                      He is referring to necessity of maintaining
+                                                      weak inductive connection between the
+                                                      coils А and С. At that, in any case the coil A
+                                                      will induce EMF with small value in the rest
+                                                      of turns (not only external ones) of the coil
+                                                      С in a strictly cophased manner with EMF
+                                                      in external turns (while for the purpose of
+                                                      achieving ripple effect it is necessary to
+                                                      achieve EMF phase shift along length of
+                                                      conductor of helical coil). This will result in
+                                                      significant decrease of Q-factor value of
+                                                      such resonance. Next, charge distribution
+                                                      along turns of such helical coil (i.e. increase
+                                                      of charge density for internal turns) will
+                                                      exhibit negative consequences in terms of
+                                                      Q-factor value of such resonance due to
+                                                      location of turns of a coil in one platitude.
+                                                      Therefore, such coil will have parameters
+                                                      which are quite similar to that of
+                                                      conventional concentrated inductivity than
+                                                      vertical coil would have (this is due to the
+                                                      fact that field formed from charge in the
+                                                      sphere E will merely affect turns of the
+                                                      helical coil while for conventional coil such
+                                                      situation won't take a place - field of charge
+                                                      will affect whole coil and, thus, exhibit
+Next things that these enthusiasts do is              additional EMF).
+trying to discover some specific properties           In other words, achieved charge amplitude
+of such helical coil, which would allow to            in the sphere E for the same power of
+transmit energy to some distances.                    reference generator for such circuit with
+We assume that this kind of search does not           helical coil will have much lower value than
+make any sense and the model of such                  in case of final prototype scheme provided
+transmitter with this kind of coil is much            in patent US1119732 (and being last in the
+less efficient. We will explain now why it is         series of the patents describing such topic).
+so.                                                   Thus, this version of the prototype appears
+It is true that if length of winding of such          to be less effective than the final one.
+helical coil fulfils the requirements posed by
+quarter-ripple effect (i.e. divisible by the
+quarter of wavelength of reference
+generator B in the picture above) then
+ripple effect in terms of the currents and
+voltages will take place in such coil adhering
+the laws similar to these of a screw-shaped
+resonator (references to its work are
+provided above). That is, such system will
+somewhat efficiently create resonant
+                                                 12
+
+===== PAGE 0013 =====
+
+GLOBAL ENERGY TRANSMISSION                                                     globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                             getmission.ru
+
+
+                                                       this is a very big value and obviously a field
+                                                       of such charge cannot be considered in our
+Currents in the Earth as an                            research in terms of the currents and
+outcome of functioning process of                      voltages being in the ground under
+                                                       prototype. At that, value of such charge
+the Tesla's tower                                      finely complies with general parameters of
+So, what do we have: prototype which "gets             the Tesla's prototype: if we will use the
+the charge out and puts it in" the ground              sphere as a upper capacity instead of toroid
+that surrounds the prototype.                          (which won't change own isolated capacity
+What it will lead to?                                  of such object) as well as total charge of
+It is obvious that when selecting existing             the sphere having such value that it will
+electrons of conductivity from the ground,             create field gradient near sphere on its
+the "local plus" will be formed in there. This         value close to that of air puncture voltage
+will result in evoking concentration of                (30 kV×cm) then charge value will be
+electrons from the surrounding areas so                around 0.001 C. Of course, Tesla was using
+that conventional current will occur like it           the sphere of much smaller diameter and,
+happens in usual conductorsх. The latter               therefore it was evoking air puncture and
+will result in great ohmic losses due to great         unfavorable sparks. Thus, it is necessary to
+values of the current and quite small section          note once again that spark excitation in
+of conductor-dielectric. Therefore, in order           Tesla's prototype was not the main purpose
+to increase efficiency of Tesla's prototype, it        of his work but unfavorable effect which
+is necessary to arrange great grounding                Tesla tried to eliminated by means of
+field of the lower end of the tower's                  attempting all the approaches which were
+conductor. Thus, distribution of current and           described above.
+voltage waves close to spherical on its form
+will occur as a result of periodical process of        So, now we know that it is very important
+getting charge out and in to the ground.               to consider the charge value in upper
+However, it is not all what is going to                capacity due to its greatness in terms of
+happen.                                                tasks posed in a field of electrostatics.
+                                                       The question is: what kind of field will be
+The thing is that a charge, which is                   formed by means of such charge? In terms
+collected out the ground, is not going to              of electrostatics, the answer would be
+flow away to some indefinite place but is              obvious - the charges would get
+going to remain in local proximity from the            redistributed in the ground in order to
+ground, that is, in the upper toroid                   compensate static field of such charge
+otherwise there would be still currents of             affecting conductivity of the electrons in the
+indicated origin left in the ground. Let us to         ground. However, in our case we are not
+evaluate value of such charge in order to              talking of static physics. This is pulsating
+understand whether we should consider it               charge, therefore we have to know what is
+during conduction of our analysis. Based on            going on with a field of such charge in order
+the frequency with the value of 200 kHz and            to commence exploration of influence of
+active value of the current being 1000 А               such charge onto the currents/voltages in
+(such parameters were provided by Tesla in             the ground.
+the part related to his early experiments
+conducted in Colorado Springs), we will                In terms of the Maxwell's equations, such
+perform evaluation of the charge value in              field can be obtained based on well known
+the upper toroid. Current with the value of            dynamics of the currents' and charges'
+1000 A is equivalent to charge transfer with           densities in the coil+upper toroid and in the
+the value of C per second. Herewith, at the            ground. It is enough just to integrate late
+value of 200 kHz, charge with the value of             potentials on its volume (vector and
+1/200 C will be transferred to the sphere.             nonvector) from the densities or charges
+According to fundamentals of electrostatics,           and togs and get the description of the field
+                                                  13
+
+===== PAGE 0014 =====
+
+GLOBAL ENERGY TRANSMISSION                                                      globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                              getmission.ru
+
+
+(i.e., vectors of gradient of the field Е and          frequencies with quite high values at the
+magnetic fields В) at any point of the space           emergence of hysteresis effect which
+including surface of the Earth.                        implies lag in polarization velocity P from
+                                                       the velocity of changing electrical field Е. In
+The most challenging thing is that actually            this case, dipole molecules are not "able" to
+we are just aware of the features of charges           get oriented in viscous medium of the
+and currents distribution only in the                  dielectric upon change in polarity (direction)
+prototype while the same process in the                of electric field. Let us remind that
+ground, which occurs due to the pulsating              relaxation times t have the values varying
+charge of the prototype, should yet be                 within range of 10-10...10-6 s at dipole
+detected as it is not known. The latter will           polarization. Therefore, relaxation losses
+be done after a while.                                 can be observed in polar dielectrics within
+Final process of the currents and voltages in          frequency range f=106...1010 Hz
+the ground under prototype consists of two             corresponding to radio-frequency range.
+components. One of them corresponds to                 Amount of losses depends on the work
+the process of getting the charge out the              performed by alternating electrical field for
+ground, another is related to the reacting             the purpose of creating polarization of the
+process of the ground to the field that                volume unit of dielectric. As of other
+occurs due to operating process of the                 polarization mechanisms, relaxation time
+prototype. These processes are happening               denoted as t has even smaller value,
+in a simultaneous manner and are of                    therefore it doesn't make any difference
+superpositional nature (in other words, any            within our frequency range. Thus, the upper
+of these processes is independent on its               boundary of the frequencies, at which the
+nature and they do not have any effect on              significant losses take place for the slowest
+each other).                                           polarization mechanism or polar dielectrics
+                                                       comprising significant part of the volume
+Later we will analyze each process                     from the total volume of the Earth, is
+separately as well as we will simulate total           around 1000 kHz. Considering gigantic
+mode of the current and voltage waves in               distance at which our standing wave is
+the space around the prototype according               existing, we have to be located far enough
+to the model described above                           from such boundary in order to avoid
+It is obvious that two conditions should be            attenuation of the current and voltage
+adhered in terms of establishing as well as            waves in the ground depth. Primary
+distribution and reflection of the currents            frequency value used by Tesla during his
+and voltages in the body of planet:                    experiments comprised 200 kHz. Such value
+                                                       will be too low to ensure sufficiency of Q-
+1) frequency of the process should be such             factor value of resonance of current and
+that it could be possible to disregard the             voltage waves in the planet body for
+losses of polarizing origin in the ground (as          establishing standing waves.
+in terms of conductivity it still remains              Therefore, it is necessary to find some kind
+dielectric with the dielectric transmittivity          of range up to the upper allowed frequency
+values being in the range from 1 up to 100).           with the value of 20 kHz (in this case
+At polarization of the dielectric, the losses          qualitative assessment is possible but
+related to the work of external field in terms         elaboration of more precise concept is not
+of polarization with final velocity take place.        likely to happen at the moment).
+The slowest polarization mechanism of the              Namely, this frequency range (at most 20
+polar dielectrics amongst all known ones is            kHz) is indicated by Tesla in his
+referred as relaxation losses related to               patent US787412. Despite of the fact that
+dipole polarization of dielectric. Such kind of        Tesla was conducting his first experiments
+the losses can be observed in polar                    at quite high frequencies with the values
+dielectrics - polymers and ferroelectrics and          being of 200 kHz, later he was trying to use
+is usually occurring in a field of the                 frequencies with much lower values and he
+                                                  14
+
+===== PAGE 0015 =====
+
+GLOBAL ENERGY TRANSMISSION                                                    globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                            getmission.ru
+
+
+was stating such thing in patent US787412             more complex task to perform than
+as well as in the other sources (for                  designing the scheme "big inductivity coil
+example: since the first attempts the wave            plus toroid". At that, this experiment will not
+lengths have been increased until those               bring great results at the frequencies with
+advocated by me were adopted The Effect               big values based on reasoning provided
+of Statics on Wireless Transmission,                  above.
+January, 1919, pages 627 and 658). Now                Correspondingly, classical understanding of
+we can understand why he'd done it.                   "Tesla booster" is radically different from
+                                                      what Tesla really meant while patenting his
+2) for the purpose of establishing currents           tower. It is obvious that this is not a means
+and voltage resonance, it is necessary that           for creating meters long sparks. This is the
+wave would manage to go through all the               wireless means for performing energy
+conductor (in our case it is a planet) forth          transmission over long distances with high
+and back. This fact is indicated by the Tesla         value of an efficiency coefficient. Sparks
+in the patent US787412 as well.                       can be considered as unfavorable effect.
+3) external emission losses of the current            Therefore, we can see that in reality Tesla
+waves traveling inside of the planet should           prototype should have been made of thick
+be minimized. This is possible only in case           cable with the quarter-wavelength of the
+when the greatest part of energy of the               reference generator (while classical "Tesla
+EM-waves emitted by such currents will be             boosters" are made of thin cable with great
+reflected from the planet's ionosphere like           number of turns and not well thought cable
+from the conductor and "recuperated"                  length with pumping frequency of the
+further into the currents' energy in the              circuit, required pumping duration is not
+planet. It is noteworthy that dependency of           sustained and the work is performed within
+the ionosphere's conductivity from the                high frequency range instead of low one
+frequency is of nonlinear nature. In                  with the values being of 10-20 kHz, i.e.
+addition, ionosphere is not acting as a               conventional booster designed in
+"mirror" in case of high frequencies. The             unconventional manner is being built).
+latter points out at necessity of using only
+low-frequency oscillations. We will provide
+more detailed description of such process
+later on.                                             Computational simulation
+                                                      So, it is obvious that it is possible to
+                                                      transmit energy via excitation of current and
+Thus, we come to conclusion that Tesla was            voltage waves in the body of planet. The
+referring to the possibility of arranging             question is, what kind of value will
+current and voltage waves and their                   transmission efficiency coefficient have and
+resonance in the body of planet. For this             how such value will depend on distance to
+purpose, Tesla tower fits finely along with           the prototype. This is the issue that has to
+its technical features.                               be thoroughly explored by means of
+                                                      computational simulation as well as
+In other words, it would be just sufficient to        conducting of experimental research. Tesla
+build toroid on top of the ground and on              thought that the value may be around 96%
+which the electrons would be going in and             and the distances can be endless in terms
+out in compliance with harmonic law. At               of energy transmission within planet.
+that, frequency value would be around 10              However, actual experimented implied
+kHz and required voltage would have value             energy transmission over 20 miles.
+of dozens of MV (according to the Tesla's             Therefore, there is no guaranty that such
+calculations). Of course, such parameters             high efficiency coefficient value will remain
+can be reached without use of Tesla's                 same if energy transmission is attempted
+scheme, on the basis of modern                        over longer distances than that pointed out
+components only. However, it will be much             above. It mostly depends on the
+                                                 15
+
+===== PAGE 0016 =====
+
+GLOBAL ENERGY TRANSMISSION                                                              globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                                      getmission.ru
+
+
+conductivity type of the ground (superficial                  used for the purposes of performing the
+or volumetric), which was really used and                     research analysis of the fields/currents for the
+was "working out" in Tesla's experiments.                     dynamic processes in case when the objects'
+The parameters of such prototype are also                     geometry can be commeasured or is
+the subject of great importance (pumping                      significantly exceeding the wavelength.
+frequency and a value of charge being
+directed towards upper toroid area). That all                 The Earth's prototype was designed in the form
+has to be checked out. Nevertheless, this                     of a ball-dielectric with the diameter of 60km.
+kind of transmission can be done via small                    Unfortunately, it was impossible to create a ball
+distances of about 10 miles. At that, if it is                of greater size while using such tool. The ball
+true what Tesla was talking about 96%                         has basic parameters such as conductivity,
+value of efficiency coefficient achieved                      dielectric permeability etc, which correspond to
+during energy transmission for such                           those of the real foundations of the ground
+distance then it means that attenuation of                    surface. The real features and parameters of the
+the currents in the ground is very small and                  atmosphere acting as a air layer-dielectric were
+resonance can be established in extended                      also taken into account. So were considered
+part of the Earth shell (otherwise energy                     these of the ionosphere which is acting as a kind
+transmission through radially-directed                        of "mirror" of the energy of EM-waves that are
+currents in the ground over distance of 20                    being induced by the current waves in the
+miles with efficiency coefficient value being                 planet. It is also noteworthy that the date
+of 96% is not possible as the currents flow                   regarding the Earth's properties on the great
+from the prototype over all directions and                    depth are not of presumable nature. In fact,
+even minor attenuation of the currents'                       there is not any generally accepted Earth's
+energy would result in almost complete loss                   prototype existing in terms of its properties at
+of current wave energy in such great                          the great depth. However, it is quite obvious
+distances.                                                    that EM-field as well as currents in conductors
+                                                              (and in our case the Earth-dielectric is acting as
+                                                              such conductor) do flow only in superficial layer
+                                                              due to so-called skin-effect. As of the main and
+                                                              the most probable range of the Earth's surface
+                                                              parameters as well as the most used
+                                                              frequencies with the value of 10 kHz, the depth
+                                                              value of a skin layer can account kilometers.
+                                                              Thus, actual process of the current waves'
+                                                              distribution (in case if it really takes a place)
+                                                              happens only in relatively thin superficial layer
+                                                              of the Earth shell. Hence, there is no necessity
+                                                              to make any kind of assumptions regarding
+                                                              internal structure of the Earth and parameters
+                                                              of the materials in the great depth.
+
+                                                              Let us examine the distribution process of the
+                                                              currents' wave in the ground in case when the
+A coil outside laboratory with the lower end connected        Tesla's tower is acting as a source under
+to the ground and the upper end free. The lamp is             condition of complete absence of an
+lighted by the current induced in the three turns of          atmosphere and ionosphere. In this case, the
+wire wound around the lower end of the coil.
+                                                              wave will progressively travel and quite quickly
+                                                              attenuate, that is, all the wave's energy will be
+Ansoft HFSS was employed for the purposes of                  gradually emitting in a form of EM-waves into
+performing computational simulation of                        external space regarding the Earth.
+interaction between the tower and the Earth.
+This is due to the fact that such a tool should be
+                                                         16
+
+===== PAGE 0017 =====
+
+GLOBAL ENERGY TRANSMISSION                                                       globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                               getmission.ru
+
+
+This figure illustrates the pumping source
+(Tesla's tower), which is located in the red-
+colored loop. Dielectric field intensity value in        Cutoff is similar to that shown in the
+the surface of the Earth the ball was derived as         previous figure.
+well.
+
+                                                         Thus, full-fledged computational model,
+However, the situation can radically change              which considers all basic
+given that we add external screen acting as a            parameters/geometric features/medium
+mirror (please, kindly notice that ionosphere is         properties involved during functioning
+acting as such mirror for such low-frequency             process of the Tesla tower, directly conforms
+emission range as 10 kHz): reflected energy will         a fact of existence of the resonance of
+interact with the Earth's surface in a form of           standing currents' and voltages' waves in
+EM-waves. The latter will result in induction of         the Earth that are evoked by the operating
+the currents so that this energy will be                 process of the Tesla Tower. It is also obvious
+transformed back into the currents' energy.              that such resonance allows not only an
+Therefore, standing resonance wave of the                efficient energy transmission to the
+currents and voltages will appear. The latter can        planetary distances due to its high Q-factor
+be well seen from the figures provided below.            value, but also its subsequent reception by
+                                                         similar device at any point of the planet.
+Volumetric distribution of the amplitude of the
+electrical field in the air surface between
+ionosphere and the Earth's surface is shown
+below.                                                   Globular lightning and Tesla tower
+                                                         Let us now discuss in more details the
+                                                         mechanism of existence and occurrence of
+                                                         globe lightning which Tesla was observing
+                                                         during his early experiments (there was
+                                                         constant puncture happening in prototype).
+                                                         Tesla was writing next things about it
+                                                         (pages 368-370):
+                                                         It is clear that such phenomenon really took
+                                                         place. However, what is really such
+                                                         mechanism of
+                                                         forming and quite lengthy existence of such
+                                                         type of GL about? We think similarly to what
+                                                         Tesla's thoughts were concerning this issue.
+                                                         There is pulsating electrical field of very
+                                                    17
+
+===== PAGE 0018 =====
+
+GLOBAL ENERGY TRANSMISSION                                                      globalenergytransmission.com
+Leonid Plekhanov, Sergey Plekhanov                                                              getmission.ru
+
+
+high value (around 30 kV×cm that results in           ideas similar to Tesla's description were
+air puncture) and sufficiently high frequency         completely conformed as well as stable
+value of 200 кHz in local proximity to the            controlled generation of GL of such kind
+prototype as it was indicated in early Tesla's        was achieved and conditions, under which
+experiments during of which he was                    such GL occurs, were also identified.
+frequently observing GL phenomenon. If                For our Russian reader, we can suggest to
+there is going to happen discharge or                 kindly take a look at the results obtained
+puncture in air zone of an external field with        upon completion of same series of
+such parameters then there is going to                experiments, which were published in UFN
+occur plasma due to ionization and air                proceedings.
+warming. Plasma has better conductivity               And getting back to the analysis of the Tesla
+than air does and therefore has inductivity           prototype on energy transmission, we come
+distributed over air volume. In other words,          to conclusion that Tesla considers
+air part transforms to the conductor with             simultaneously few features for the purpose
+restricted dimensions. In locally conductive          of eliminating risk of puncture formation
+area, external field will "move" conductivity         (discharge arc) in a field of concentration of
+currents at the field's frequency. The latter         main reactive energy of the prototype (coil-
+will result in heating of plasma and, thus,           resonator). So, it becomes obvious that in
+keep it burning. As a result, field will              case of formation of such unit in a coil's
+increase up to sizes at which EM-waves                proximity (where electrical and magnetic
+emission, which is proportional to the field          fields are of large size) it is probable that all
+size will be of same energy (proportional to          accumulated reactive energy will move from
+the square of radius field - that is, section         the prototype to the energy of plasmic
+area of plasmic sphere). Growth of plasmic            formation during short period of time, which
+sphere radius value will stop at this point           will result in explosion. It is especially clear
+and plasma will be transformed into quite             considering specific methods of generating
+stable substance (which will be stable while          GL in performed experiment, which was
+external field is oscillating and GL is still         described above and main purpose of which
+within close distance from field source).             was to arrange quick "discarding" of all the
+Real process has much more complex                    energy of resonance circuit into discharge
+nature and it is necessary to consider such           which will result in formation of GL. At that,
+plasmic area as globe resonator for EM-               as such GL appears to be in a field of
+waves and try to discover all possible                working prototype, life time of such GL is
+resonance modes of such resonator (which              quite long (measured in seconds) and will
+are divisible by external field frequency             be longer the smaller GL will move away
+value) etc. However, these GM result from             from the source supporting its burning (that
+ohmic heating of plasma by alternating                is, prototype). In case, when the setup is
+electrical field of setup as described by             completely deenergized immediately upon
+Tesla.                                                formation of such kind of GL, its life time
+                                                      will decrease by many times. The latter has
+It is noteworthy that some enthusiasts                to be examined during upcoming
+already conducted experimental                        experiments, though.
+evaluation in terms of possibility of
+generating such kind of GL and all basic
+
+
+Support our project at getmission.ru
+
+
+                                                 18

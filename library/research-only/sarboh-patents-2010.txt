@@ -1,0 +1,384 @@
+===== PAGE 0001 =====
+
+World Patent Information 32 (2010) 335–339
+
+
+                                                               Contents lists available at ScienceDirect
+
+
+                                                           World Patent Information
+                                             journal homepage: www.elsevier.com/locate/worpatin
+
+
+The patents of Nikola Tesla
+Snežana Šarboh
+Chief of Mechanical Engineering Department, Intellectual Property Ofﬁce of Serbia, Kneginje Ljubice 5, 11000 Belgrade, Serbia
+
+
+1. Introduction                                                                                 This year was turbulent for Tesla, because his initial investors
+                                                                                            disagreed with Tesla on his plan for an alternating current motor.
+    Nikola Tesla (1856–1943), American scientist, engineer and                              It was a hard time for him and he had to work as a labourer from
+inventor of Serbian origin (see Fig. 1) did not make a classical aca-                       1886 to 1887 to raise capital for his next project [5].
+demic career for himself. Though he was author of many articles                                 During 1887, Tesla submitted six new patent applications.
+and lectures, as well as other works intended both for expert and                           Except the ﬁrst two applications, one relating to regulators for dy-
+general public, his papers have not been much cited nowadays.                               namo-electric machines and the other concerning the pyromagne-
+His most important works are his inventions protected by numer-                             to-electric generator, the other applications were in the ﬁeld of
+ous patents [1,2].                                                                          polyphase alternating currents and relating to motors and genera-
+    Although it is known that Nikola Tesla started his work as an                           tors based on them (one of them is shown in Fig. 2). However, three
+inventor back in the period of 1881–1882, when he worked in                                 of the applications mentioned, had to be divided, on request of the
+Budapest, at the Central Telegraphic Ofﬁce, there is no information                         US Patent Ofﬁce. And so the total number of Tesla’s patents
+that he tried to acquire a patent for any of his inventions [3].                            reached nine in 1887.
+    The situation changed at the beginning of 1884, after he left for                           Tesla’s luck turned in 1888 when he met George Westinghouse
+the United States of America, where he started to work for Thomas                           and start working at Westinghouse Electric and Manufacturing
+Edison’s company Edison Machine Works. At this time, Tesla                                  Company’s labs in Pittsburgh. Tesla’s system for generation, trans-
+worked on the development and improvement both of dynamo-                                   mission and use of AC power enabled Westinghouse to challenge
+electric machines and electric arc lamps. During one single year                            Edison and his DC system that was standard for the United States.
+he redesigned the Edison’s company DC generators. But when Tesla                            Edison fought back and it was the beginning of the so-called ‘‘War
+inquired about payment for his work, Edison offered him only a                              of Currents” that broke out at the end of the 1880s [6]. Edison’s at-
+small raise [4]. This kind of Edison’s attitude was the reason in part                      tempts to discredit the use of AC power included his publicity cam-
+for conﬂict between them, but it can be assumed that in this period                         paign and lobbying against usage of AC in state legislatures, while
+it was that Tesla learned about the importance of protection of                             supporting secretly the execution of capital punishment by using
+inventions and how to acquire patents for them.                                             AC powered electric chairs (1890) [7].
+                                                                                                But Westinghouse fought back when at 1893 World’s Fair in
+                                                                                            Chicago AC power was used to illumminate the Exposition. Tesla
+2. Chronological summary of Tesla’s patenting activities: USA                               also demonstrated the principles of rotating magnetic ﬁeld and
+                                                                                            induction motor by using a device he called the ‘‘Egg of Columbus”
+   Immediately after leaving Edison’s company and starting his                              there [8]. It was an important victory, but the war was not over yet.
+own company ‘‘Tesla Electric Light and Manufacturing”, Tesla ﬁled                               The key point was when Westinghouse won the international
+his ﬁrst patent application in the USA, for the electric arc lamp                           Niagara Falls Commision contract. The Niagara Falls power station
+(application number 160,574 from March 30th 1885, patent                                    started its operation in 1896 when electric power was sent to indus-
+US335786). Before the end of that year, Tesla ﬁled four more patent                         try in Buffalo. Tesla’s contribution to this endeavour can be seen
+applications, one of which also related to electric arc lamps, and                          from the nameplates on the hydroelectric generators (shown in
+the other three to dynamo-electric machines and their regulators                            Fig. 3), where were listed all patents covering a complete polyphase
+[3].                                                                                        generation and distribution system used there. Among 13 men-
+   During the following year, 1886, Tesla ﬁled only three patent                            tioned patents, nine are Tesla’s (US381968, US381969, US381970,
+applications, two of them concerning regulators for dynamo-electric                         US382279, US382280, US382281, US382282, US380413 and
+machines, and the third concerning the thermo-magnetic motor. On                            US390414).
+the other hand, the US Patent Ofﬁce issued Tesla’s ﬁrst six patents,                            Tesla’s activity on ﬁling patent applications increased during
+the ﬁrst patent US334823 relating to a commutator for dynamo-                               1888 and 1889. In 1888, he ﬁled 10 patent applications, one of
+electric machines, although he ﬁled this application on May 6th                             which was divided, which brings the ﬁnal number of Tesla’s patent
+1885, i.e., 1 month after he ﬁled his ﬁrst US patent application men-                       applications to 11, but also received 13 patents. The following year,
+tioned above.                                                                               1889, Tesla ﬁled 15 patent applications, which is the biggest
+                                                                                            number of patents ﬁled in 1 year throughout his whole career
+   E-mail address: ssarboh@zis.gov.rs                                                       and received 13 patents as well. In the following year, 1890, the
+
+0172-2190/$ - see front matter Ó 2009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.wpi.2009.11.001
+
+===== PAGE 0002 =====
+
+336                                                      S. Šarboh / World Patent Information 32 (2010) 335–339
+
+
+                                                                                          In the meantime, the focus of Tesla’s work shifted towards high
+                                                                                      frequency alternating currents. Since the early 1890s Tesla was
+                                                                                      developing a device that is nowadays known as Tesla’s coil (early
+                                                                                      embodiments thereof were described in US454622 and
+                                                                                      US593138). His system of four circuits in resonance showed that
+                                                                                      the aerial, connection with the ground and resonance were three
+                                                                                      essential elements of wireless telegraphy leading to the invention
+                                                                                      of radio. Besides that Tesla made high-frequency powered ﬂuores-
+                                                                                      cent bulbs that gave a bright greenish light. He also experimented
+                                                                                      with Roentgen rays and made X-rays of his hands, knees, etc., as
+                                                                                      well as with use of high-frequency currents as therapeutic device
+                                                                                      for medical purposes. However, much of his research in these ﬁelds
+                                                                                      of technology was lost in the 5th Avenue lab ﬁre in 1895 [8].
+                                                                                          All of this caused a pause in ﬁling patent applications, after
+                                                                                      which came a period when Tesla again ﬁled a larger number of
+                                                                                      applications, namely nine in 1896, and another six applications
+                                                                                      in 1897, and one divisional application, after which he ﬁled an-
+                                                                                      other six patent applications in 1898. In 1898, he patented a meth-
+                                                                                      od and an apparatus for controlling the mechanism of moving
+                                                                                      vessels or vehicles (US613809), but also presented a remote-con-
+                                                                                      trolled boat to the public in New York (see Fig. 4) [9].
+                                                                                          At the height of his fame Tesla became obsessed with his project
+                                                                                      for Worldwide Wireless Transmission. That was the reason for his
+                                                                                      moving to Colorado Springs in an aim to research ways to transmit
+                                                                                      energy and information over long distance. At a height of 2000 m
+                                                                                      above sea level he built a laboratory with a 200 W transmitter.
+                                                                                      He constructed generators and transformers which produced fre-
+                                                                                      quencies of tens of thousands hertz and potentials up to 12 million
+                                                                                      volts. Tesla also improved his coreless transformer for high-fre-
+                                                                                      quency currents. It is interesting that during his stay in Colorado
+
+Fig. 1. Photo of Nikola Tesla. Source, with permission, Nikola Tesla Museum, MNT,
+VI/V, 18.
+
+
+                                                                                      Fig. 3. Copy of the nameplates on the hydroelectric generators in the Niagara Falls
+                                                                                      Power Station, kept in the Nikola Tesla Museum in Belgrade, Serbia. Source, with
+                                                                                      permission, Nikola Tesla Museum, MNT, X/VII, 28.
+
+
+Fig. 2. Tesla’s inductive AC motor. Source, with permission, Nikola Tesla Museum,
+MNT, VI/I, 61.
+
+
+number of patent applications ﬁled was signiﬁcantly lower, only
+six. The inventions Tesla requested protection for through patent
+applications in the 3 years mentioned, mainly dealt with polyphase
+alternating currents.
+    During 1891, Tesla ﬁled seven, in the following year only three,
+and in 1893 he ﬁled another six patent appplications. The subjects
+of these applications still mainly concerned polyphase currents
+and their application, e.g., for lighting, electric railways, and other.
+It is interesting that in this period Tesla received his ﬁrst two pat-
+ents in the ﬁeld of mechanical engineering, for the reciprocating                     Fig. 4. Tesla’s remote-controlled boat. Source, with permission, Nikola Tesla
+engine and the steam engine (US514169 and US517900).                                  Museum, MNT, VI/II, 201.
+
+===== PAGE 0003 =====
+
+S. Šarboh / World Patent Information 32 (2010) 335–339                                                     337
+
+
+Springs he noticed repetitive signals of non-terrestrial origin con-
+sidering them to be result of extraterrestrial radio communication
+[10]. At the beginning of 1900 Tesla had to leave Colorado Springs,
+but his lab’s contents were left to be sold to pay debts.
+    His next project was even more ambitious – establishing of a
+wireless power transmission facility. After obtaining money from
+J. Pierpont Morgan, Tesla started building the Wardenclyffe Tower
+that should be both a power plant and an aerial tower on Long Is-
+land near New York (see Fig. 5) [11]. However, due to the misun-
+derstanding of potential investors and lack of money after a
+couple of years, Tesla had to abandon this project and his ‘‘World
+Wireless System” had never been realized, though he had obtained
+a patent for the aerial tower (US1119732).
+    In 1899 and 1900 Tesla ﬁled a smaller number of applications,
+but the US Patent Ofﬁce insisted on having them divided, so that
+the number of ﬁled applications in 1899 increased from 2 to 4,
+and in 1900 from 4 to 6 applications. In the following year, Tesla
+ﬁled two applications, and in 1902 only one. In the beginning of
+the speciﬁed period, most applications dealt with high frequency                 Fig. 6. Tesla’s only trademark ‘‘Factor Auctus”. Source, with permission, Nikola
+alternating currents and electric circuit controllers. Later, Tesla fo-          Tesla Museum, MNT, DXXVII, 159, 18.
+cussed more on radio and remote control, and electrical energy
+transmission through natural media. With this series of patents,
+                                                                                 hand, he made more money from his speed indicator
+Tesla’s activity on ﬁling patent applications from the ﬁeld of elect-
+                                                                                 (US1209359 and US1274816) sold to the Waltham Watch Co.,
+rotechnics, ended [12].
+                                                                                 but it was insufﬁcient for him to start new research on a bigger
+    After Wardenclyffe Tesla’s interests changed signiﬁcantly, so his
+                                                                                 scale [15].
+next patent application in the USA, that he ﬁled in 1909, was from
+                                                                                     A sharp increase in the number of patent applications ﬁled, fol-
+the ﬁeld of mechanical engineering, but it had to be divided into
+                                                                                 lowed in 1916, when a total of six applications were ﬁled, for
+two separate applications – one for the Tesla pump and the other
+                                                                                 inventions including a lightning protector (US1266175), a valvular
+for the Tesla turbine (US1061142 and US1061206). He was trying
+                                                                                 conduit (US1329559), a ﬂow meter (US1365547), a fountain
+to make money for further research and had great expectations
+                                                                                 (US113716) and others.
+regarding these inventions. Therefore he protected them in 22
+                                                                                     The last two applications for which he acquired patents, the one
+countries including the US, though he had planned to protect them
+                                                                                 being a continuation in part of the ﬁrst one, Tesla ﬁled in 1921 and
+in another seven patent granting countries such as Germany,
+                                                                                 1927 and received patents in 1928, the subject of which was verti-
+Russia, Portugal, etc. Unfortunately, expected commercial success
+                                                                                 cal take-off and landing aircraft. Though the idea underlying the
+failed to materialize, but it is worth mentioning that Tesla pumps
+                                                                                 inventions disclosed in these patents was brilliant, its realization
+have been used commercially since 1980 [13,14]. On the other
+                                                                                 was not feasible and had to wait until the 1950s.
+                                                                                     According to the current list, Tesla had 112 registered US pat-
+                                                                                 ents. Based on comparison of this list to other available sources,
+                                                                                 it is author’s oppinion that this is the ﬁnal number of Tesla’s US
+                                                                                 patents [16,17]. The appropriate list is given in Appendix I.1 Tesla’s
+                                                                                 inventions are divided into the following ﬁve groups: (i) DC devices,
+                                                                                 (ii) AC power systems, (iii) high-frequency devices, (iv) wireless
+                                                                                 transmission and (v) mechanical engineering (this group also con-
+                                                                                 tains a couple of inventions that do not belong to any of the four pre-
+                                                                                 viously mentioned groups) [18].
+                                                                                     During the 1920s and 1930s Tesla cooperated with Bud Co. on
+                                                                                 the production of automobile motors, then investigated production
+                                                                                 and processing of sulphur, iron and copper proposing improve-
+                                                                                 ments therein and even proposed development of a defensive
+                                                                                 weapon known as ‘‘death rays”, changing somewhat his reputation
+                                                                                 from ‘‘eccentric genious” to ‘‘mad scientist”. Later he was working
+                                                                                 on a bird feed composition and in 1938 obtained a trademark ‘‘Fac-
+                                                                                 tor Auctus” (US trademark No. 372906) therefor (shown in Fig. 6)
+                                                                                 [19].
+                                                                                     Like Edison, Tesla was never awarded the Nobel Prize, in spite of
+                                                                                 rumours that he was nominated several times. On the other hand,
+                                                                                 Tesla was awarded the prestigious Edison Medal by the American
+                                                                                 Institute of Electrical Engineers in 1916 for his work on polyphase
+                                                                                 and high-frequency electrical currents [20]. In 1931, Tesla was put
+                                                                                 on the cover of the Time magazine on the occasion of his 75th
+                                                                                 birthday [21].
+
+
+                                                                                   1
+Fig. 5. Photo of Wardenclyffe Tower. Source, with permission, Nikola Tesla           Editor’s note: Appendix I and Appendix II are only available in the electronic
+Museum, MNT, VI/IV, 30.                                                          version of this short communication, on ScienceDirect.
+
+===== PAGE 0004 =====
+
+338                                                S. Šarboh / World Patent Information 32 (2010) 335–339
+
+
+   As Tesla was getting old, his ﬁnancial situation was getting                 Table 1
+worse. He had to move from Waldorf-Astoria Hotel to New Yorker                  Overview of Tesla’s patents in countries other than the US with appropriate ﬁelds of
+                                                                                technology.
+Hotel, where he lived on a modest pension granted to him by the
+Kingdom of Yugoslavia. He died of heart failure at the age of 86.                  Country                    Number of patents         Field of technology
+   A couple of months after his death the US Supreme Court up-                     Argentina                  1                         Mechanical Engineering
+held Tesla’s radio patents US645576 amd US649621 establishing                      Australia                  1                         Mechanical Engineering
+Tesla over Marconi to be the inventor of wireless telegraphy, i.e.,                Austria                    4                         High-Frequency Devices
+                                                                                                                                        Mechanical Engineering
+radio [22].                                                                        Belgium                    24                        All Above Mentioned
+                                                                                   Brasil                     2                         Wireless Transmission
+                                                                                                                                        Mechanical Engineering
+3. Tesla’s patenting activities outside the US                                     Canada                     7                         All Above Mentioned
+                                                                                   Cuba                       1                         Mechanical Engineering
+                                                                                   Denmark                    3                         Mechanical Engineering
+    In addition to the United States, Nikola Tesla also protected his              France                     29                        All Above Mentioned
+inventions in other countries. Contrary to the list speciﬁed above,                Germany                    21                        All Above Mentioned
+the work to establish a corresponding list of Tesla’s patents in                   Great Britain              29                        All Above Mentioned
+countries other than the United States, has not been ﬁnished yet.                  Hungary                    7                         High-Frequency Devices
+                                                                                                                                        Wireless Transmission
+    Tesla had most approved patents in Great Britain and France –
+                                                                                                                                        Mechanical Engineering
+29 in each country, and a little surprising is the fact that he had                India                      1                         Mechanical Engineering
+24 patents in Belgium, while having 21 patents in Germany (4 of                    Italy                      12                        All Above Mentioned
+them covering AC power system being revoked [23]) and 12 in                        Japan                      1                         Mechanical Engineering
+                                                                                   Mexico                     1                         Mechanical Engineering
+Italy. Tesla had a signiﬁcantly lower number of granted patents
+                                                                                   New Southern Wales         2                         High-Frequency Devices
+in other countries.                                                                                                                     Wireless Transmission
+    The general opinion was that on the list of Tesla’s patents ap-                New Zealand                1                         Mechanical Engineering
+proved in countries other than the United States, ‘‘there were no                  Norway                     3                         Mechanical Engineering
+patents from the ﬁeld of AC power systems and that the ﬁrst pat-                   Rhodesia                   1                         Mechanical Engineering
+                                                                                   Russia                     4                         High-Frequency Devices
+ents refer to Tesla’s arcing oscillator, from 1891” [24]. However,
+                                                                                                                                        Wireless Transmission
+analyzing the new list of patents Tesla registered in countries other              Spain                      6                         Wireless Transmission
+than the United States, that is given in Appendix II, it is obvious                                                                     Mechanical Engineering
+that the real situation is essentially different [25,26]. Tesla already            Sweden                     4                         Mechanical Engineering
+                                                                                   Switzerland                4                         Wireless Transmission
+began to ﬁle patent applications in countries other than the US
+                                                                                                                                        Mechanical Engineering
+1 year after he ﬁled his ﬁrst patent application in the United States.             Transvaal                  1                         Mechanical Engineering
+His ﬁrst patent applications outside the US, Tesla ﬁled both in                    Victoria                   2                         High-Frequency Devices
+Great Britain and Germany on February 9th 1886, for improve-                                                                            Wireless Transmission
+ments in electric arc lamps and received patents GB1877/1886
+and DE37781, respectively, and shortly after he ﬁled a patent appli-
+cation for the same invention in Canada (CA24338). In 1888, he be-
+gan to protect his inventions related to polyphase alternating                      Starting from the assumption that Tesla ﬁrst ﬁled patent appli-
+currents and corresponding motors and generators, in Germany                    cations for his inventions in the United States, and only after that in
+and France, and in the following year in Belgium, too. This com-                other countries, it had to be determined which patents from coun-
+pletely changes all we know about Tesla’s activities related to the             tries other than the US corresponded to which US patents, that is,
+protection of his inventions outside the United States, and shows               for which US patents they are equivalents. It is obvious that Tesla
+that these activities began 5 years earlier than it had been previ-             often joined a number of his US patent applications into a single
+ously thought. Also surprising is the scope of his activities. Namely,          patent application intended for ﬁling in other country or countries,
+between 1886 and 1890, Tesla ﬁled applications in the speciﬁed                  in order to reduce the costs of invention protection. Some of the
+countries and received a total of 28 patents.                                   patent applications are joined together in complete form, as it is
+    Tesla’s activity related to the protection of his inventions in             the case, for example with the patent applications for which he
+countries other than the US covers the period from 1886 to 1922,                was approved patents US336961 and US336962 that correspond
+which means that it lasted 36 years, 7 years less than in the United            to GB2975/1886, DE37103 and CA24033, while with other joined
+States.                                                                         patent applications, only some of their parts were included, as is
+    Tesla’s patents outside the US are divided in the same way as his           the case with applications referring to patents US685953,
+US patents [18]. Table 1 provides an overview of Tesla’s foreign                US685954, US685955, US685956, US685957 and US685958 that
+patents.                                                                        correspond to GB11293/1901 and FR311629. The biggest number
+    Regarding the content of these patents, it is dictated by the fact          of US patent applications that Tesla joined into a single application
+that each patent is territorially limited, i.e., it is valid only for one       for foreign countries was seven and referred to electrical circuit
+country, being the reason why Tesla had to ﬁle a separate applica-              controllers (such as DE109865, FR 279362, and BE136606).
+tion in each country where he wanted to protect his inventions. It                  Analyzing Tesla’s patents in countries outside the US revealed
+is also necessary to keep in mind that the Paris Convention was                 two surprising facts. First, not all of Tesla’s US patents are the basic
+signed in 1883 only by 11 members (one of its founders was the                  patents. Namely, Tesla ﬁrst ﬁled the patent application concerning
+Kingdom of Serbia) preventing Tesla from using the right of prior-              method of and apparatus for aerial transportation in Great Britain,
+ity in most cases [27,28].                                                      on April 4th 1921, and about 5 months after he ﬁled the same
+    For this reason Tesla’s patent families are non-conventional, be-           application in the United States, and therefore the British patent
+cause they are linked together solely by covering the same inven-               GB185446, and not the US1655113, is the basic patent. Second,
+tions. Patents granted on the basis of the ﬁrst application among               for another six British patents from that period, there are no corre-
+the members of the patent family will be referred as ‘‘basic patent”            sponding US patents, because Tesla did not ﬁle any patent applica-
+and the remaining members of the patent family as ‘‘equivalent                  tions for them at all, or because the US Patent Ofﬁce rejected his
+patents”, or brieﬂy ‘‘equivalents” [29–31].                                     applications. It is interesting that the subjects of the mentioned
+
+===== PAGE 0005 =====
+
+S. Šarboh / World Patent Information 32 (2010) 335–339                                                        339
+
+
+British patents are Tesla’s inventions from the ﬁeld of mechanical                      [11] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p.
+                                                                                             171.
+engineering, and these are the following ones: GB179043,
+                                                                                        [12] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+GB179544, GB186082, GB186083, GB186084, and GB186799                                         Belgrade: Nikola Tesla Museum; 2007. p. 24.
+[32,33].                                                                                [13] Tesla turbine. <http://en.wikipedia.org/wiki/Tesla_turbine#cite_note-3>.
+    By analyzing the available data, it has been determined that                        [14] History of discﬂo and the disc pump technology. <http://www.discﬂo.com/
+                                                                                             history.htm>.
+Nikola Tesla received 284 patents in 27 different countries.                            [15] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+Namely, he had 116 basic patents, i.e., 109 US patents and seven                             Belgrade: Nikola Tesla Museum; 2007. p. 119–27.
+patents from Great Britain. With these 116 patents, Tesla protected                     [16] Jim Glenn, editor. The complete patents of Nikola Tesla. New York: Barnes and
+                                                                                             Noble; 1991.
+a total of 125 different inventions. The rest of his patents, that is                   [17] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+168 patents, are only the equivalents of the basic patents. The                              Belgrade: Nikola Tesla Museum; 2007. p. 97.
+inventions Tesla had protected in the most countries are his pump                       [18] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+                                                                                             Belgrade: Nikola Tesla Museum; 2007. p. 31–2.
+and turbine. On the other hand, even 54 of Tesla’s basic patents do                     [19] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+not have equivalents in other countries, and it should be noted that                         Belgrade: Nikola Tesla Museum; 2007. p. 104.
+all of them are US patents [34].                                                        [20] James E. Brittain. Electrical engineering hall of fame: Nikola Tesla. In:
+                                                                                             Proceedings of the IEEE 92; 2005. p. 1057–59.
+                                                                                        [21] Nikola Tesla. <http://www.time.com/time/covers/0,16641,19310720,00.html>.
+4. Conclusion                                                                           [22] Marconi Wireless Telegraph Company of America v. The United States, The
+                                                                                             United States v. Marconi Wireless Telegraph Company of America. Decisions of
+                                                                                             the Supreme Court of the United States, The Ofﬁcial Gazette of the United
+   From the data available, it is the author’s opinion that the list of                      States Patent Ofﬁce Vol.556-No.3; 1943. p. 339–63.
+Tesla’s basic patents is ﬁnal, as well as the list of inventions that                   [23] Snežana Šarboh. ‘Nemački patenti Nikole Tesle (in English: Nikola Tesla’s
+                                                                                             German patents), Intellectual Property Gazette 2/2008 (2008), p. 537–39.
+Tesla’s had protected by basic patents. However, as far as the cor-                     [24] Katalog Teslinih patenata – the catalog of Tesla’s patents. Belgrade: Nikola
+responding equivalents are concerned, the situation is different                             Tesla Museum; 1987.
+and there is still a possibility that Tesla’s previously unknown pat-                   [25] Snežana Šarboh. Patenti Nikole Tesle registrovani u drugim zemljama osim
+                                                                                             SAD (in English: Nikola Tesla’s patents registered in countries other than the
+ents could be discovered in some countries. For example, it has                              United States), Intellectual Property Gazette 2/03 (2003), p. 437–49.
+been mentioned that Tesla had 29 patents each in Great Britain                          [26] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+and France, which generally protected the same inventions. On                                Belgrade: Nikola Tesla Museum; 2007. p. 45–6.
+                                                                                        [27] Snežana Šarboh. Prava industrijske svojine u Srbiji kroz praksu Zavoda za
+the other hand, comparing these patents to each other, it can be                             intelektualnu svojinu (in English: industrial property rights in the practice of
+seen that they do not always have the same invention as a subject,                           the intellectual property ofﬁce). In: Proceedings of Zlatiborski dani prava;
+and therefore it has not yet been ensured whether Tesla had pro-                             2009. p. 180.
+                                                                                        [28] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+tected his fountain, lightning protector and valvular conduit in
+                                                                                             Belgrade: Nikola Tesla Museum; 2007. p. 18.
+Great Britain, for which he had patents in France. There is also a                      [29] Basic     patent     deﬁnition.     <http://www.hjventures.com/patent/Basic-
+possibility that Tesla protected some of his ﬁrst inventions con-                            Patent.html>.
+cerning electric arc lamps or regulators for dynamo-electric ma-                        [30] Glossary of terms concerning industrial property information and
+                                                                                             documentation.       <http://www.wipo.int/export/sites/www/scit/en/taskfrce/
+chines in France and probably in Belgium, which leaves space for                             handbook/docs/rev_pat_fam.doc>.
+further research. However, it is also author’s opinion that the num-                    [31] Using Derwent. <http://www.delphion.com/help/using_derwent>.
+ber of undiscovered equivalents is relatively small, but adding                         [32] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+                                                                                             Belgrade: Nikola Tesla Museum; 2007. p. 65.
+these patents to the available data is worth the effort.                                [33] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+                                                                                             Belgrade: Nikola Tesla Museum; 2007. p. 86.
+                                                                                        [34] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.
+Appendix A. Supplementary data                                                               Belgrade: Nikola Tesla Museum; 2007. p. 88.
+
+
+   Supplementary data associated with this article can be found, in                     Websites
+the online version, at doi:10.1016/j.wpi.2009.11.001.
+                                                                                         [35] Republic of Serbia Intellectual Property Ofﬁce at www.zis.gov.rs.
+                                                                                         [36] Nikola Tesla Autobiography at <http://www.teslaplay.com/autobody.htm>.
+References                                                                               [37] Nikola Tesla Museum at <http://www.tesla-museum.org>.
+
+ [1] Nikola Tesla. My inventions: the autobiography of Nikola Tesla. New York:
+     Filiquarian Publishing; 2006.
+                                                                                                                    Snežana Šarboh, M.Sc. (Belgrade, 1963), chief of
+ [2] Jelenković V. Towards a deﬁnitive catalogue of the patents of Nikola Tesla.
+                                                                                                                    Mechanical Engineering Department in Intellectual
+     World Patent Information, in press. doi:10.1016/j.wpi.2009.07.005.
+ [3] Snežana Šarboh. The patents of Nikola Tesla: towards the deﬁnite catalog.                                     Property Ofﬁce of Serbia. She has been investigating
+     Belgrade: Nikola Tesla Museum; 2007. p. 21.                                                                    Nikola Tesla’s life and activities on protection of his
+ [4] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p. 50–1.                                numerous inventions in last 17 years. Author of a book
+ [5] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p. 53.                                  ‘‘The Patents of Nikola Tesla – Towards the Deﬁnite
+ [6] Robert Belﬁeld. The Niagara system: the evolution of an electric power                                         Catalog” that contains extensive lists of Tesla’s US and
+     complex at Niagara Falls, 1883–1896. In: Proc IEEE 1976;64:1344–50.                                            foreign patents. She continues her research in cooper-
+ [7] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p. 58–                                  ation with the Nikola Tesla Museum in Belgrade.
+     63.
+ [8] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p. 89–
+     94.
+ [9] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p.
+     116–7.
+[10] Margaret Cheney. Tesla: man out of time. Belgrade: Samizdat B92; 2003. p.
+     150.
