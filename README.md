@@ -1,5 +1,12 @@
 # Tesla Research Library
 
+## Interactive model
+
+Open `index.html` in a browser to explore the first teaching model: Tesla's AC
+induction motor. The self-contained page visualizes the two phase currents,
+rotating resultant field, rotor slip, frequency, pole count, load, and phase
+reversal without requiring a build step.
+
 A public, GitHub-native text archive of the Tesla material collected on this
 machine. The repository keeps readable text exports, page markers, source
 metadata, evidence tiers, rights notes, checksums, and lightweight maintenance

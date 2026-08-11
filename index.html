@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive, source-grounded model of Tesla's AC induction motor.">
+  <title>Tesla Field Notes — AC Motor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Tesla Field Notes home">
+      <span class="brand-mark" aria-hidden="true">T</span>
+      <span><strong>Tesla Field Notes</strong><small>Working models of the invisible</small></span>
+    </a>
+    <nav aria-label="Page sections">
+      <a href="#model">Model</a>
+      <a href="#principle">Principle</a>
+      <a href="#sources">Sources</a>
+    </nav>
+    <span class="issue">MODEL 01 / AC MOTOR</span>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">THE IDEA THAT MADE AC MOVE</p>
+        <h1>A magnetic field<br>that <em>turns itself.</em></h1>
+        <p class="lede">Two alternating currents, timed apart, create a magnetic pull that sweeps around a stationary ring. Put a conducting rotor inside and it follows—without a wire touching it.</p>
+        <a class="primary-link" href="#model">Open the motor <span aria-hidden="true">↓</span></a>
+      </div>
+      <div class="hero-orbit" aria-hidden="true">
+        <svg viewBox="0 0 520 520">
+          <circle class="orbit-dash" cx="260" cy="260" r="205"/>
+          <circle class="orbit-thin" cx="260" cy="260" r="152"/>
+          <g class="hero-rotor">
+            <circle class="orbit-core" cx="260" cy="260" r="102"/>
+            <path d="M260 145 L277 234 L365 260 L277 286 L260 375 L243 286 L155 260 L243 234 Z"/>
+          </g>
+          <g class="coil-dots">
+            <circle cx="260" cy="55" r="7"/><circle cx="465" cy="260" r="7"/>
+            <circle cx="260" cy="465" r="7"/><circle cx="55" cy="260" r="7"/>
+          </g>
+        </svg>
+        <span class="orbit-label label-field">ROTATING FIELD</span>
+        <span class="orbit-label label-speed">NO COMMUTATOR</span>
+      </div>
+    </section>
+
+    <section class="lab" id="model">
+      <div class="section-heading">
+        <div><p class="eyebrow">LIVE MODEL</p><h2>See the field do the work.</h2></div>
+        <p>This is a teaching model: it preserves the essential relationships while leaving out most motor geometry and losses.</p>
+      </div>
+
+      <div class="lab-shell">
+        <aside class="controls" aria-label="Motor controls">
+          <div class="control-topline"><span>INPUTS</span><button id="resetBtn" class="text-button" type="button">Reset</button></div>
+          <label class="control">
+            <span><b>Supply frequency</b><output id="frequencyOut">50 Hz</output></span>
+            <input id="frequency" type="range" min="10" max="100" step="1" value="50">
+            <small>How quickly the current alternates</small>
+          </label>
+          <label class="control">
+            <span><b>Pole pairs</b><output id="polesOut">1 pair</output></span>
+            <input id="poles" type="range" min="1" max="4" step="1" value="1">
+            <small>More poles make the field turn slower</small>
+          </label>
+          <label class="control">
+            <span><b>Mechanical load</b><output id="loadOut">35%</output></span>
+            <input id="load" type="range" min="0" max="100" step="1" value="35">
+            <small>More load requires more slip</small>
+          </label>
+          <div class="control-actions">
+            <button id="playBtn" class="play-button" type="button"><span aria-hidden="true">Ⅱ</span> Pause</button>
+            <button id="directionBtn" class="direction-button" type="button" aria-pressed="false">↻ Reverse phases</button>
+          </div>
+          <div class="legend" aria-label="Diagram legend">
+            <span><i class="key key-a"></i>Phase A</span>
+            <span><i class="key key-b"></i>Phase B</span>
+            <span><i class="key key-field"></i>Resulting field</span>
+            <span><i class="key key-rotor"></i>Rotor</span>
+          </div>
+        </aside>
+
+        <div class="motor-stage">
+          <div class="stage-topline"><span>SIMPLIFIED 2-PHASE INDUCTION MOTOR</span><span id="timeReadout">t = 0.00 s</span></div>
+          <canvas id="motorCanvas" role="img" aria-label="Animated top view of a two-phase induction motor with a rotating magnetic field and following rotor"></canvas>
+          <div class="phase-strip" aria-label="Alternating current waveforms">
+            <div><span class="phase-name phase-a">A</span><svg id="waveA" viewBox="0 0 260 48" preserveAspectRatio="none"><path class="wave-axis" d="M0 24H260"/><path class="wave-line-a"/></svg><output id="currentA">+1.00</output></div>
+            <div><span class="phase-name phase-b">B</span><svg id="waveB" viewBox="0 0 260 48" preserveAspectRatio="none"><path class="wave-axis" d="M0 24H260"/><path class="wave-line-b"/></svg><output id="currentB">0.00</output></div>
+          </div>
+        </div>
+
+        <aside class="readouts" aria-label="Motor readouts">
+          <span class="readout-title">WHAT THE ROTOR FEELS</span>
+          <div class="metric"><small>Field speed</small><strong id="syncSpeed">3,000</strong><span>RPM</span></div>
+          <div class="metric"><small>Rotor speed</small><strong id="rotorSpeed">2,895</strong><span>RPM</span></div>
+          <div class="metric accent"><small>Slip</small><strong id="slipOut">3.5</strong><span>%</span></div>
+          <p id="explanation">The field is moving slightly faster than the rotor. That difference induces current in the rotor bars—and creates torque.</p>
+          <div class="formula"><span>field speed</span><b>60 × Hz<br>────────<br> pole pairs</b></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="principle" id="principle">
+      <div class="section-heading">
+        <div><p class="eyebrow">THE PRINCIPLE, IN THREE MOVES</p><h2>Electric rhythm becomes rotation.</h2></div>
+      </div>
+      <ol class="steps">
+        <li><span class="step-number">01</span><div class="step-icon two-coils" aria-hidden="true"><i></i><i></i></div><h3>Offset the currents</h3><p>Phase B peaks a quarter-cycle after phase A. Each phase energizes a coil set mounted at right angles.</p></li>
+        <li><span class="step-number">02</span><div class="step-icon field-sweep" aria-hidden="true"><i></i></div><h3>Combine the fields</h3><p>The two magnetic pushes add into one field of nearly constant strength whose direction turns continuously.</p></li>
+        <li><span class="step-number">03</span><div class="step-icon rotor-follow" aria-hidden="true"><i></i></div><h3>Let the rotor chase</h3><p>The moving field induces rotor current. Its magnetic reaction produces torque; the rotor must lag to keep induction happening.</p></li>
+      </ol>
+      <blockquote>
+        <p>“A rapid whirling of the poles in harmony with the rotation of the armature is the result.”</p>
+        <cite>Nikola Tesla, A New System of Alternate Current Motors and Transformers, 1888</cite>
+      </blockquote>
+    </section>
+
+    <section class="sources" id="sources">
+      <div><p class="eyebrow">MODEL NOTES</p><h2>What is real.<br>What is simplified.</h2></div>
+      <div class="notes-grid">
+        <article><span>KEPT</span><h3>The core relationships</h3><p>Phase offset creates a rotating resultant field. Synchronous speed depends on frequency and pole count. Rotor slip enables induction and increases with load.</p></article>
+        <article><span>SIMPLIFIED</span><h3>The motor geometry</h3><p>The visualization uses two ideal phases and a symbolic rotor. Real motors distribute windings through slots and include resistance, reactance, saturation, and mechanical losses.</p></article>
+        <article class="source-card"><span>PRIMARY SOURCE</span><h3>Tesla’s 1888 AIEE paper</h3><p>Reprinted in Thomas Commerford Martin’s 1894 public-domain collection held in this repository.</p><a href="library/public-domain/martin-inventions-researches-1894.txt">Read the source →</a></article>
+      </div>
+    </section>
+  </main>
+
+  <footer><span>Tesla Field Notes</span><p>Model 01 · Built for understanding, checked against primary sources.</p><a href="#top">Back to top ↑</a></footer>
+  <script src="app.js"></script>
+</body>
+</html>
